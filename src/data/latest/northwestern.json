@@ -1,0 +1,110 @@
+{
+ "slug": "northwestern",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 52676,
+  "admitted": 3933,
+  "enrolled": 2139,
+  "doc": "Northwestern University Common Data Set 2025-2026, C1 (25,258 men + 27,390 women + 28 unknown applied; 1,828 + 2,105 admitted; 1,000 + 1,139 enrolled)",
+  "url": "https://enrollment.northwestern.edu/data/2025-2026.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1520,
+   1540,
+   1560
+  ],
+  "satEbrw": [
+   740,
+   760,
+   770
+  ],
+  "satMath": [
+   770,
+   790,
+   790
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.48,
+  "pctAct": 0.25,
+  "doc": "CDS 2025-2026, C9 (1,026 SAT submitters, 533 ACT submitters)",
+  "url": "https://enrollment.northwestern.edu/data/2025-2026.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Northwestern is test-optional and does not require ACT or SAT scores from first-year or transfer candidates. Applying without an SAT or ACT score will not impact the review or chances of admission. Scores may be self-reported; admitted students who included scores must send official scores before matriculation. CDS 2025-26 C8 lists SAT or ACT as 'not required for admission, considered if submitted' for Fall 2027.",
+  "since": null,
+  "url": "https://admissions.northwestern.edu/faqs/standardized-testing-policy/index.html",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 left blank by Northwestern",
+  "url": "https://enrollment.northwestern.edu/data/2025-2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71802,
+  "fees": 1260,
+  "housingFood": 22941,
+  "books": 1239,
+  "personal": 2079,
+  "travel": "varies",
+  "total": 99375,
+  "totalIncludes": "on-campus estimate: tuition 71,802 + fees 1,260 + on-campus housing and meals 22,941 (direct, billed) + books and supplies 1,239 + personal expenses 2,079 + loan fees 54 = 99,375. Transportation is listed as 'varies' and is not in the total.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://undergradaid.northwestern.edu/how-aid-works/cost-of-attendance/index.html",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Most families making less than $150K per year attend Northwestern tuition-free. Northwestern meets 100% of demonstrated need with scholarships, grants and work-study, without loans (loan-free policy). Aid is strictly need-based.",
+  "year": "current policy as published in 2026 (year of start not stated on the page)",
+  "url": "https://undergradaid.northwestern.edu/how-aid-works/keeping-northwestern-affordable.html"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1, 2026 (Early Decision, decision mid-December 2026)",
+   "regular": "January 4, 2027 (decision March 2027)"
+  },
+  "url": "https://admissions.northwestern.edu/apply/application-deadlines.html"
+ },
+ "facts": [
+  {
+   "text": "Early Decision admitted 1,212 of 5,939 applicants for fall 2025 (about 20%), against 3,933 of 52,676 overall (about 7.5%); ED admits were about 31% of all admits.",
+   "url": "https://enrollment.northwestern.edu/data/2025-2026.pdf"
+  },
+  {
+   "text": "Northwestern has a single binding Early Decision round (November 1) and Regular Decision (January 4); there is no Early Action and no Early Decision II.",
+   "url": "https://admissions.northwestern.edu/apply/application-deadlines.html"
+  },
+  {
+   "text": "Most families earning under $150,000 a year attend tuition-free, and need is met without loans.",
+   "url": "https://undergradaid.northwestern.edu/how-aid-works/keeping-northwestern-affordable.html"
+  },
+  {
+   "text": "The 2026-27 on-campus cost of attendance is $99,375 before transportation, with tuition of $71,802 billed by the quarter.",
+   "url": "https://undergradaid.northwestern.edu/how-aid-works/cost-of-attendance/index.html"
+  },
+  {
+   "text": "Testing stays optional for fall 2027 applicants; 48% of fall 2025 entrants submitted the SAT (middle 50% 1520-1560).",
+   "url": "https://admissions.northwestern.edu/faqs/standardized-testing-policy/index.html"
+  },
+  {
+   "text": "167 students were admitted from the waiting list for fall 2025.",
+   "url": "https://enrollment.northwestern.edu/data/2025-2026.pdf"
+  }
+ ],
+ "notes": "CDS 2025-26 opened and read (C1, C2, C8, C9, C21, C22, G1, G5). Northwestern did not fill C12 (GPA), the C1 residency split, or the number offered a waitlist place. CDS C21 ED dates 11/1 and 12/15; the 2026-27 deadlines page gives November 1, 2026 and January 4, 2027. Cost page shows no year label but its figures are identical to CDS G1 for 2026-2027. No official Class of 2030 figures checked (web search budget exhausted); cycleNewer null. Start date of the test-optional policy not stated on the page."
+}

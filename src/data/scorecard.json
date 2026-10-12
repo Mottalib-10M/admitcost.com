@@ -1,0 +1,5196 @@
+{
+ "meta": {
+  "source": "U.S. Department of Education, College Scorecard, Most Recent Institution-Level Data",
+  "released": "2026-06-10",
+  "url": "https://collegescorecard.ed.gov/data/",
+  "years": {
+   "admissions": "fall 2024",
+   "tuition": "2024-25",
+   "coa": "2023-24",
+   "net": "2023-24",
+   "grad": "fall 2018 entering cohort",
+   "retention": "fall 2023 entering cohort",
+   "debt": "students who finished in 2019-20 and 2020-21",
+   "earnings": "measured 2020-2021, 10 years after entry, 2022 dollars"
+  },
+  "incomeBands": [
+   "$0-$30,000",
+   "$30,001-$48,000",
+   "$48,001-$75,000",
+   "$75,001-$110,000",
+   "$110,001 and up"
+  ]
+ },
+ "schools": [
+  {
+   "unitid": 166027,
+   "slug": "harvard",
+   "short": "Harvard",
+   "name": "Harvard University",
+   "ipedsName": "Harvard University",
+   "city": "Cambridge",
+   "state": "MA",
+   "control": "private",
+   "url": "www.harvard.edu/",
+   "npcUrl": "college.harvard.edu/financial-aid/net-price-calculator",
+   "admRate": 0.0365,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    36
+   ],
+   "satAvg": 1553,
+   "undergrads": 7601,
+   "tuitionIn": 61676,
+   "tuitionOut": 61676,
+   "coa": 85540,
+   "roomBoard": 21190,
+   "books": 1000,
+   "other": 5449,
+   "netAvg": 19066,
+   "netByIncome": [
+    8697,
+    2991,
+    2091,
+    9941,
+    53337
+   ],
+   "pell": 0.1643,
+   "grad6": 0.9758,
+   "retention": 0.983,
+   "debt": 14000,
+   "earn10": 101817
+  },
+  {
+   "unitid": 130794,
+   "slug": "yale",
+   "short": "Yale",
+   "name": "Yale University",
+   "ipedsName": "Yale University",
+   "city": "New Haven",
+   "state": "CT",
+   "control": "private",
+   "url": "https://www.yale.edu/",
+   "npcUrl": "https://admissions.yale.edu/estimate-your-cost",
+   "admRate": 0.0387,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    780
+   ],
+   "satMath": [
+    740,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1534,
+   "undergrads": 6758,
+   "tuitionIn": 67250,
+   "tuitionOut": 67250,
+   "coa": 88300,
+   "roomBoard": 19900,
+   "books": 1000,
+   "other": 3800,
+   "netAvg": 23777,
+   "netByIncome": [
+    17633,
+    15626,
+    17943,
+    12558,
+    45951
+   ],
+   "pell": 0.2039,
+   "grad6": 0.9574,
+   "retention": 0.9878,
+   "debt": 12975,
+   "earn10": 100533
+  },
+  {
+   "unitid": 186131,
+   "slug": "princeton",
+   "short": "Princeton",
+   "name": "Princeton University",
+   "ipedsName": "Princeton University",
+   "city": "Princeton",
+   "state": "NJ",
+   "control": "private",
+   "url": "www.princeton.edu/",
+   "npcUrl": "https://admission.princeton.edu/cost-aid/financial-aid-estimator",
+   "admRate": 0.0462,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1553,
+   "undergrads": 5709,
+   "tuitionIn": 62688,
+   "tuitionOut": 62688,
+   "coa": 84040,
+   "roomBoard": 20250,
+   "books": 1050,
+   "other": 3900,
+   "netAvg": 6128,
+   "netByIncome": [
+    41,
+    352,
+    1217,
+    4478,
+    36094
+   ],
+   "pell": 0.1924,
+   "grad6": 0.9761,
+   "retention": 0.9835,
+   "debt": 10320,
+   "earn10": 110066
+  },
+  {
+   "unitid": 190150,
+   "slug": "columbia",
+   "short": "Columbia",
+   "name": "Columbia University",
+   "ipedsName": "Columbia University in the City of New York",
+   "city": "New York",
+   "state": "NY",
+   "control": "private",
+   "url": "www.columbia.edu/",
+   "npcUrl": "cc-seas.financialaid.columbia.edu/estimate-cost",
+   "admRate": 0.0399,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1553,
+   "undergrads": 8973,
+   "tuitionIn": 71845,
+   "tuitionOut": 71845,
+   "coa": 89472,
+   "roomBoard": 17580,
+   "books": 1440,
+   "other": 1508,
+   "netAvg": 21590,
+   "netByIncome": [
+    4570,
+    2275,
+    5866,
+    11782,
+    50621
+   ],
+   "pell": 0.2271,
+   "grad6": 0.961,
+   "retention": 0.98,
+   "debt": 21500,
+   "earn10": 102491
+  },
+  {
+   "unitid": 215062,
+   "slug": "upenn",
+   "short": "Penn",
+   "name": "University of Pennsylvania",
+   "ipedsName": "University of Pennsylvania",
+   "city": "Philadelphia",
+   "state": "PA",
+   "control": "private",
+   "url": "www.upenn.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/upenn",
+   "admRate": 0.054,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    36
+   ],
+   "satAvg": 1553,
+   "undergrads": 10650,
+   "tuitionIn": 68686,
+   "tuitionOut": 68686,
+   "coa": 89028,
+   "roomBoard": 19174,
+   "books": 1358,
+   "other": 3070,
+   "netAvg": 28699,
+   "netByIncome": [
+    -3012,
+    316,
+    10439,
+    25476,
+    55972
+   ],
+   "pell": 0.1653,
+   "grad6": 0.9654,
+   "retention": 0.9888,
+   "debt": 15715,
+   "earn10": 111371
+  },
+  {
+   "unitid": 217156,
+   "slug": "brown",
+   "short": "Brown",
+   "name": "Brown University",
+   "ipedsName": "Brown University",
+   "city": "Providence",
+   "state": "RI",
+   "control": "private",
+   "url": "www.brown.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/brown",
+   "admRate": 0.0539,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1546,
+   "undergrads": 7226,
+   "tuitionIn": 71412,
+   "tuitionOut": 71412,
+   "coa": 87648,
+   "roomBoard": 17444,
+   "books": 0,
+   "other": 2820,
+   "netAvg": 25184,
+   "netByIncome": [
+    -420,
+    2031,
+    5858,
+    16219,
+    44937
+   ],
+   "pell": 0.1384,
+   "grad6": 0.9569,
+   "retention": 0.9882,
+   "debt": 11428,
+   "earn10": 93487
+  },
+  {
+   "unitid": 182670,
+   "slug": "dartmouth",
+   "short": "Dartmouth",
+   "name": "Dartmouth College",
+   "ipedsName": "Dartmouth College",
+   "city": "Hanover",
+   "state": "NH",
+   "control": "private",
+   "url": "https://dartmouth.edu/",
+   "npcUrl": "https://admissions.dartmouth.edu/afford/estimate-your-cost",
+   "admRate": 0.054,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    760,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1534,
+   "undergrads": 4541,
+   "tuitionIn": 68268,
+   "tuitionOut": 68268,
+   "coa": 87793,
+   "roomBoard": 19999,
+   "books": 1005,
+   "other": 2040,
+   "netAvg": 29519,
+   "netByIncome": [
+    41,
+    489,
+    2695,
+    8534,
+    52036
+   ],
+   "pell": 0.1435,
+   "grad6": 0.9554,
+   "retention": 0.9842,
+   "debt": 17500,
+   "earn10": 97434
+  },
+  {
+   "unitid": 190415,
+   "slug": "cornell",
+   "short": "Cornell",
+   "name": "Cornell University",
+   "ipedsName": "Cornell University",
+   "city": "Ithaca",
+   "state": "NY",
+   "control": "private",
+   "url": "www.cornell.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/cornell",
+   "admRate": 0.0876,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1535,
+   "undergrads": 15995,
+   "tuitionIn": 69314,
+   "tuitionOut": 69314,
+   "coa": 88140,
+   "roomBoard": 19428,
+   "books": 1226,
+   "other": 2182,
+   "netAvg": 28690,
+   "netByIncome": [
+    1776,
+    4070,
+    6796,
+    14311,
+    49992
+   ],
+   "pell": 0.1841,
+   "grad6": 0.9538,
+   "retention": 0.9838,
+   "debt": 14000,
+   "earn10": 104043
+  },
+  {
+   "unitid": 243744,
+   "slug": "stanford",
+   "short": "Stanford",
+   "name": "Stanford University",
+   "ipedsName": "Stanford University",
+   "city": "Stanford",
+   "state": "CA",
+   "control": "private",
+   "url": "www.stanford.edu/",
+   "npcUrl": "financialaid.stanford.edu/undergrad/how/calculator/index.html?tab=net-price-calculator",
+   "admRate": 0.0361,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1553,
+   "undergrads": 7554,
+   "tuitionIn": 65910,
+   "tuitionOut": 65910,
+   "coa": 87833,
+   "roomBoard": 21315,
+   "books": 825,
+   "other": 4842,
+   "netAvg": 13807,
+   "netByIncome": [
+    -2536,
+    -193,
+    3212,
+    11092,
+    53882
+   ],
+   "pell": 0.1916,
+   "grad6": 0.9192,
+   "retention": 0.9818,
+   "debt": 12000,
+   "earn10": 124080
+  },
+  {
+   "unitid": 166683,
+   "slug": "mit",
+   "short": "MIT",
+   "name": "Massachusetts Institute of Technology",
+   "ipedsName": "Massachusetts Institute of Technology",
+   "city": "Cambridge",
+   "state": "MA",
+   "control": "private",
+   "url": "web.mit.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/mit",
+   "admRate": 0.0455,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    780,
+    800
+   ],
+   "act": [
+    34,
+    36
+   ],
+   "satAvg": 1560,
+   "undergrads": 4535,
+   "tuitionIn": 62396,
+   "tuitionOut": 62396,
+   "coa": 82730,
+   "roomBoard": 20280,
+   "books": 910,
+   "other": 2374,
+   "netAvg": 20111,
+   "netByIncome": [
+    -2533,
+    93,
+    1480,
+    11555,
+    48479
+   ],
+   "pell": 0.1932,
+   "grad6": 0.9641,
+   "retention": 0.9908,
+   "debt": 14768,
+   "earn10": 143372
+  },
+  {
+   "unitid": 110404,
+   "slug": "caltech",
+   "short": "Caltech",
+   "name": "California Institute of Technology",
+   "ipedsName": "California Institute of Technology",
+   "city": "Pasadena",
+   "state": "CA",
+   "control": "private",
+   "url": "www.caltech.edu/",
+   "npcUrl": "www.finaid.caltech.edu/npc",
+   "admRate": 0.0257,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 987,
+   "tuitionIn": 65898,
+   "tuitionOut": 65898,
+   "coa": 86886,
+   "roomBoard": 20283,
+   "books": 1428,
+   "other": 3213,
+   "netAvg": 16075,
+   "netByIncome": [
+    -2133,
+    -2886,
+    431,
+    18753,
+    54157
+   ],
+   "pell": 0.1799,
+   "grad6": 0.9437,
+   "retention": 0.9737,
+   "debt": null,
+   "earn10": 128566
+  },
+  {
+   "unitid": 144050,
+   "slug": "uchicago",
+   "short": "UChicago",
+   "name": "University of Chicago",
+   "ipedsName": "University of Chicago",
+   "city": "Chicago",
+   "state": "IL",
+   "control": "private",
+   "url": "www.uchicago.edu/",
+   "npcUrl": "https://financialaid.uchicago.edu/undergraduate/resources-and-tools/net-price-calculator/",
+   "admRate": 0.0448,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1554,
+   "undergrads": 7569,
+   "tuitionIn": 70662,
+   "tuitionOut": 70662,
+   "coa": 90360,
+   "roomBoard": 20109,
+   "books": 1800,
+   "other": 2400,
+   "netAvg": 14860,
+   "netByIncome": [
+    -1264,
+    914,
+    226,
+    12602,
+    48524
+   ],
+   "pell": 0.1526,
+   "grad6": 0.9585,
+   "retention": 0.9926,
+   "debt": 15000,
+   "earn10": 91885
+  },
+  {
+   "unitid": 198419,
+   "slug": "duke",
+   "short": "Duke",
+   "name": "Duke University",
+   "ipedsName": "Duke University",
+   "city": "Durham",
+   "state": "NC",
+   "control": "private",
+   "url": "www.duke.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/duke",
+   "admRate": 0.0571,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    760,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1548,
+   "undergrads": 6442,
+   "tuitionIn": 68758,
+   "tuitionOut": 68758,
+   "coa": 87072,
+   "roomBoard": 18128,
+   "books": 536,
+   "other": 3274,
+   "netAvg": 29612,
+   "netByIncome": [
+    735,
+    -361,
+    5706,
+    17100,
+    54230
+   ],
+   "pell": 0.1403,
+   "grad6": 0.9678,
+   "retention": 0.9793,
+   "debt": 13000,
+   "earn10": 97800
+  },
+  {
+   "unitid": 147767,
+   "slug": "northwestern",
+   "short": "Northwestern",
+   "name": "Northwestern University",
+   "ipedsName": "Northwestern University",
+   "city": "Evanston",
+   "state": "IL",
+   "control": "private",
+   "url": "www.northwestern.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/northwestern",
+   "admRate": 0.0769,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1533,
+   "undergrads": 9201,
+   "tuitionIn": 68322,
+   "tuitionOut": 68322,
+   "coa": 91250,
+   "roomBoard": 21126,
+   "books": 1794,
+   "other": 3636,
+   "netAvg": 29167,
+   "netByIncome": [
+    1764,
+    6099,
+    7898,
+    18282,
+    48777
+   ],
+   "pell": 0.1855,
+   "grad6": 0.9513,
+   "retention": 0.981,
+   "debt": 15000,
+   "earn10": 89363
+  },
+  {
+   "unitid": 162928,
+   "slug": "johns-hopkins",
+   "short": "Johns Hopkins",
+   "name": "Johns Hopkins University",
+   "ipedsName": "Johns Hopkins University",
+   "city": "Baltimore",
+   "state": "MD",
+   "control": "private",
+   "url": "www.jhu.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/jhu",
+   "admRate": 0.0644,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    780,
+    800
+   ],
+   "act": [
+    34,
+    36
+   ],
+   "satAvg": 1553,
+   "undergrads": 5693,
+   "tuitionIn": 65230,
+   "tuitionOut": 65230,
+   "coa": 85947,
+   "roomBoard": 20150,
+   "books": 1356,
+   "other": 2240,
+   "netAvg": 18809,
+   "netByIncome": [
+    428,
+    -213,
+    4179,
+    14591,
+    37774
+   ],
+   "pell": 0.1949,
+   "grad6": 0.9378,
+   "retention": 0.9809,
+   "debt": 10250,
+   "earn10": 87555
+  },
+  {
+   "unitid": 221999,
+   "slug": "vanderbilt",
+   "short": "Vanderbilt",
+   "name": "Vanderbilt University",
+   "ipedsName": "Vanderbilt University",
+   "city": "Nashville",
+   "state": "TN",
+   "control": "private",
+   "url": "www.vanderbilt.edu/",
+   "npcUrl": "https://www.vanderbilt.edu/financialaid/net-price-calculator.php",
+   "admRate": 0.0586,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1549,
+   "undergrads": 7208,
+   "tuitionIn": 67498,
+   "tuitionOut": 67498,
+   "coa": 89590,
+   "roomBoard": 22054,
+   "books": 1194,
+   "other": 3396,
+   "netAvg": 15846,
+   "netByIncome": [
+    3414,
+    1876,
+    4498,
+    12153,
+    45145
+   ],
+   "pell": 0.2022,
+   "grad6": 0.9354,
+   "retention": 0.9634,
+   "debt": 14000,
+   "earn10": 91565
+  },
+  {
+   "unitid": 227757,
+   "slug": "rice",
+   "short": "Rice",
+   "name": "Rice University",
+   "ipedsName": "Rice University",
+   "city": "Houston",
+   "state": "TX",
+   "control": "private",
+   "url": "https://www.rice.edu/",
+   "npcUrl": "https://financialaid.rice.edu/cost-attendance/estimate-your-cost",
+   "admRate": 0.08,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1553,
+   "undergrads": 4776,
+   "tuitionIn": 64144,
+   "tuitionOut": 64144,
+   "coa": 79788,
+   "roomBoard": 18100,
+   "books": 1440,
+   "other": 4140,
+   "netAvg": 13370,
+   "netByIncome": [
+    5827,
+    563,
+    3217,
+    17755,
+    48466
+   ],
+   "pell": 0.1703,
+   "grad6": 0.9464,
+   "retention": 0.9741,
+   "debt": 11000,
+   "earn10": 89718
+  },
+  {
+   "unitid": 179867,
+   "slug": "washu",
+   "short": "WashU",
+   "name": "Washington University in St. Louis",
+   "ipedsName": "Washington University in St Louis",
+   "city": "St. Louis",
+   "state": "MO",
+   "control": "private",
+   "url": "https://washu.edu/",
+   "npcUrl": "https://financialaid.washu.edu/costs/cost-calculators/net-price-calculator",
+   "admRate": 0.1206,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1530,
+   "undergrads": 7857,
+   "tuitionIn": 65790,
+   "tuitionOut": 65790,
+   "coa": 88488,
+   "roomBoard": 21854,
+   "books": 1304,
+   "other": 3575,
+   "netAvg": 21786,
+   "netByIncome": [
+    1716,
+    1928,
+    5578,
+    12603,
+    42170
+   ],
+   "pell": 0.1775,
+   "grad6": 0.9426,
+   "retention": 0.9495,
+   "debt": 17500,
+   "earn10": 86182
+  },
+  {
+   "unitid": 152080,
+   "slug": "notre-dame",
+   "short": "Notre Dame",
+   "name": "University of Notre Dame",
+   "ipedsName": "University of Notre Dame",
+   "city": "Notre Dame",
+   "state": "IN",
+   "control": "private",
+   "url": "www.nd.edu/",
+   "npcUrl": "financialaid.nd.edu/",
+   "admRate": 0.1127,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    720,
+    770
+   ],
+   "satMath": [
+    735,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1520,
+   "undergrads": 8818,
+   "tuitionIn": 65025,
+   "tuitionOut": 65025,
+   "coa": 83271,
+   "roomBoard": 17900,
+   "books": 1250,
+   "other": 1950,
+   "netAvg": 26780,
+   "netByIncome": [
+    7244,
+    7254,
+    11432,
+    18670,
+    45321
+   ],
+   "pell": 0.1374,
+   "grad6": 0.9517,
+   "retention": 0.9908,
+   "debt": 19000,
+   "earn10": 99980
+  },
+  {
+   "unitid": 139658,
+   "slug": "emory",
+   "short": "Emory",
+   "name": "Emory University",
+   "ipedsName": "Emory University",
+   "city": "Atlanta",
+   "state": "GA",
+   "control": "private",
+   "url": "www.emory.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/emory",
+   "admRate": 0.1065,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    720,
+    760
+   ],
+   "satMath": [
+    750,
+    790
+   ],
+   "act": [
+    32,
+    35
+   ],
+   "satAvg": 1520,
+   "undergrads": 7298,
+   "tuitionIn": 64280,
+   "tuitionOut": 64280,
+   "coa": 83622,
+   "roomBoard": 20220,
+   "books": 1262,
+   "other": 2652,
+   "netAvg": 22585,
+   "netByIncome": [
+    7363,
+    9220,
+    11237,
+    13821,
+    53018
+   ],
+   "pell": 0.1821,
+   "grad6": 0.9109,
+   "retention": 0.957,
+   "debt": 18250,
+   "earn10": 80137
+  },
+  {
+   "unitid": 131496,
+   "slug": "georgetown",
+   "short": "Georgetown",
+   "name": "Georgetown University",
+   "ipedsName": "Georgetown University",
+   "city": "Washington",
+   "state": "DC",
+   "control": "private",
+   "url": "https://www.georgetown.edu/",
+   "npcUrl": "finaid.georgetown.edu/consumer-info#Net Price",
+   "admRate": 0.1291,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    700,
+    770
+   ],
+   "satMath": [
+    690,
+    780
+   ],
+   "act": [
+    31,
+    35
+   ],
+   "satAvg": 1487,
+   "undergrads": 7569,
+   "tuitionIn": 68017,
+   "tuitionOut": 68017,
+   "coa": 88741,
+   "roomBoard": 20596,
+   "books": 1200,
+   "other": 2750,
+   "netAvg": 40815,
+   "netByIncome": [
+    5064,
+    12155,
+    18329,
+    26459,
+    57403
+   ],
+   "pell": 0.1012,
+   "grad6": 0.9481,
+   "retention": 0.9675,
+   "debt": 15500,
+   "earn10": 103494
+  },
+  {
+   "unitid": 211440,
+   "slug": "carnegie-mellon",
+   "short": "Carnegie Mellon",
+   "name": "Carnegie Mellon University",
+   "ipedsName": "Carnegie Mellon University",
+   "city": "Pittsburgh",
+   "state": "PA",
+   "control": "private",
+   "url": "www.cmu.edu/",
+   "npcUrl": "https://www.cmu.edu/admission/costs-aid/net-price-calculator",
+   "admRate": 0.1166,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    770,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1546,
+   "undergrads": 7304,
+   "tuitionIn": 66246,
+   "tuitionOut": 66246,
+   "coa": 83654,
+   "roomBoard": 18166,
+   "books": 1000,
+   "other": 1400,
+   "netAvg": 31944,
+   "netByIncome": [
+    9097,
+    6994,
+    14468,
+    24865,
+    51480
+   ],
+   "pell": 0.1604,
+   "grad6": 0.9413,
+   "retention": 0.98,
+   "debt": 21750,
+   "earn10": 114862
+  },
+  {
+   "unitid": 123961,
+   "slug": "usc",
+   "short": "USC",
+   "name": "University of Southern California",
+   "ipedsName": "University of Southern California",
+   "city": "Los Angeles",
+   "state": "CA",
+   "control": "private",
+   "url": "www.usc.edu/",
+   "npcUrl": "https://financialaid.usc.edu/npc",
+   "admRate": 0.0981,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    710,
+    760
+   ],
+   "satMath": [
+    740,
+    790
+   ],
+   "act": [
+    32,
+    35
+   ],
+   "satAvg": 1495,
+   "undergrads": 20443,
+   "tuitionIn": 72097,
+   "tuitionOut": 72097,
+   "coa": 90300,
+   "roomBoard": 19931,
+   "books": 1200,
+   "other": 2006,
+   "netAvg": 32740,
+   "netByIncome": [
+    13516,
+    14394,
+    19539,
+    24976,
+    56116
+   ],
+   "pell": 0.2224,
+   "grad6": 0.9183,
+   "retention": 0.9593,
+   "debt": 18000,
+   "earn10": 92498
+  },
+  {
+   "unitid": 193900,
+   "slug": "nyu",
+   "short": "NYU",
+   "name": "New York University",
+   "ipedsName": "New York University",
+   "city": "New York",
+   "state": "NY",
+   "control": "private",
+   "url": "https://www.nyu.edu/",
+   "npcUrl": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-and-planning-for-undergraduate-aid/estimate-your-cost.html",
+   "admRate": 0.0923,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    720,
+    760
+   ],
+   "satMath": [
+    760,
+    800
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1520,
+   "undergrads": 28663,
+   "tuitionIn": 62796,
+   "tuitionOut": 62796,
+   "coa": 84374,
+   "roomBoard": 23530,
+   "books": 1442,
+   "other": 4294,
+   "netAvg": 37050,
+   "netByIncome": [
+    16977,
+    14017,
+    16862,
+    32766,
+    66876
+   ],
+   "pell": 0.1788,
+   "grad6": 0.8757,
+   "retention": 0.9577,
+   "debt": 20500,
+   "earn10": 82509
+  },
+  {
+   "unitid": 168148,
+   "slug": "tufts",
+   "short": "Tufts",
+   "name": "Tufts University",
+   "ipedsName": "Tufts University",
+   "city": "Medford",
+   "state": "MA",
+   "control": "private",
+   "url": "https://www.tufts.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/tufts",
+   "admRate": 0.1149,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    720,
+    770
+   ],
+   "satMath": [
+    750,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1513,
+   "undergrads": 7061,
+   "tuitionIn": 70704,
+   "tuitionOut": 70704,
+   "coa": 88300,
+   "roomBoard": 18588,
+   "books": 1000,
+   "other": 1796,
+   "netAvg": 39998,
+   "netByIncome": [
+    11284,
+    9811,
+    14923,
+    23311,
+    58570
+   ],
+   "pell": 0.1204,
+   "grad6": 0.9351,
+   "retention": 0.955,
+   "debt": 16250,
+   "earn10": 83214
+  },
+  {
+   "unitid": 164924,
+   "slug": "boston-college",
+   "short": "Boston College",
+   "name": "Boston College",
+   "ipedsName": "Boston College",
+   "city": "Chestnut Hill",
+   "state": "MA",
+   "control": "private",
+   "url": "www.bc.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/bc",
+   "admRate": 0.1643,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    710,
+    760
+   ],
+   "satMath": [
+    730,
+    780
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1507,
+   "undergrads": 10085,
+   "tuitionIn": 70702,
+   "tuitionOut": 70702,
+   "coa": 89493,
+   "roomBoard": 18916,
+   "books": 1250,
+   "other": 2300,
+   "netAvg": 41704,
+   "netByIncome": [
+    4284,
+    7304,
+    13112,
+    19999,
+    60308
+   ],
+   "pell": 0.1291,
+   "grad6": 0.9083,
+   "retention": 0.9602,
+   "debt": 19000,
+   "earn10": 103937
+  },
+  {
+   "unitid": 164988,
+   "slug": "boston-university",
+   "short": "Boston University",
+   "name": "Boston University",
+   "ipedsName": "Boston University",
+   "city": "Boston",
+   "state": "MA",
+   "control": "private",
+   "url": "www.bu.edu/",
+   "npcUrl": "www.bu.edu/finaid/aid-basics/cost-of-education/net-price-calculator/",
+   "admRate": 0.1111,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    690,
+    750
+   ],
+   "satMath": [
+    730,
+    780
+   ],
+   "act": [
+    32,
+    34
+   ],
+   "satAvg": 1480,
+   "undergrads": 18248,
+   "tuitionIn": 68102,
+   "tuitionOut": 68102,
+   "coa": 86285,
+   "roomBoard": 19020,
+   "books": 1000,
+   "other": 2085,
+   "netAvg": 24402,
+   "netByIncome": [
+    9500,
+    9342,
+    11778,
+    22517,
+    47504
+   ],
+   "pell": 0.1915,
+   "grad6": 0.8866,
+   "retention": 0.9472,
+   "debt": 23250,
+   "earn10": 83238
+  },
+  {
+   "unitid": 167358,
+   "slug": "northeastern",
+   "short": "Northeastern",
+   "name": "Northeastern University",
+   "ipedsName": "Northeastern University",
+   "city": "Boston",
+   "state": "MA",
+   "control": "private",
+   "url": "www.northeastern.edu/",
+   "npcUrl": "https://studentfinance.northeastern.edu/financial-tools-and-calculators/",
+   "admRate": 0.0522,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    710,
+    760
+   ],
+   "satMath": [
+    730,
+    780
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1497,
+   "undergrads": 17326,
+   "tuitionIn": 66162,
+   "tuitionOut": 66162,
+   "coa": 84641,
+   "roomBoard": 19580,
+   "books": 1000,
+   "other": 1800,
+   "netAvg": 30915,
+   "netByIncome": [
+    2264,
+    2436,
+    5301,
+    16241,
+    47696
+   ],
+   "pell": 0.1234,
+   "grad6": 0.9054,
+   "retention": 0.969,
+   "debt": 24250,
+   "earn10": 92538
+  },
+  {
+   "unitid": 195030,
+   "slug": "rochester",
+   "short": "Rochester",
+   "name": "University of Rochester",
+   "ipedsName": "University of Rochester",
+   "city": "Rochester",
+   "state": "NY",
+   "control": "private",
+   "url": "https://www.rochester.edu/",
+   "npcUrl": "https://www.rochester.edu/financial-aid/undergraduate-cost-calculators/#college-board",
+   "admRate": 0.4008,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    680,
+    750
+   ],
+   "satMath": [
+    730,
+    790
+   ],
+   "act": [
+    31,
+    34
+   ],
+   "satAvg": 1488,
+   "undergrads": 6331,
+   "tuitionIn": 67080,
+   "tuitionOut": 67080,
+   "coa": 85962,
+   "roomBoard": 19792,
+   "books": 1310,
+   "other": 1380,
+   "netAvg": 29278,
+   "netByIncome": [
+    9678,
+    12185,
+    21087,
+    27883,
+    46801
+   ],
+   "pell": 0.1725,
+   "grad6": 0.8543,
+   "retention": 0.9069,
+   "debt": 21000,
+   "earn10": 79042
+  },
+  {
+   "unitid": 201645,
+   "slug": "case-western",
+   "short": "Case Western",
+   "name": "Case Western Reserve University",
+   "ipedsName": "Case Western Reserve University",
+   "city": "Cleveland",
+   "state": "OH",
+   "control": "private",
+   "url": "www.case.edu/",
+   "npcUrl": "case.edu/financialaid/resources/net-price-calculator/",
+   "admRate": 0.3654,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    700,
+    760
+   ],
+   "satMath": [
+    730,
+    780
+   ],
+   "act": [
+    32,
+    34
+   ],
+   "satAvg": 1513,
+   "undergrads": 6437,
+   "tuitionIn": 66608,
+   "tuitionOut": 66608,
+   "coa": 85851,
+   "roomBoard": 18762,
+   "books": 1200,
+   "other": 2000,
+   "netAvg": 41190,
+   "netByIncome": [
+    19025,
+    18506,
+    20849,
+    26159,
+    53061
+   ],
+   "pell": 0.1752,
+   "grad6": 0.8717,
+   "retention": 0.9214,
+   "debt": 24000,
+   "earn10": 87989
+  },
+  {
+   "unitid": 199847,
+   "slug": "wake-forest",
+   "short": "Wake Forest",
+   "name": "Wake Forest University",
+   "ipedsName": "Wake Forest University",
+   "city": "Winston-Salem",
+   "state": "NC",
+   "control": "private",
+   "url": "www.wfu.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/wfu",
+   "admRate": 0.2167,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    700,
+    750
+   ],
+   "satMath": [
+    710,
+    770
+   ],
+   "act": [
+    32,
+    34
+   ],
+   "satAvg": 1475,
+   "undergrads": 5485,
+   "tuitionIn": 67642,
+   "tuitionOut": 67642,
+   "coa": 87499,
+   "roomBoard": 18494,
+   "books": 1680,
+   "other": 3386,
+   "netAvg": 28719,
+   "netByIncome": [
+    6525,
+    6331,
+    7647,
+    12771,
+    58081
+   ],
+   "pell": 0.1009,
+   "grad6": 0.8915,
+   "retention": 0.9256,
+   "debt": 21500,
+   "earn10": 78158
+  },
+  {
+   "unitid": 160755,
+   "slug": "tulane",
+   "short": "Tulane",
+   "name": "Tulane University",
+   "ipedsName": "Tulane University of Louisiana",
+   "city": "New Orleans",
+   "state": "LA",
+   "control": "private",
+   "url": "https://tulane.edu/",
+   "npcUrl": "https://admission.tulane.edu/tuition-aid/net-price-calculator",
+   "admRate": 0.1398,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    700,
+    750
+   ],
+   "satMath": [
+    700,
+    770
+   ],
+   "act": [
+    31,
+    34
+   ],
+   "satAvg": 1448,
+   "undergrads": 7767,
+   "tuitionIn": 68678,
+   "tuitionOut": 68678,
+   "coa": 87004,
+   "roomBoard": 18868,
+   "books": 1400,
+   "other": 2740,
+   "netAvg": 39949,
+   "netByIncome": [
+    16126,
+    18041,
+    20149,
+    28207,
+    56667
+   ],
+   "pell": 0.0976,
+   "grad6": 0.8614,
+   "retention": 0.9255,
+   "debt": 20500,
+   "earn10": 63268
+  },
+  {
+   "unitid": 216597,
+   "slug": "villanova",
+   "short": "Villanova",
+   "name": "Villanova University",
+   "ipedsName": "Villanova University",
+   "city": "Villanova",
+   "state": "PA",
+   "control": "private",
+   "url": "www.villanova.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/villanova",
+   "admRate": 0.2698,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    685,
+    740
+   ],
+   "satMath": [
+    710,
+    770
+   ],
+   "act": [
+    32,
+    34
+   ],
+   "satAvg": 1460,
+   "undergrads": 6938,
+   "tuitionIn": 67776,
+   "tuitionOut": 67776,
+   "coa": 84793,
+   "roomBoard": 17694,
+   "books": 710,
+   "other": 2300,
+   "netAvg": 43756,
+   "netByIncome": [
+    17823,
+    16496,
+    20923,
+    33389,
+    58741
+   ],
+   "pell": 0.1202,
+   "grad6": 0.9186,
+   "retention": 0.9506,
+   "debt": 25874,
+   "earn10": 100423
+  },
+  {
+   "unitid": 191241,
+   "slug": "fordham",
+   "short": "Fordham",
+   "name": "Fordham University",
+   "ipedsName": "Fordham University",
+   "city": "Bronx",
+   "state": "NY",
+   "control": "private",
+   "url": "https://www.fordham.edu/",
+   "npcUrl": "https://www.fordham.edu/undergraduate-financial-aid/financing-your-fordham-education/net-price-calculator/",
+   "admRate": 0.5931,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    660,
+    730
+   ],
+   "satMath": [
+    660,
+    750
+   ],
+   "act": [
+    30,
+    33
+   ],
+   "satAvg": 1418,
+   "undergrads": 10512,
+   "tuitionIn": 64915,
+   "tuitionOut": 64915,
+   "coa": 82762,
+   "roomBoard": 24090,
+   "books": 1590,
+   "other": 3520,
+   "netAvg": 44338,
+   "netByIncome": [
+    32474,
+    31657,
+    37313,
+    42030,
+    52228
+   ],
+   "pell": 0.2142,
+   "grad6": 0.8191,
+   "retention": 0.8852,
+   "debt": 24300,
+   "earn10": 85569
+  },
+  {
+   "unitid": 196413,
+   "slug": "syracuse",
+   "short": "Syracuse",
+   "name": "Syracuse University",
+   "ipedsName": "Syracuse University",
+   "city": "Syracuse",
+   "state": "NY",
+   "control": "private",
+   "url": "https://www.syracuse.edu/",
+   "npcUrl": "https://www.syracuse.edu/admissions-aid/tuition-fees/undergraduate-costs/net-price-calculator/",
+   "admRate": 0.4592,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    720
+   ],
+   "satMath": [
+    630,
+    720
+   ],
+   "act": [
+    29,
+    32
+   ],
+   "satAvg": 1375,
+   "undergrads": 15477,
+   "tuitionIn": 65528,
+   "tuitionOut": 65528,
+   "coa": 84517,
+   "roomBoard": 19188,
+   "books": 1753,
+   "other": 2024,
+   "netAvg": 38793,
+   "netByIncome": [
+    15817,
+    15845,
+    21132,
+    28780,
+    55401
+   ],
+   "pell": 0.1707,
+   "grad6": 0.8361,
+   "retention": 0.9013,
+   "debt": 26000,
+   "earn10": 79164
+  },
+  {
+   "unitid": 135726,
+   "slug": "university-of-miami",
+   "short": "Miami",
+   "name": "University of Miami",
+   "ipedsName": "University of Miami",
+   "city": "Coral Gables",
+   "state": "FL",
+   "control": "private",
+   "url": "www.miami.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/miami",
+   "admRate": 0.189,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    660,
+    730
+   ],
+   "satMath": [
+    660,
+    750
+   ],
+   "act": [
+    30,
+    33
+   ],
+   "satAvg": 1415,
+   "undergrads": 12913,
+   "tuitionIn": 62616,
+   "tuitionOut": 62616,
+   "coa": 86078,
+   "roomBoard": 23790,
+   "books": 1266,
+   "other": 6220,
+   "netAvg": 37244,
+   "netByIncome": [
+    15978,
+    17941,
+    21768,
+    27982,
+    50352
+   ],
+   "pell": 0.1486,
+   "grad6": 0.8368,
+   "retention": 0.9377,
+   "debt": 17500,
+   "earn10": 75328
+  },
+  {
+   "unitid": 228246,
+   "slug": "smu",
+   "short": "SMU",
+   "name": "Southern Methodist University",
+   "ipedsName": "Southern Methodist University",
+   "city": "Dallas",
+   "state": "TX",
+   "control": "private",
+   "url": "https://www.smu.edu/",
+   "npcUrl": "https://www.smu.edu/enrollment-services/student-financial-services/cost-and-payment/net-price-calculator",
+   "admRate": 0.6335,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    670,
+    740
+   ],
+   "satMath": [
+    670,
+    750
+   ],
+   "act": [
+    30,
+    34
+   ],
+   "satAvg": 1428,
+   "undergrads": 7277,
+   "tuitionIn": 67040,
+   "tuitionOut": 67040,
+   "coa": 85606,
+   "roomBoard": 19064,
+   "books": 800,
+   "other": 2698,
+   "netAvg": 40892,
+   "netByIncome": [
+    23544,
+    20038,
+    24152,
+    33477,
+    58213
+   ],
+   "pell": 0.1276,
+   "grad6": 0.8427,
+   "retention": 0.9052,
+   "debt": 19500,
+   "earn10": 78354
+  },
+  {
+   "unitid": 228875,
+   "slug": "tcu",
+   "short": "TCU",
+   "name": "Texas Christian University",
+   "ipedsName": "Texas Christian University",
+   "city": "Fort Worth",
+   "state": "TX",
+   "control": "private",
+   "url": "https://www.tcu.edu/",
+   "npcUrl": "https://financialaid.tcu.edu/cost/net-price-calculator.php",
+   "admRate": 0.4449,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    680
+   ],
+   "satMath": [
+    560,
+    670
+   ],
+   "act": [
+    26,
+    31
+   ],
+   "satAvg": 1298,
+   "undergrads": 11026,
+   "tuitionIn": 61740,
+   "tuitionOut": 61740,
+   "coa": 76604,
+   "roomBoard": 16700,
+   "books": 800,
+   "other": 4422,
+   "netAvg": 36660,
+   "netByIncome": [
+    17956,
+    16980,
+    17940,
+    34990,
+    53450
+   ],
+   "pell": 0.1432,
+   "grad6": 0.8551,
+   "retention": 0.9287,
+   "debt": 21500,
+   "earn10": 68424
+  },
+  {
+   "unitid": 223232,
+   "slug": "baylor",
+   "short": "Baylor",
+   "name": "Baylor University",
+   "ipedsName": "Baylor University",
+   "city": "Waco",
+   "state": "TX",
+   "control": "private",
+   "url": "www.baylor.edu/",
+   "npcUrl": "www.baylor.edu/sfs/netpricecalculator/npcalc.htm",
+   "admRate": 0.5128,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    610,
+    700
+   ],
+   "satMath": [
+    590,
+    700
+   ],
+   "act": [
+    27,
+    32
+   ],
+   "satAvg": 1329,
+   "undergrads": 14785,
+   "tuitionIn": 58100,
+   "tuitionOut": 58100,
+   "coa": 74226,
+   "roomBoard": 15314,
+   "books": 1498,
+   "other": 3904,
+   "netAvg": 41104,
+   "netByIncome": [
+    22024,
+    21530,
+    33902,
+    38852,
+    47895
+   ],
+   "pell": 0.1245,
+   "grad6": 0.7999,
+   "retention": 0.9095,
+   "debt": 23000,
+   "earn10": 65793
+  },
+  {
+   "unitid": 121150,
+   "slug": "pepperdine",
+   "short": "Pepperdine",
+   "name": "Pepperdine University",
+   "ipedsName": "Pepperdine University",
+   "city": "Malibu",
+   "state": "CA",
+   "control": "private",
+   "url": "www.pepperdine.edu/",
+   "npcUrl": "https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/npc",
+   "admRate": 0.6286,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    710
+   ],
+   "satMath": [
+    640,
+    740
+   ],
+   "act": [
+    29,
+    32
+   ],
+   "satAvg": 1384,
+   "undergrads": 3553,
+   "tuitionIn": 69918,
+   "tuitionOut": 69918,
+   "coa": 93512,
+   "roomBoard": 21750,
+   "books": 1000,
+   "other": 2500,
+   "netAvg": 58098,
+   "netByIncome": [
+    50560,
+    42674,
+    51063,
+    61851,
+    65081
+   ],
+   "pell": 0.2025,
+   "grad6": 0.8335,
+   "retention": 0.8757,
+   "debt": 23510,
+   "earn10": 82939
+  },
+  {
+   "unitid": 131469,
+   "slug": "george-washington",
+   "short": "GW",
+   "name": "George Washington University",
+   "ipedsName": "George Washington University",
+   "city": "Washington",
+   "state": "DC",
+   "control": "private",
+   "url": "https://www.gwu.edu/",
+   "npcUrl": "https://financialaid.gwu.edu/net-price-calculator",
+   "admRate": 0.4709,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    680,
+    750
+   ],
+   "satMath": [
+    670,
+    750
+   ],
+   "act": [
+    31,
+    34
+   ],
+   "satAvg": 1433,
+   "undergrads": 11182,
+   "tuitionIn": 67710,
+   "tuitionOut": 67710,
+   "coa": 83856,
+   "roomBoard": 16920,
+   "books": 1450,
+   "other": 1700,
+   "netAvg": 36586,
+   "netByIncome": [
+    17440,
+    17292,
+    22080,
+    28100,
+    55337
+   ],
+   "pell": 0.1582,
+   "grad6": 0.8398,
+   "retention": 0.9223,
+   "debt": 20449,
+   "earn10": 90873
+  },
+  {
+   "unitid": 131159,
+   "slug": "american-university",
+   "short": "American",
+   "name": "American University",
+   "ipedsName": "American University",
+   "city": "Washington",
+   "state": "DC",
+   "control": "private",
+   "url": "www.american.edu/",
+   "npcUrl": "www.american.edu/financialaid/net-price-calculator-form.cfm",
+   "admRate": 0.6196,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    660,
+    740
+   ],
+   "satMath": [
+    620,
+    720
+   ],
+   "act": [
+    29,
+    32
+   ],
+   "satAvg": 1381,
+   "undergrads": 7266,
+   "tuitionIn": 58771,
+   "tuitionOut": 58771,
+   "coa": 76058,
+   "roomBoard": 17982,
+   "books": 1000,
+   "other": 1618,
+   "netAvg": 41943,
+   "netByIncome": [
+    23233,
+    20444,
+    26035,
+    30063,
+    53673
+   ],
+   "pell": 0.1388,
+   "grad6": 0.7549,
+   "retention": 0.882,
+   "debt": 22750,
+   "earn10": 77370
+  },
+  {
+   "unitid": 131520,
+   "slug": "howard",
+   "short": "Howard",
+   "name": "Howard University",
+   "ipedsName": "Howard University",
+   "city": "Washington",
+   "state": "DC",
+   "control": "private",
+   "url": "www.howard.edu/",
+   "npcUrl": "https://www2.howard.edu/student-financial-services/net-price-calculator",
+   "admRate": 0.4134,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    560,
+    670
+   ],
+   "satMath": [
+    530,
+    650
+   ],
+   "act": [
+    22,
+    28
+   ],
+   "satAvg": 1213,
+   "undergrads": 10108,
+   "tuitionIn": 35810,
+   "tuitionOut": 35810,
+   "coa": 54630,
+   "roomBoard": 17322,
+   "books": 1360,
+   "other": 3540,
+   "netAvg": 50539,
+   "netByIncome": [
+    46051,
+    47477,
+    50245,
+    52981,
+    54270
+   ],
+   "pell": 0.4,
+   "grad6": 0.6996,
+   "retention": 0.9088,
+   "debt": 24500,
+   "earn10": 63066
+  },
+  {
+   "unitid": 230038,
+   "slug": "byu",
+   "short": "BYU",
+   "name": "Brigham Young University",
+   "ipedsName": "Brigham Young University",
+   "city": "Provo",
+   "state": "UT",
+   "control": "private",
+   "url": "https://byu.edu/",
+   "npcUrl": "https://enrollment.byu.edu/financialaid/net-price-calculator",
+   "admRate": 0.6778,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    730
+   ],
+   "satMath": [
+    630,
+    730
+   ],
+   "act": [
+    28,
+    32
+   ],
+   "satAvg": 1376,
+   "undergrads": 32952,
+   "tuitionIn": 6688,
+   "tuitionOut": 6688,
+   "coa": 22690,
+   "roomBoard": 10396,
+   "books": 392,
+   "other": 4464,
+   "netAvg": 15564,
+   "netByIncome": [
+    10444,
+    10112,
+    13062,
+    16378,
+    20542
+   ],
+   "pell": 0.321,
+   "grad6": 0.8098,
+   "retention": 0.9097,
+   "debt": 11069,
+   "earn10": 75790
+  },
+  {
+   "unitid": 168342,
+   "slug": "williams",
+   "short": "Williams",
+   "name": "Williams College",
+   "ipedsName": "Williams College",
+   "city": "Williamstown",
+   "state": "MA",
+   "control": "private",
+   "url": "https://www.williams.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/williams",
+   "admRate": 0.0825,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    750,
+    790
+   ],
+   "act": [
+    34,
+    35
+   ],
+   "satAvg": 1533,
+   "undergrads": 2076,
+   "tuitionIn": 68560,
+   "tuitionOut": 68560,
+   "coa": 84860,
+   "roomBoard": 17260,
+   "books": 1000,
+   "other": 2700,
+   "netAvg": 17716,
+   "netByIncome": [
+    -2610,
+    -1727,
+    -1978,
+    3030,
+    49594
+   ],
+   "pell": 0.1761,
+   "grad6": 0.9361,
+   "retention": 0.9685,
+   "debt": 12761,
+   "earn10": 88665
+  },
+  {
+   "unitid": 164465,
+   "slug": "amherst",
+   "short": "Amherst",
+   "name": "Amherst College",
+   "ipedsName": "Amherst College",
+   "city": "Amherst",
+   "state": "MA",
+   "control": "private",
+   "url": "www.amherst.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/amherst",
+   "admRate": 0.0901,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    780
+   ],
+   "satMath": [
+    750,
+    800
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1533,
+   "undergrads": 1911,
+   "tuitionIn": 70480,
+   "tuitionOut": 70480,
+   "coa": 87640,
+   "roomBoard": 18390,
+   "books": 0,
+   "other": 1800,
+   "netAvg": 23367,
+   "netByIncome": [
+    1086,
+    1570,
+    17478,
+    23639,
+    47521
+   ],
+   "pell": 0.1984,
+   "grad6": 0.939,
+   "retention": 0.9734,
+   "debt": 13740,
+   "earn10": 77644
+  },
+  {
+   "unitid": 121345,
+   "slug": "pomona",
+   "short": "Pomona",
+   "name": "Pomona College",
+   "ipedsName": "Pomona College",
+   "city": "Claremont",
+   "state": "CA",
+   "control": "private",
+   "url": "www.pomona.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/pomona",
+   "admRate": 0.0709,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    750,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1534,
+   "undergrads": 1666,
+   "tuitionIn": 65420,
+   "tuitionOut": 65420,
+   "coa": 85300,
+   "roomBoard": 21394,
+   "books": 1100,
+   "other": 1500,
+   "netAvg": 19285,
+   "netByIncome": [
+    4841,
+    7026,
+    17054,
+    15719,
+    37842
+   ],
+   "pell": 0.1953,
+   "grad6": 0.932,
+   "retention": 0.9755,
+   "debt": 11782,
+   "earn10": 77779
+  },
+  {
+   "unitid": 216287,
+   "slug": "swarthmore",
+   "short": "Swarthmore",
+   "name": "Swarthmore College",
+   "ipedsName": "Swarthmore College",
+   "city": "Swarthmore",
+   "state": "PA",
+   "control": "private",
+   "url": "www.swarthmore.edu/",
+   "npcUrl": "www.swarthmore.edu/financial-aid/net-price-calculator",
+   "admRate": 0.0746,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    740,
+    770
+   ],
+   "satMath": [
+    750,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1534,
+   "undergrads": 1613,
+   "tuitionIn": 65494,
+   "tuitionOut": 65494,
+   "coa": 84103,
+   "roomBoard": 20308,
+   "books": 760,
+   "other": 2134,
+   "netAvg": 23149,
+   "netByIncome": [
+    7690,
+    4951,
+    11444,
+    22443,
+    47544
+   ],
+   "pell": 0.1948,
+   "grad6": 0.9227,
+   "retention": 0.9398,
+   "debt": 17500,
+   "earn10": 80257
+  },
+  {
+   "unitid": 168218,
+   "slug": "wellesley",
+   "short": "Wellesley",
+   "name": "Wellesley College",
+   "ipedsName": "Wellesley College",
+   "city": "Wellesley",
+   "state": "MA",
+   "control": "private",
+   "url": "www.wellesley.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/wellesley",
+   "admRate": 0.1405,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    730,
+    790
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1520,
+   "undergrads": 2300,
+   "tuitionIn": 67176,
+   "tuitionOut": 67176,
+   "coa": 86290,
+   "roomBoard": 21024,
+   "books": 800,
+   "other": 1250,
+   "netAvg": 25496,
+   "netByIncome": [
+    2546,
+    2836,
+    6587,
+    11551,
+    54188
+   ],
+   "pell": 0.2113,
+   "grad6": 0.9153,
+   "retention": 0.965,
+   "debt": 10000,
+   "earn10": 84803
+  },
+  {
+   "unitid": 161004,
+   "slug": "bowdoin",
+   "short": "Bowdoin",
+   "name": "Bowdoin College",
+   "ipedsName": "Bowdoin College",
+   "city": "Brunswick",
+   "state": "ME",
+   "control": "private",
+   "url": "https://www.bowdoin.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/bowdoin",
+   "admRate": 0.0713,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    730,
+    770
+   ],
+   "satMath": [
+    740,
+    780
+   ],
+   "act": [
+    33,
+    35
+   ],
+   "satAvg": 1520,
+   "undergrads": 1873,
+   "tuitionIn": 67832,
+   "tuitionOut": 67832,
+   "coa": 85100,
+   "roomBoard": 18488,
+   "books": 840,
+   "other": 1660,
+   "netAvg": 14398,
+   "netByIncome": [
+    3145,
+    2800,
+    9007,
+    13801,
+    35196
+   ],
+   "pell": 0.1735,
+   "grad6": 0.9528,
+   "retention": 0.9683,
+   "debt": 18500,
+   "earn10": 82735
+  },
+  {
+   "unitid": 110662,
+   "slug": "ucla",
+   "short": "UCLA",
+   "name": "University of California, Los Angeles",
+   "ipedsName": "University of California-Los Angeles",
+   "city": "Los Angeles",
+   "state": "CA",
+   "control": "public",
+   "url": "www.ucla.edu/",
+   "npcUrl": "https://admission.ucla.edu/tuition-aid/net-cost-calculator",
+   "admRate": 0.0897,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 33475,
+   "tuitionIn": 15203,
+   "tuitionOut": 49403,
+   "coa": 38614,
+   "roomBoard": 18369,
+   "books": 1641,
+   "other": 6777,
+   "netAvg": 12548,
+   "netByIncome": [
+    5579,
+    6682,
+    9811,
+    14142,
+    29682
+   ],
+   "pell": 0.2824,
+   "grad6": 0.9262,
+   "retention": 0.9731,
+   "debt": 14000,
+   "earn10": 82511
+  },
+  {
+   "unitid": 110635,
+   "slug": "uc-berkeley",
+   "short": "UC Berkeley",
+   "name": "University of California, Berkeley",
+   "ipedsName": "University of California-Berkeley",
+   "city": "Berkeley",
+   "state": "CA",
+   "control": "public",
+   "url": "www.berkeley.edu/",
+   "npcUrl": "https://financialaid.berkeley.edu/how-aid-works/estimate-your-financial-aid/",
+   "admRate": 0.1098,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 33068,
+   "tuitionIn": 16347,
+   "tuitionOut": 50547,
+   "coa": 45619,
+   "roomBoard": 23750,
+   "books": 1131,
+   "other": 7031,
+   "netAvg": 13481,
+   "netByIncome": [
+    5311,
+    6501,
+    9693,
+    15074,
+    34529
+   ],
+   "pell": 0.2864,
+   "grad6": 0.9284,
+   "retention": 0.9679,
+   "debt": 13000,
+   "earn10": 92446
+  },
+  {
+   "unitid": 110680,
+   "slug": "ucsd",
+   "short": "UC San Diego",
+   "name": "University of California, San Diego",
+   "ipedsName": "University of California-San Diego",
+   "city": "La Jolla",
+   "state": "CA",
+   "control": "public",
+   "url": "www.ucsd.edu/",
+   "npcUrl": "fas.ucsd.edu/forms-and-resources/financial-aid-estimator/index.html",
+   "admRate": 0.2671,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 34948,
+   "tuitionIn": 16758,
+   "tuitionOut": 50958,
+   "coa": 38701,
+   "roomBoard": 18970,
+   "books": 1286,
+   "other": 5888,
+   "netAvg": 12470,
+   "netByIncome": [
+    7525,
+    8155,
+    9942,
+    15199,
+    28785
+   ],
+   "pell": 0.342,
+   "grad6": 0.8605,
+   "retention": 0.9402,
+   "debt": 15500,
+   "earn10": 84943
+  },
+  {
+   "unitid": 110653,
+   "slug": "uc-irvine",
+   "short": "UC Irvine",
+   "name": "University of California, Irvine",
+   "ipedsName": "University of California-Irvine",
+   "city": "Irvine",
+   "state": "CA",
+   "control": "public",
+   "url": "www.uci.edu/",
+   "npcUrl": "www.ofas.uci.edu/content/Calculator.aspx",
+   "admRate": 0.2857,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 30197,
+   "tuitionIn": 15722,
+   "tuitionOut": 49922,
+   "coa": 38632,
+   "roomBoard": 18991,
+   "books": 1473,
+   "other": 5692,
+   "netAvg": 14251,
+   "netByIncome": [
+    8123,
+    9313,
+    11642,
+    15164,
+    30546
+   ],
+   "pell": 0.361,
+   "grad6": 0.8687,
+   "retention": 0.9405,
+   "debt": 15000,
+   "earn10": 80735
+  },
+  {
+   "unitid": 110644,
+   "slug": "uc-davis",
+   "short": "UC Davis",
+   "name": "University of California, Davis",
+   "ipedsName": "University of California-Davis",
+   "city": "Davis",
+   "state": "CA",
+   "control": "public",
+   "url": "ucdavis.edu/",
+   "npcUrl": "myawards.ucdavis.edu/AidEstimator",
+   "admRate": 0.4183,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 32253,
+   "tuitionIn": 16774,
+   "tuitionOut": 50974,
+   "coa": 41238,
+   "roomBoard": 19426,
+   "books": 1386,
+   "other": 6616,
+   "netAvg": 14741,
+   "netByIncome": [
+    9211,
+    9966,
+    11951,
+    16294,
+    31272
+   ],
+   "pell": 0.3135,
+   "grad6": 0.8567,
+   "retention": 0.9281,
+   "debt": 13000,
+   "earn10": 80838
+  },
+  {
+   "unitid": 110705,
+   "slug": "ucsb",
+   "short": "UC Santa Barbara",
+   "name": "University of California, Santa Barbara",
+   "ipedsName": "University of California-Santa Barbara",
+   "city": "Santa Barbara",
+   "state": "CA",
+   "control": "public",
+   "url": "www.ucsb.edu/",
+   "npcUrl": "finaid.ucsb.edu/net-price-calculator",
+   "admRate": 0.3297,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 23113,
+   "tuitionIn": 16414,
+   "tuitionOut": 50614,
+   "coa": 41573,
+   "roomBoard": 20279,
+   "books": 1381,
+   "other": 6833,
+   "netAvg": 16109,
+   "netByIncome": [
+    9231,
+    9992,
+    12588,
+    17136,
+    31863
+   ],
+   "pell": 0.2785,
+   "grad6": 0.8303,
+   "retention": 0.93,
+   "debt": 13993,
+   "earn10": 74915
+  },
+  {
+   "unitid": 110714,
+   "slug": "uc-santa-cruz",
+   "short": "UC Santa Cruz",
+   "name": "University of California, Santa Cruz",
+   "ipedsName": "University of California-Santa Cruz",
+   "city": "Santa Cruz",
+   "state": "CA",
+   "control": "public",
+   "url": "www.ucsc.edu/",
+   "npcUrl": "https://app.meadowfi.com/ucsc",
+   "admRate": 0.6579,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 17940,
+   "tuitionIn": 16005,
+   "tuitionOut": 50205,
+   "coa": 41179,
+   "roomBoard": 19948,
+   "books": 1192,
+   "other": 6902,
+   "netAvg": 17890,
+   "netByIncome": [
+    8717,
+    10613,
+    14418,
+    18986,
+    33323
+   ],
+   "pell": 0.3157,
+   "grad6": 0.7509,
+   "retention": 0.8795,
+   "debt": 16666,
+   "earn10": 68396
+  },
+  {
+   "unitid": 110671,
+   "slug": "uc-riverside",
+   "short": "UC Riverside",
+   "name": "University of California, Riverside",
+   "ipedsName": "University of California-Riverside",
+   "city": "Riverside",
+   "state": "CA",
+   "control": "public",
+   "url": "www.ucr.edu/",
+   "npcUrl": "https://admission.universityofcalifornia.edu/tuition-financial-aid/estimate-your-aid.html",
+   "admRate": 0.7639,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 22593,
+   "tuitionIn": 15606,
+   "tuitionOut": 49806,
+   "coa": 38942,
+   "roomBoard": 20691,
+   "books": 1576,
+   "other": 5730,
+   "netAvg": 14304,
+   "netByIncome": [
+    8852,
+    9840,
+    13111,
+    16571,
+    30393
+   ],
+   "pell": 0.4695,
+   "grad6": 0.7596,
+   "retention": 0.876,
+   "debt": 17500,
+   "earn10": 67699
+  },
+  {
+   "unitid": 170976,
+   "slug": "umich",
+   "short": "Michigan",
+   "name": "University of Michigan",
+   "ipedsName": "University of Michigan-Ann Arbor",
+   "city": "Ann Arbor",
+   "state": "MI",
+   "control": "public",
+   "url": "https://umich.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/umich",
+   "admRate": 0.1564,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    680,
+    750
+   ],
+   "satMath": [
+    680,
+    780
+   ],
+   "act": [
+    31,
+    34
+   ],
+   "satAvg": 1465,
+   "undergrads": 34177,
+   "tuitionIn": 17736,
+   "tuitionOut": 60946,
+   "coa": 34654,
+   "roomBoard": 15328,
+   "books": 1158,
+   "other": 2710,
+   "netAvg": 13138,
+   "netByIncome": [
+    1043,
+    1878,
+    4895,
+    10869,
+    26517
+   ],
+   "pell": 0.1813,
+   "grad6": 0.932,
+   "retention": 0.9747,
+   "debt": 19500,
+   "earn10": 83648
+  },
+  {
+   "unitid": 234076,
+   "slug": "uva",
+   "short": "UVA",
+   "name": "University of Virginia",
+   "ipedsName": "University of Virginia-Main Campus",
+   "city": "Charlottesville",
+   "state": "VA",
+   "control": "public",
+   "url": "https://www.virginia.edu/",
+   "npcUrl": "https://npc.collegeboard.org/student/app/virginia",
+   "admRate": 0.1681,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    700,
+    760
+   ],
+   "satMath": [
+    710,
+    780
+   ],
+   "act": [
+    32,
+    35
+   ],
+   "satAvg": 1480,
+   "undergrads": 17597,
+   "tuitionIn": 21803,
+   "tuitionOut": 59512,
+   "coa": 39926,
+   "roomBoard": 14800,
+   "books": 1480,
+   "other": 3720,
+   "netAvg": 21565,
+   "netByIncome": [
+    8174,
+    9696,
+    13283,
+    20822,
+    35402
+   ],
+   "pell": 0.1555,
+   "grad6": 0.956,
+   "retention": 0.9755,
+   "debt": 17500,
+   "earn10": 86863
+  },
+  {
+   "unitid": 199120,
+   "slug": "unc",
+   "short": "UNC",
+   "name": "University of North Carolina at Chapel Hill",
+   "ipedsName": "University of North Carolina at Chapel Hill",
+   "city": "Chapel Hill",
+   "state": "NC",
+   "control": "public",
+   "url": "https://www.unc.edu/",
+   "npcUrl": "https://studentaid.unc.edu/net-price-calculator/",
+   "admRate": 0.1534,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    690,
+    750
+   ],
+   "satMath": [
+    700,
+    780
+   ],
+   "act": [
+    28,
+    34
+   ],
+   "satAvg": 1439,
+   "undergrads": 20752,
+   "tuitionIn": 8994,
+   "tuitionOut": 41203,
+   "coa": 26055,
+   "roomBoard": 13804,
+   "books": 1290,
+   "other": 2932,
+   "netAvg": 11655,
+   "netByIncome": [
+    2004,
+    3918,
+    8538,
+    16415,
+    24396
+   ],
+   "pell": 0.2004,
+   "grad6": 0.9117,
+   "retention": 0.9661,
+   "debt": 14000,
+   "earn10": 72200
+  },
+  {
+   "unitid": 139755,
+   "slug": "georgia-tech",
+   "short": "Georgia Tech",
+   "name": "Georgia Institute of Technology",
+   "ipedsName": "Georgia Institute of Technology-Main Campus",
+   "city": "Atlanta",
+   "state": "GA",
+   "control": "public",
+   "url": "www.gatech.edu/",
+   "npcUrl": "https://admission.gatech.edu/npc_2024/",
+   "admRate": 0.1407,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    680,
+    750
+   ],
+   "satMath": [
+    690,
+    790
+   ],
+   "act": [
+    30,
+    34
+   ],
+   "satAvg": 1480,
+   "undergrads": 18785,
+   "tuitionIn": 12058,
+   "tuitionOut": 34484,
+   "coa": 28167,
+   "roomBoard": 13608,
+   "books": 800,
+   "other": 3200,
+   "netAvg": 12116,
+   "netByIncome": [
+    7666,
+    7209,
+    10818,
+    15088,
+    17396
+   ],
+   "pell": 0.139,
+   "grad6": 0.9402,
+   "retention": 0.9808,
+   "debt": 21672,
+   "earn10": 102772
+  },
+  {
+   "unitid": 228778,
+   "slug": "ut-austin",
+   "short": "UT Austin",
+   "name": "The University of Texas at Austin",
+   "ipedsName": "The University of Texas at Austin",
+   "city": "Austin",
+   "state": "TX",
+   "control": "public",
+   "url": "https://www.utexas.edu/",
+   "npcUrl": "www.onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/net-price-calculator/",
+   "admRate": 0.2664,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    630,
+    740
+   ],
+   "satMath": [
+    620,
+    770
+   ],
+   "act": [
+    27,
+    33
+   ],
+   "satAvg": 1395,
+   "undergrads": 42855,
+   "tuitionIn": 11688,
+   "tuitionOut": 44908,
+   "coa": 31247,
+   "roomBoard": 14828,
+   "books": 724,
+   "other": 5206,
+   "netAvg": 19857,
+   "netByIncome": [
+    12553,
+    14297,
+    17207,
+    24406,
+    30082
+   ],
+   "pell": 0.2585,
+   "grad6": 0.889,
+   "retention": 0.9674,
+   "debt": 20500,
+   "earn10": 75121
+  },
+  {
+   "unitid": 228723,
+   "slug": "texas-am",
+   "short": "Texas A&M",
+   "name": "Texas A&M University",
+   "ipedsName": "Texas A&M University-College Station",
+   "city": "College Station",
+   "state": "TX",
+   "control": "public",
+   "url": "https://www.tamu.edu/",
+   "npcUrl": "https://tuition.tamu.edu/",
+   "admRate": 0.5743,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    690
+   ],
+   "satMath": [
+    570,
+    710
+   ],
+   "act": [
+    25,
+    31
+   ],
+   "satAvg": 1280,
+   "undergrads": 59615,
+   "tuitionIn": 13154,
+   "tuitionOut": 40124,
+   "coa": 32696,
+   "roomBoard": 13008,
+   "books": 1104,
+   "other": 6610,
+   "netAvg": 21315,
+   "netByIncome": [
+    12784,
+    13317,
+    17435,
+    26520,
+    30660
+   ],
+   "pell": 0.1964,
+   "grad6": 0.8391,
+   "retention": 0.9431,
+   "debt": 17804,
+   "earn10": 72097
+  },
+  {
+   "unitid": 134130,
+   "slug": "uf",
+   "short": "UF",
+   "name": "University of Florida",
+   "ipedsName": "University of Florida",
+   "city": "Gainesville",
+   "state": "FL",
+   "control": "public",
+   "url": "https://www.ufl.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/ufl",
+   "admRate": 0.242,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    660,
+    730
+   ],
+   "satMath": [
+    660,
+    750
+   ],
+   "act": [
+    29,
+    33
+   ],
+   "satAvg": 1403,
+   "undergrads": 35629,
+   "tuitionIn": 6381,
+   "tuitionOut": 28659,
+   "coa": 22523,
+   "roomBoard": 12120,
+   "books": 810,
+   "other": 4210,
+   "netAvg": 6541,
+   "netByIncome": [
+    1982,
+    2768,
+    7151,
+    12905,
+    16723
+   ],
+   "pell": 0.2166,
+   "grad6": 0.9112,
+   "retention": 0.9771,
+   "debt": 15000,
+   "earn10": 71588
+  },
+  {
+   "unitid": 134097,
+   "slug": "fsu",
+   "short": "FSU",
+   "name": "Florida State University",
+   "ipedsName": "Florida State University",
+   "city": "Tallahassee",
+   "state": "FL",
+   "control": "public",
+   "url": "https://www.fsu.edu/",
+   "npcUrl": "https://financialaid.fsu.edu/cost",
+   "admRate": 0.2422,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    640,
+    710
+   ],
+   "satMath": [
+    630,
+    700
+   ],
+   "act": [
+    29,
+    32
+   ],
+   "satAvg": 1361,
+   "undergrads": 32212,
+   "tuitionIn": 5656,
+   "tuitionOut": 18786,
+   "coa": 25720,
+   "roomBoard": 13474,
+   "books": 1200,
+   "other": 5070,
+   "netAvg": 11297,
+   "netByIncome": [
+    5938,
+    6963,
+    10496,
+    14991,
+    19239
+   ],
+   "pell": 0.2297,
+   "grad6": 0.8561,
+   "retention": 0.9605,
+   "debt": 18000,
+   "earn10": 61675
+  },
+  {
+   "unitid": 132903,
+   "slug": "ucf",
+   "short": "UCF",
+   "name": "University of Central Florida",
+   "ipedsName": "University of Central Florida",
+   "city": "Orlando",
+   "state": "FL",
+   "control": "public",
+   "url": "https://www.ucf.edu/",
+   "npcUrl": "https://finaid.ucf.edu/net-price-calculator/",
+   "admRate": 0.4011,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    610,
+    680
+   ],
+   "satMath": [
+    590,
+    670
+   ],
+   "act": [
+    25,
+    29
+   ],
+   "satAvg": 1269,
+   "undergrads": 59146,
+   "tuitionIn": 6368,
+   "tuitionOut": 22467,
+   "coa": 23133,
+   "roomBoard": 12452,
+   "books": 1200,
+   "other": 5230,
+   "netAvg": 10411,
+   "netByIncome": [
+    5816,
+    7174,
+    10128,
+    14902,
+    17681
+   ],
+   "pell": 0.3234,
+   "grad6": 0.7801,
+   "retention": 0.9235,
+   "debt": 18190,
+   "earn10": 58308
+  },
+  {
+   "unitid": 137351,
+   "slug": "usf",
+   "short": "USF",
+   "name": "University of South Florida",
+   "ipedsName": "University of South Florida",
+   "city": "Tampa",
+   "state": "FL",
+   "control": "public",
+   "url": "www.usf.edu/",
+   "npcUrl": "https://tup-ofa.forest.usf.edu/npc",
+   "admRate": 0.4319,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    580,
+    660
+   ],
+   "satMath": [
+    550,
+    660
+   ],
+   "act": [
+    24,
+    29
+   ],
+   "satAvg": 1227,
+   "undergrads": 37207,
+   "tuitionIn": 6410,
+   "tuitionOut": 17324,
+   "coa": 22859,
+   "roomBoard": 14440,
+   "books": 770,
+   "other": 4896,
+   "netAvg": 9812,
+   "netByIncome": [
+    4122,
+    5444,
+    9326,
+    15224,
+    18497
+   ],
+   "pell": 0.2936,
+   "grad6": 0.7676,
+   "retention": 0.9128,
+   "debt": 17988,
+   "earn10": 57743
+  },
+  {
+   "unitid": 240444,
+   "slug": "uw-madison",
+   "short": "UW-Madison",
+   "name": "University of Wisconsin-Madison",
+   "ipedsName": "University of Wisconsin-Madison",
+   "city": "Madison",
+   "state": "WI",
+   "control": "public",
+   "url": "www.wisc.edu/",
+   "npcUrl": "https://financialaid.wisc.edu/net-price-calculator/",
+   "admRate": 0.452,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    670,
+    740
+   ],
+   "satMath": [
+    710,
+    780
+   ],
+   "act": [
+    29,
+    33
+   ],
+   "satAvg": 1427,
+   "undergrads": 36902,
+   "tuitionIn": 11603,
+   "tuitionOut": 42103,
+   "coa": 28679,
+   "roomBoard": 14124,
+   "books": 1100,
+   "other": 3178,
+   "netAvg": 17354,
+   "netByIncome": [
+    4200,
+    4101,
+    8134,
+    17763,
+    27292
+   ],
+   "pell": 0.1594,
+   "grad6": 0.8955,
+   "retention": 0.9616,
+   "debt": 20484,
+   "earn10": 73792
+  },
+  {
+   "unitid": 145637,
+   "slug": "uiuc",
+   "short": "UIUC",
+   "name": "University of Illinois Urbana-Champaign",
+   "ipedsName": "University of Illinois Urbana-Champaign",
+   "city": "Champaign",
+   "state": "IL",
+   "control": "public",
+   "url": "www.illinois.edu/",
+   "npcUrl": "secure.osfa.illinois.edu/npc/npc.asp",
+   "admRate": 0.4237,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    740
+   ],
+   "satMath": [
+    660,
+    780
+   ],
+   "act": [
+    30,
+    34
+   ],
+   "satAvg": 1440,
+   "undergrads": 36258,
+   "tuitionIn": 16004,
+   "tuitionOut": 35124,
+   "coa": 33642,
+   "roomBoard": 14522,
+   "books": 1200,
+   "other": 2500,
+   "netAvg": 14355,
+   "netByIncome": [
+    2038,
+    5373,
+    7982,
+    15152,
+    28761
+   ],
+   "pell": 0.2341,
+   "grad6": 0.8513,
+   "retention": 0.948,
+   "debt": 19500,
+   "earn10": 81054
+  },
+  {
+   "unitid": 204796,
+   "slug": "ohio-state",
+   "short": "Ohio State",
+   "name": "The Ohio State University",
+   "ipedsName": "Ohio State University-Main Campus",
+   "city": "Columbus",
+   "state": "OH",
+   "control": "public",
+   "url": "www.osu.edu/",
+   "npcUrl": "sfa.osu.edu/incoming-freshmen/about-aid/net-price-calculator",
+   "admRate": 0.6057,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    720
+   ],
+   "satMath": [
+    670,
+    760
+   ],
+   "act": [
+    28,
+    32
+   ],
+   "satAvg": 1387,
+   "undergrads": 45638,
+   "tuitionIn": 13244,
+   "tuitionOut": 40022,
+   "coa": 30305,
+   "roomBoard": 14738,
+   "books": 1030,
+   "other": 3070,
+   "netAvg": 17339,
+   "netByIncome": [
+    4885,
+    5751,
+    9807,
+    20461,
+    27359
+   ],
+   "pell": 0.2016,
+   "grad6": 0.8772,
+   "retention": 0.9423,
+   "debt": 19976,
+   "earn10": 60409
+  },
+  {
+   "unitid": 214777,
+   "slug": "penn-state",
+   "short": "Penn State",
+   "name": "Penn State University Park",
+   "ipedsName": "Pennsylvania State University-Main Campus",
+   "city": "University Park",
+   "state": "PA",
+   "control": "public",
+   "url": "https://psu.edu/",
+   "npcUrl": "https://tuition.psu.edu/student-tuition-calculators",
+   "admRate": 0.6056,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    620,
+    700
+   ],
+   "satMath": [
+    620,
+    720
+   ],
+   "act": [
+    27,
+    32
+   ],
+   "satAvg": 1337,
+   "undergrads": 42284,
+   "tuitionIn": 20644,
+   "tuitionOut": 41790,
+   "coa": 39694,
+   "roomBoard": 14474,
+   "books": 1200,
+   "other": 5020,
+   "netAvg": 32875,
+   "netByIncome": [
+    19845,
+    20049,
+    25667,
+    31834,
+    37831
+   ],
+   "pell": 0.1388,
+   "grad6": 0.8609,
+   "retention": 0.9264,
+   "debt": 25000,
+   "earn10": 63435
+  },
+  {
+   "unitid": 186380,
+   "slug": "rutgers",
+   "short": "Rutgers",
+   "name": "Rutgers University-New Brunswick",
+   "ipedsName": "Rutgers University-New Brunswick",
+   "city": "New Brunswick",
+   "state": "NJ",
+   "control": "public",
+   "url": "https://newbrunswick.rutgers.edu/",
+   "npcUrl": "https://scarlethub.rutgers.edu/financial-services/tools-resources/net-price-calculator/",
+   "admRate": 0.5815,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    730
+   ],
+   "satMath": [
+    660,
+    770
+   ],
+   "act": [
+    28,
+    33
+   ],
+   "satAvg": 1410,
+   "undergrads": 37751,
+   "tuitionIn": 17929,
+   "tuitionOut": 37441,
+   "coa": 36993,
+   "roomBoard": 15714,
+   "books": 1418,
+   "other": 4458,
+   "netAvg": 24406,
+   "netByIncome": [
+    16343,
+    16210,
+    18282,
+    25106,
+    35016
+   ],
+   "pell": 0.279,
+   "grad6": 0.8363,
+   "retention": 0.9302,
+   "debt": 21500,
+   "earn10": 74479
+  },
+  {
+   "unitid": 163286,
+   "slug": "umd",
+   "short": "Maryland",
+   "name": "University of Maryland",
+   "ipedsName": "University of Maryland-College Park",
+   "city": "College Park",
+   "state": "MD",
+   "control": "public",
+   "url": "www.umd.edu/",
+   "npcUrl": "https://financialaid.umd.edu/resources-policies/net-price-calculator",
+   "admRate": 0.4479,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    690,
+    750
+   ],
+   "satMath": [
+    710,
+    780
+   ],
+   "act": [
+    32,
+    35
+   ],
+   "satAvg": 1473,
+   "undergrads": 30760,
+   "tuitionIn": 11809,
+   "tuitionOut": 41186,
+   "coa": 29299,
+   "roomBoard": 15958,
+   "books": 1250,
+   "other": 2714,
+   "netAvg": 15678,
+   "netByIncome": [
+    2962,
+    6051,
+    10273,
+    18250,
+    26691
+   ],
+   "pell": 0.1939,
+   "grad6": 0.8859,
+   "retention": 0.962,
+   "debt": 19000,
+   "earn10": 82860
+  },
+  {
+   "unitid": 236948,
+   "slug": "university-of-washington",
+   "short": "UW",
+   "name": "University of Washington",
+   "ipedsName": "University of Washington-Seattle Campus",
+   "city": "Seattle",
+   "state": "WA",
+   "control": "public",
+   "url": "https://www.washington.edu/",
+   "npcUrl": "https://www.washington.edu/financialaid/getting-started/net-price-calculator/",
+   "admRate": 0.3915,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 31942,
+   "tuitionIn": 12973,
+   "tuitionOut": 43209,
+   "coa": 32446,
+   "roomBoard": 18405,
+   "books": 900,
+   "other": 3027,
+   "netAvg": 14091,
+   "netByIncome": [
+    6384,
+    7039,
+    8110,
+    14328,
+    30019
+   ],
+   "pell": 0.1486,
+   "grad6": 0.8518,
+   "retention": 0.9473,
+   "debt": 14615,
+   "earn10": 78466
+  },
+  {
+   "unitid": 233921,
+   "slug": "virginia-tech",
+   "short": "Virginia Tech",
+   "name": "Virginia Tech",
+   "ipedsName": "Virginia Polytechnic Institute and State University",
+   "city": "Blacksburg",
+   "state": "VA",
+   "control": "public",
+   "url": "www.vt.edu/",
+   "npcUrl": "https://tcc.ruffalonl.com/virginia polytechnic institute and state universit/freshman-students",
+   "admRate": 0.5478,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    710
+   ],
+   "satMath": [
+    640,
+    740
+   ],
+   "act": [
+    28,
+    32
+   ],
+   "satAvg": 1364,
+   "undergrads": 30923,
+   "tuitionIn": 15948,
+   "tuitionOut": 37764,
+   "coa": 36951,
+   "roomBoard": 16550,
+   "books": 2678,
+   "other": 4494,
+   "netAvg": 24953,
+   "netByIncome": [
+    11689,
+    11670,
+    17894,
+    25835,
+    34201
+   ],
+   "pell": 0.1529,
+   "grad6": 0.8622,
+   "retention": 0.9308,
+   "debt": 21500,
+   "earn10": 81698
+  },
+  {
+   "unitid": 231624,
+   "slug": "william-and-mary",
+   "short": "William & Mary",
+   "name": "William & Mary",
+   "ipedsName": "William & Mary",
+   "city": "Williamsburg",
+   "state": "VA",
+   "control": "public",
+   "url": "https://www.wm.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/wm",
+   "admRate": 0.3407,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    710,
+    760
+   ],
+   "satMath": [
+    690,
+    770
+   ],
+   "act": [
+    32,
+    34
+   ],
+   "satAvg": 1473,
+   "undergrads": 7055,
+   "tuitionIn": 25914,
+   "tuitionOut": 51038,
+   "coa": 43035,
+   "roomBoard": 16182,
+   "books": 1050,
+   "other": 2460,
+   "netAvg": 19096,
+   "netByIncome": [
+    3106,
+    881,
+    5916,
+    16803,
+    34370
+   ],
+   "pell": 0.1245,
+   "grad6": 0.8942,
+   "retention": 0.9456,
+   "debt": 18500,
+   "earn10": 73490
+  },
+  {
+   "unitid": 139959,
+   "slug": "uga",
+   "short": "UGA",
+   "name": "University of Georgia",
+   "ipedsName": "University of Georgia",
+   "city": "Athens",
+   "state": "GA",
+   "control": "public",
+   "url": "www.uga.edu/",
+   "npcUrl": "https://osfa.uga.edu/sites/default/files/npcalc.htm",
+   "admRate": 0.377,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    640,
+    730
+   ],
+   "satMath": [
+    630,
+    750
+   ],
+   "act": [
+    29,
+    34
+   ],
+   "satAvg": 1397,
+   "undergrads": 32137,
+   "tuitionIn": 11450,
+   "tuitionOut": 31688,
+   "coa": 27993,
+   "roomBoard": 11672,
+   "books": 934,
+   "other": 4816,
+   "netAvg": 13936,
+   "netByIncome": [
+    8085,
+    8686,
+    13096,
+    16942,
+    18079
+   ],
+   "pell": 0.1675,
+   "grad6": 0.8969,
+   "retention": 0.9404,
+   "debt": 18500,
+   "earn10": 68726
+  },
+  {
+   "unitid": 217882,
+   "slug": "clemson",
+   "short": "Clemson",
+   "name": "Clemson University",
+   "ipedsName": "Clemson University",
+   "city": "Clemson",
+   "state": "SC",
+   "control": "public",
+   "url": "www.clemson.edu/",
+   "npcUrl": "https://netprice.app.clemson.edu/calc/",
+   "admRate": 0.3834,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    620,
+    700
+   ],
+   "satMath": [
+    620,
+    710
+   ],
+   "act": [
+    28,
+    32
+   ],
+   "satAvg": 1353,
+   "undergrads": 23300,
+   "tuitionIn": 15554,
+   "tuitionOut": 40866,
+   "coa": 35015,
+   "roomBoard": 13284,
+   "books": 1456,
+   "other": 5520,
+   "netAvg": 22253,
+   "netByIncome": [
+    13607,
+    14109,
+    18851,
+    24833,
+    27922
+   ],
+   "pell": 0.1475,
+   "grad6": 0.8656,
+   "retention": 0.9347,
+   "debt": 21500,
+   "earn10": 71513
+  },
+  {
+   "unitid": 218663,
+   "slug": "south-carolina",
+   "short": "South Carolina",
+   "name": "University of South Carolina",
+   "ipedsName": "University of South Carolina-Columbia",
+   "city": "Columbia",
+   "state": "SC",
+   "control": "public",
+   "url": "www.sc.edu/",
+   "npcUrl": "sc.edu/about/offices_and_divisions/financial_aid/cost_and_aid/cost_to_attend/index.php",
+   "admRate": 0.6015,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    600,
+    680
+   ],
+   "satMath": [
+    580,
+    680
+   ],
+   "act": [
+    26,
+    32
+   ],
+   "satAvg": 1297,
+   "undergrads": 29820,
+   "tuitionIn": 12688,
+   "tuitionOut": 35972,
+   "coa": 31638,
+   "roomBoard": 13534,
+   "books": 1438,
+   "other": 4530,
+   "netAvg": 22811,
+   "netByIncome": [
+    12634,
+    14953,
+    19859,
+    24478,
+    28125
+   ],
+   "pell": 0.1911,
+   "grad6": 0.7882,
+   "retention": 0.922,
+   "debt": 21500,
+   "earn10": 62177
+  },
+  {
+   "unitid": 100751,
+   "slug": "alabama",
+   "short": "Alabama",
+   "name": "The University of Alabama",
+   "ipedsName": "The University of Alabama",
+   "city": "Tuscaloosa",
+   "state": "AL",
+   "control": "public",
+   "url": "www.ua.edu/",
+   "npcUrl": "https://ua.aidcalc.cloud/netprice.htm",
+   "admRate": 0.7665,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    590,
+    690
+   ],
+   "satMath": [
+    580,
+    710
+   ],
+   "act": [
+    24,
+    31
+   ],
+   "satAvg": 1285,
+   "undergrads": 33227,
+   "tuitionIn": 12180,
+   "tuitionOut": 34172,
+   "coa": 33382,
+   "roomBoard": 15016,
+   "books": 700,
+   "other": 6028,
+   "netAvg": 22420,
+   "netByIncome": [
+    19169,
+    19884,
+    22258,
+    25658,
+    26729
+   ],
+   "pell": 0.184,
+   "grad6": 0.7337,
+   "retention": 0.8949,
+   "debt": 22750,
+   "earn10": 59221
+  },
+  {
+   "unitid": 100858,
+   "slug": "auburn",
+   "short": "Auburn",
+   "name": "Auburn University",
+   "ipedsName": "Auburn University",
+   "city": "Auburn",
+   "state": "AL",
+   "control": "public",
+   "url": "www.auburn.edu/",
+   "npcUrl": "https://www.auburn.edu/admissions/costcalc/index.php",
+   "admRate": 0.4592,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    630,
+    690
+   ],
+   "satMath": [
+    630,
+    700
+   ],
+   "act": [
+    26,
+    31
+   ],
+   "satAvg": 1345,
+   "undergrads": 26816,
+   "tuitionIn": 12890,
+   "tuitionOut": 34922,
+   "coa": 34919,
+   "roomBoard": 16626,
+   "books": 1200,
+   "other": 6166,
+   "netAvg": 24323,
+   "netByIncome": [
+    16681,
+    17627,
+    20558,
+    25808,
+    29547
+   ],
+   "pell": 0.1253,
+   "grad6": 0.8195,
+   "retention": 0.9478,
+   "debt": 21000,
+   "earn10": 65337
+  },
+  {
+   "unitid": 159391,
+   "slug": "lsu",
+   "short": "LSU",
+   "name": "Louisiana State University",
+   "ipedsName": "Louisiana State University and Agricultural & Mechanical College",
+   "city": "Baton Rouge",
+   "state": "LA",
+   "control": "public",
+   "url": "www.lsu.edu/",
+   "npcUrl": "https://www.lsu.edu/financialaid/cost/net_price_calculator.php",
+   "admRate": 0.7333,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    600,
+    680
+   ],
+   "satMath": [
+    580,
+    660
+   ],
+   "act": [
+    24,
+    30
+   ],
+   "satAvg": 1285,
+   "undergrads": 30594,
+   "tuitionIn": 11954,
+   "tuitionOut": 28631,
+   "coa": 34705,
+   "roomBoard": 15142,
+   "books": 1084,
+   "other": 7884,
+   "netAvg": 19151,
+   "netByIncome": [
+    13056,
+    15696,
+    20223,
+    23878,
+    26489
+   ],
+   "pell": 0.2655,
+   "grad6": 0.6881,
+   "retention": 0.8474,
+   "debt": 20500,
+   "earn10": 61251
+  },
+  {
+   "unitid": 221759,
+   "slug": "tennessee",
+   "short": "Tennessee",
+   "name": "University of Tennessee, Knoxville",
+   "ipedsName": "The University of Tennessee-Knoxville",
+   "city": "Knoxville",
+   "state": "TN",
+   "control": "public",
+   "url": "www.utk.edu/",
+   "npcUrl": "https://utk.clearcostcalculator.com/student/default/netpricecalculator/survey",
+   "admRate": 0.416,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    600,
+    680
+   ],
+   "satMath": [
+    600,
+    690
+   ],
+   "act": [
+    25,
+    31
+   ],
+   "satAvg": 1311,
+   "undergrads": 30418,
+   "tuitionIn": 13812,
+   "tuitionOut": 33256,
+   "coa": 33678,
+   "roomBoard": 13356,
+   "books": 1598,
+   "other": 6298,
+   "netAvg": 18976,
+   "netByIncome": [
+    10029,
+    12162,
+    18206,
+    23627,
+    25688
+   ],
+   "pell": 0.1889,
+   "grad6": 0.7392,
+   "retention": 0.919,
+   "debt": 20500,
+   "earn10": 60249
+  },
+  {
+   "unitid": 157085,
+   "slug": "kentucky",
+   "short": "Kentucky",
+   "name": "University of Kentucky",
+   "ipedsName": "University of Kentucky",
+   "city": "Lexington",
+   "state": "KY",
+   "control": "public",
+   "url": "https://www.uky.edu/",
+   "npcUrl": "https://uky.clearcostcalculator.com/student/default/netpricecalculator/survey",
+   "admRate": 0.9294,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    540,
+    650
+   ],
+   "satMath": [
+    530,
+    640
+   ],
+   "act": [
+    21,
+    28
+   ],
+   "satAvg": 1215,
+   "undergrads": 24763,
+   "tuitionIn": 13502,
+   "tuitionOut": 34140,
+   "coa": 34391,
+   "roomBoard": 16016,
+   "books": 1200,
+   "other": 5840,
+   "netAvg": 18851,
+   "netByIncome": [
+    12182,
+    12119,
+    16313,
+    21192,
+    26781
+   ],
+   "pell": 0.2252,
+   "grad6": 0.7142,
+   "retention": 0.8684,
+   "debt": 22500,
+   "earn10": 59025
+  },
+  {
+   "unitid": 104179,
+   "slug": "arizona",
+   "short": "Arizona",
+   "name": "University of Arizona",
+   "ipedsName": "University of Arizona",
+   "city": "Tucson",
+   "state": "AZ",
+   "control": "public",
+   "url": "https://www.arizona.edu/",
+   "npcUrl": "https://financialaid.arizona.edu/cost/npc",
+   "admRate": 0.8614,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    700
+   ],
+   "satMath": [
+    570,
+    720
+   ],
+   "act": [
+    21,
+    29
+   ],
+   "satAvg": 1246,
+   "undergrads": 42537,
+   "tuitionIn": 13926,
+   "tuitionOut": 42278,
+   "coa": 29423,
+   "roomBoard": 16746,
+   "books": 600,
+   "other": 4450,
+   "netAvg": 16674,
+   "netByIncome": [
+    13353,
+    14984,
+    16051,
+    19777,
+    22307
+   ],
+   "pell": 0.257,
+   "grad6": 0.6752,
+   "retention": 0.8278,
+   "debt": 19620,
+   "earn10": 59979
+  },
+  {
+   "unitid": 104151,
+   "slug": "arizona-state",
+   "short": "Arizona State",
+   "name": "Arizona State University",
+   "ipedsName": "Arizona State University Campus Immersion",
+   "city": "Tempe",
+   "state": "AZ",
+   "control": "public",
+   "url": "www.asu.edu/",
+   "npcUrl": "https://app.meadowfi.com/asu",
+   "admRate": 0.8989,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 64674,
+   "tuitionIn": 12223,
+   "tuitionOut": 33139,
+   "coa": 30111,
+   "roomBoard": 16712,
+   "books": 1320,
+   "other": 3920,
+   "netAvg": 14967,
+   "netByIncome": [
+    9070,
+    10711,
+    16801,
+    20130,
+    24296
+   ],
+   "pell": 0.2899,
+   "grad6": 0.6804,
+   "retention": 0.8664,
+   "debt": 19500,
+   "earn10": 62668
+  },
+  {
+   "unitid": 126614,
+   "slug": "cu-boulder",
+   "short": "CU Boulder",
+   "name": "University of Colorado Boulder",
+   "ipedsName": "University of Colorado Boulder",
+   "city": "Boulder",
+   "state": "CO",
+   "control": "public",
+   "url": "https://www.colorado.edu/",
+   "npcUrl": "https://ofa.colorado.edu/netpricecalculator/",
+   "admRate": 0.7808,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    630,
+    710
+   ],
+   "satMath": [
+    610,
+    720
+   ],
+   "act": [
+    29,
+    33
+   ],
+   "satAvg": 1357,
+   "undergrads": 31939,
+   "tuitionIn": 15666,
+   "tuitionOut": 44918,
+   "coa": 37684,
+   "roomBoard": 18468,
+   "books": 1200,
+   "other": 3122,
+   "netAvg": 25346,
+   "netByIncome": [
+    14231,
+    14381,
+    18828,
+    26915,
+    34818
+   ],
+   "pell": 0.1449,
+   "grad6": 0.7419,
+   "retention": 0.9015,
+   "debt": 19500,
+   "earn10": 69738
+  },
+  {
+   "unitid": 209551,
+   "slug": "oregon",
+   "short": "Oregon",
+   "name": "University of Oregon",
+   "ipedsName": "University of Oregon",
+   "city": "Eugene",
+   "state": "OR",
+   "control": "public",
+   "url": "https://www.uoregon.edu/",
+   "npcUrl": "https://financialaid.uoregon.edu/net_price_calculator",
+   "admRate": 0.883,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    690
+   ],
+   "satMath": [
+    550,
+    670
+   ],
+   "act": [
+    23,
+    30
+   ],
+   "satAvg": 1272,
+   "undergrads": 20497,
+   "tuitionIn": 16137,
+   "tuitionOut": 44598,
+   "coa": 34793,
+   "roomBoard": 16611,
+   "books": 1362,
+   "other": 2982,
+   "netAvg": 22182,
+   "netByIncome": [
+    15909,
+    15760,
+    18364,
+    24704,
+    31021
+   ],
+   "pell": 0.2135,
+   "grad6": 0.7169,
+   "retention": 0.864,
+   "debt": 20139,
+   "earn10": 61324
+  },
+  {
+   "unitid": 230764,
+   "slug": "utah",
+   "short": "Utah",
+   "name": "University of Utah",
+   "ipedsName": "University of Utah",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "control": "public",
+   "url": "www.utah.edu/",
+   "npcUrl": "financialaid.utah.edu/tuition-and-fees/cost-calculator.php",
+   "admRate": 0.8598,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    600,
+    690
+   ],
+   "satMath": [
+    590,
+    690
+   ],
+   "act": [
+    22,
+    29
+   ],
+   "satAvg": 1257,
+   "undergrads": 27264,
+   "tuitionIn": 9620,
+   "tuitionOut": 30860,
+   "coa": 25557,
+   "roomBoard": 13315,
+   "books": 1240,
+   "other": 9700,
+   "netAvg": 16200,
+   "netByIncome": [
+    13123,
+    13424,
+    14246,
+    17663,
+    21533
+   ],
+   "pell": 0.1959,
+   "grad6": 0.6505,
+   "retention": 0.8619,
+   "debt": 19000,
+   "earn10": 67170
+  },
+  {
+   "unitid": 153658,
+   "slug": "iowa",
+   "short": "Iowa",
+   "name": "University of Iowa",
+   "ipedsName": "University of Iowa",
+   "city": "Iowa City",
+   "state": "IA",
+   "control": "public",
+   "url": "https://uiowa.edu/",
+   "npcUrl": "https://admissions.uiowa.edu/finances/net-price-calculator",
+   "admRate": 0.8362,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    570,
+    670
+   ],
+   "satMath": [
+    560,
+    660
+   ],
+   "act": [
+    21,
+    28
+   ],
+   "satAvg": 1200,
+   "undergrads": 22264,
+   "tuitionIn": 11283,
+   "tuitionOut": 33371,
+   "coa": 28596,
+   "roomBoard": 12920,
+   "books": 950,
+   "other": 4066,
+   "netAvg": 22531,
+   "netByIncome": [
+    15316,
+    15489,
+    19930,
+    23811,
+    26266
+   ],
+   "pell": 0.1835,
+   "grad6": 0.7463,
+   "retention": 0.9036,
+   "debt": 22500,
+   "earn10": 64762
+  },
+  {
+   "unitid": 174066,
+   "slug": "minnesota",
+   "short": "Minnesota",
+   "name": "University of Minnesota Twin Cities",
+   "ipedsName": "University of Minnesota-Twin Cities",
+   "city": "Minneapolis",
+   "state": "MN",
+   "control": "public",
+   "url": "https://twin-cities.umn.edu/",
+   "npcUrl": "https://admissions.tc.umn.edu/cost-aid/cost-aid-scholarships/net-price-calculator",
+   "admRate": 0.7975,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    730
+   ],
+   "satMath": [
+    660,
+    770
+   ],
+   "act": [
+    26,
+    31
+   ],
+   "satAvg": 1362,
+   "undergrads": 31855,
+   "tuitionIn": 17214,
+   "tuitionOut": 38362,
+   "coa": 30061,
+   "roomBoard": 13856,
+   "books": 1000,
+   "other": 2350,
+   "netAvg": 16778,
+   "netByIncome": [
+    6642,
+    7283,
+    9931,
+    16415,
+    27008
+   ],
+   "pell": 0.1765,
+   "grad6": 0.8528,
+   "retention": 0.9112,
+   "debt": 19500,
+   "earn10": 69020
+  },
+  {
+   "unitid": 151351,
+   "slug": "indiana",
+   "short": "Indiana",
+   "name": "Indiana University Bloomington",
+   "ipedsName": "Indiana University-Bloomington",
+   "city": "Bloomington",
+   "state": "IN",
+   "control": "public",
+   "url": "https://bloomington.iu.edu/",
+   "npcUrl": "https://studentcentral.indiana.edu/cost-of-iu/index.html",
+   "admRate": 0.7821,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    590,
+    690
+   ],
+   "satMath": [
+    580,
+    710
+   ],
+   "act": [
+    27,
+    33
+   ],
+   "satAvg": 1313,
+   "undergrads": 37806,
+   "tuitionIn": 12144,
+   "tuitionOut": 41891,
+   "coa": 28801,
+   "roomBoard": 13984,
+   "books": 1250,
+   "other": 3224,
+   "netAvg": 16264,
+   "netByIncome": [
+    6324,
+    7610,
+    12154,
+    20204,
+    25128
+   ],
+   "pell": 0.1676,
+   "grad6": 0.8021,
+   "retention": 0.9106,
+   "debt": 19509,
+   "earn10": 63742
+  },
+  {
+   "unitid": 171100,
+   "slug": "michigan-state",
+   "short": "Michigan State",
+   "name": "Michigan State University",
+   "ipedsName": "Michigan State University",
+   "city": "East Lansing",
+   "state": "MI",
+   "control": "public",
+   "url": "https://www.msu.edu/",
+   "npcUrl": "https://msu.clearcostcalculator.com/student/default/netpricecalculator/survey",
+   "admRate": 0.848,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    590,
+    680
+   ],
+   "satMath": [
+    590,
+    680
+   ],
+   "act": [
+    25,
+    31
+   ],
+   "satAvg": 1269,
+   "undergrads": 40922,
+   "tuitionIn": 16458,
+   "tuitionOut": 43842,
+   "coa": 32198,
+   "roomBoard": 12564,
+   "books": 1380,
+   "other": 3838,
+   "netAvg": 19680,
+   "netByIncome": [
+    7068,
+    10830,
+    16521,
+    22703,
+    28546
+   ],
+   "pell": 0.2009,
+   "grad6": 0.8072,
+   "retention": 0.9005,
+   "debt": 23250,
+   "earn10": 67253
+  },
+  {
+   "unitid": 243780,
+   "slug": "purdue",
+   "short": "Purdue",
+   "name": "Purdue University",
+   "ipedsName": "Purdue University-Main Campus",
+   "city": "West Lafayette",
+   "state": "IN",
+   "control": "public",
+   "url": "https://www.purdue.edu/",
+   "npcUrl": "https://www.purdue.edu/dfa/cost/calculator",
+   "admRate": 0.4987,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    600,
+    720
+   ],
+   "satMath": [
+    600,
+    760
+   ],
+   "act": [
+    27,
+    34
+   ],
+   "satAvg": 1364,
+   "undergrads": 44503,
+   "tuitionIn": 9992,
+   "tuitionOut": 28794,
+   "coa": 24591,
+   "roomBoard": 12820,
+   "books": 1070,
+   "other": 2290,
+   "netAvg": 14600,
+   "netByIncome": [
+    5098,
+    6241,
+    9438,
+    18177,
+    22742
+   ],
+   "pell": 0.1298,
+   "grad6": 0.831,
+   "retention": 0.927,
+   "debt": 19500,
+   "earn10": 72424
+  },
+  {
+   "unitid": 178396,
+   "slug": "mizzou",
+   "short": "Mizzou",
+   "name": "University of Missouri",
+   "ipedsName": "University of Missouri-Columbia",
+   "city": "Columbia",
+   "state": "MO",
+   "control": "public",
+   "url": "https://missouri.edu/",
+   "npcUrl": "https://financialaid.missouri.edu/cost-of-attendance/net-price-calculator/",
+   "admRate": 0.7847,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    670
+   ],
+   "satMath": [
+    570,
+    660
+   ],
+   "act": [
+    23,
+    30
+   ],
+   "satAvg": 1247,
+   "undergrads": 23929,
+   "tuitionIn": 14837,
+   "tuitionOut": 36056,
+   "coa": 31713,
+   "roomBoard": 13700,
+   "books": 950,
+   "other": 3558,
+   "netAvg": 20268,
+   "netByIncome": [
+    13841,
+    13378,
+    13722,
+    19762,
+    26304
+   ],
+   "pell": 0.2007,
+   "grad6": 0.7494,
+   "retention": 0.9268,
+   "debt": 20500,
+   "earn10": 63403
+  },
+  {
+   "unitid": 207500,
+   "slug": "oklahoma",
+   "short": "Oklahoma",
+   "name": "University of Oklahoma",
+   "ipedsName": "University of Oklahoma-Norman Campus",
+   "city": "Norman",
+   "state": "OK",
+   "control": "public",
+   "url": "https://www.ou.edu/",
+   "npcUrl": "https://www.ou.edu/sfc/estimating-costs/net-price-calculator",
+   "admRate": 0.766,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    580,
+    670
+   ],
+   "satMath": [
+    560,
+    660
+   ],
+   "act": [
+    23,
+    29
+   ],
+   "satAvg": 1246,
+   "undergrads": 22734,
+   "tuitionIn": 9797,
+   "tuitionOut": 27377,
+   "coa": 28872,
+   "roomBoard": 13630,
+   "books": 800,
+   "other": 6989,
+   "netAvg": 15300,
+   "netByIncome": [
+    10509,
+    10602,
+    14536,
+    19342,
+    20986
+   ],
+   "pell": 0.2497,
+   "grad6": 0.7533,
+   "retention": 0.9,
+   "debt": 20654,
+   "earn10": 63126
+  },
+  {
+   "unitid": 106397,
+   "slug": "arkansas",
+   "short": "Arkansas",
+   "name": "University of Arkansas",
+   "ipedsName": "University of Arkansas",
+   "city": "Fayetteville",
+   "state": "AR",
+   "control": "public",
+   "url": "https://www.uark.edu/",
+   "npcUrl": "https://finaid.uark.edu/aid-calculator.php",
+   "admRate": 0.743,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    520,
+    620
+   ],
+   "satMath": [
+    510,
+    600
+   ],
+   "act": [
+    21,
+    28
+   ],
+   "satAvg": 1169,
+   "undergrads": 28677,
+   "tuitionIn": 10104,
+   "tuitionOut": 29966,
+   "coa": 27767,
+   "roomBoard": 14244,
+   "books": 1154,
+   "other": 5928,
+   "netAvg": 18209,
+   "netByIncome": [
+    14319,
+    14322,
+    15934,
+    20772,
+    22470
+   ],
+   "pell": 0.1779,
+   "grad6": 0.7052,
+   "retention": 0.8637,
+   "debt": 21500,
+   "earn10": 58191
+  },
+  {
+   "unitid": 229115,
+   "slug": "texas-tech",
+   "short": "Texas Tech",
+   "name": "Texas Tech University",
+   "ipedsName": "Texas Tech University",
+   "city": "Lubbock",
+   "state": "TX",
+   "control": "public",
+   "url": "www.ttu.edu/",
+   "npcUrl": "https://www.depts.ttu.edu/financialaid/calculator/",
+   "admRate": 0.7265,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    550,
+    640
+   ],
+   "satMath": [
+    540,
+    640
+   ],
+   "act": [
+    23,
+    28
+   ],
+   "satAvg": 1190,
+   "undergrads": 32394,
+   "tuitionIn": 11852,
+   "tuitionOut": 24451,
+   "coa": 27443,
+   "roomBoard": 10742,
+   "books": 1200,
+   "other": 4731,
+   "netAvg": 19070,
+   "netByIncome": [
+    12457,
+    13851,
+    17058,
+    22073,
+    24622
+   ],
+   "pell": 0.2775,
+   "grad6": 0.6869,
+   "retention": 0.8495,
+   "debt": 21500,
+   "earn10": 62454
+  },
+  {
+   "unitid": 225511,
+   "slug": "uh",
+   "short": "UH",
+   "name": "University of Houston",
+   "ipedsName": "University of Houston",
+   "city": "Houston",
+   "state": "TX",
+   "control": "public",
+   "url": "https://www.uh.edu/",
+   "npcUrl": "https://www.uh.edu/financial/net-price-calculator/",
+   "admRate": 0.7392,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    590,
+    670
+   ],
+   "satMath": [
+    570,
+    670
+   ],
+   "act": [
+    23,
+    29
+   ],
+   "satAvg": 1250,
+   "undergrads": 38380,
+   "tuitionIn": 9717,
+   "tuitionOut": 22547,
+   "coa": 26185,
+   "roomBoard": 11286,
+   "books": 1430,
+   "other": 5328,
+   "netAvg": 14276,
+   "netByIncome": [
+    10929,
+    10220,
+    12528,
+    19197,
+    23811
+   ],
+   "pell": 0.4165,
+   "grad6": 0.6456,
+   "retention": 0.8699,
+   "debt": 18194,
+   "earn10": 62377
+  },
+  {
+   "unitid": 110422,
+   "slug": "cal-poly",
+   "short": "Cal Poly",
+   "name": "Cal Poly San Luis Obispo",
+   "ipedsName": "California Polytechnic State University-San Luis Obispo",
+   "city": "San Luis Obispo",
+   "state": "CA",
+   "control": "public",
+   "url": "calpoly.edu/",
+   "npcUrl": "https://www.calpoly.edu/financial-aid/costs-and-affordability/undergraduate-costs-of-attendance/undergraduate-net-price-calculator",
+   "admRate": 0.3132,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 21996,
+   "tuitionIn": 13596,
+   "tuitionOut": 34665,
+   "coa": 32265,
+   "roomBoard": 18792,
+   "books": 1119,
+   "other": 3069,
+   "netAvg": 16665,
+   "netByIncome": [
+    7529,
+    7253,
+    9896,
+    15786,
+    27772
+   ],
+   "pell": 0.1924,
+   "grad6": 0.864,
+   "retention": 0.9555,
+   "debt": 18500,
+   "earn10": 90768
+  },
+  {
+   "unitid": 122409,
+   "slug": "sdsu",
+   "short": "SDSU",
+   "name": "San Diego State University",
+   "ipedsName": "San Diego State University",
+   "city": "San Diego",
+   "state": "CA",
+   "control": "public",
+   "url": "https://www.sdsu.edu/",
+   "npcUrl": "https://sacd.sdsu.edu/financial-aid/financial-aid/eligibility/cost-of-attendance/net-price-calculator",
+   "admRate": 0.3619,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 35377,
+   "tuitionIn": 8728,
+   "tuitionOut": 21328,
+   "coa": 27780,
+   "roomBoard": 23030,
+   "books": 946,
+   "other": 3386,
+   "netAvg": 15364,
+   "netByIncome": [
+    9910,
+    10017,
+    12697,
+    15891,
+    23821
+   ],
+   "pell": 0.3174,
+   "grad6": 0.7643,
+   "retention": 0.9063,
+   "debt": 15000,
+   "earn10": 64909
+  },
+  {
+   "unitid": 110583,
+   "slug": "csulb",
+   "short": "CSULB",
+   "name": "Cal State Long Beach",
+   "ipedsName": "California State University-Long Beach",
+   "city": "Long Beach",
+   "state": "CA",
+   "control": "public",
+   "url": "www.csulb.edu/",
+   "npcUrl": "https://www.calstate.edu/apply/paying-for-college/csu-costs",
+   "admRate": 0.4627,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 35924,
+   "tuitionIn": 7350,
+   "tuitionOut": 19950,
+   "coa": 22679,
+   "roomBoard": 15612,
+   "books": 1562,
+   "other": 4446,
+   "netAvg": 10440,
+   "netByIncome": [
+    7183,
+    7831,
+    9705,
+    12630,
+    19750
+   ],
+   "pell": 0.5018,
+   "grad6": 0.6888,
+   "retention": 0.868,
+   "debt": 14289,
+   "earn10": 64403
+  },
+  {
+   "unitid": 196079,
+   "slug": "binghamton",
+   "short": "Binghamton",
+   "name": "Binghamton University",
+   "ipedsName": "Binghamton University",
+   "city": "Vestal",
+   "state": "NY",
+   "control": "public",
+   "url": "www.binghamton.edu/",
+   "npcUrl": "www.suny.edu/howmuch/netpricecalculator.xhtml?id=2&embed=n&headerUrl=www.binghamton.edu/npc/logo.png&cssUrl=www.binghamton.edu/np",
+   "admRate": 0.3861,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    670,
+    740
+   ],
+   "satMath": [
+    670,
+    760
+   ],
+   "act": [
+    30,
+    32
+   ],
+   "satAvg": 1415,
+   "undergrads": 14655,
+   "tuitionIn": 10567,
+   "tuitionOut": 30447,
+   "coa": 30345,
+   "roomBoard": 18809,
+   "books": 1000,
+   "other": 1000,
+   "netAvg": 21620,
+   "netByIncome": [
+    12171,
+    15281,
+    20347,
+    23533,
+    28475
+   ],
+   "pell": 0.2812,
+   "grad6": 0.8162,
+   "retention": 0.8938,
+   "debt": 18500,
+   "earn10": 80596
+  },
+  {
+   "unitid": 196097,
+   "slug": "stony-brook",
+   "short": "Stony Brook",
+   "name": "Stony Brook University",
+   "ipedsName": "Stony Brook University",
+   "city": "Stony Brook",
+   "state": "NY",
+   "control": "public",
+   "url": "https://www.stonybrook.edu/",
+   "npcUrl": "https://www.stonybrook.edu/commcms/finaid/finaidbasics/net_price_calc.html",
+   "admRate": 0.4904,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    730
+   ],
+   "satMath": [
+    680,
+    770
+   ],
+   "act": [
+    29,
+    33
+   ],
+   "satAvg": 1419,
+   "undergrads": 18101,
+   "tuitionIn": 10931,
+   "tuitionOut": 32741,
+   "coa": 30539,
+   "roomBoard": 18196,
+   "books": 900,
+   "other": 3248,
+   "netAvg": 18784,
+   "netByIncome": [
+    12943,
+    15432,
+    20728,
+    23424,
+    27716
+   ],
+   "pell": 0.3944,
+   "grad6": 0.7556,
+   "retention": 0.8981,
+   "debt": 18228,
+   "earn10": 74502
+  },
+  {
+   "unitid": 166629,
+   "slug": "umass-amherst",
+   "short": "UMass Amherst",
+   "name": "UMass Amherst",
+   "ipedsName": "University of Massachusetts-Amherst",
+   "city": "Amherst",
+   "state": "MA",
+   "control": "public",
+   "url": "www.umass.edu/",
+   "npcUrl": "www.umass.edu/net_price_calculator/",
+   "admRate": 0.5973,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    730
+   ],
+   "satMath": [
+    660,
+    770
+   ],
+   "act": [
+    30,
+    33
+   ],
+   "satAvg": 1423,
+   "undergrads": 23671,
+   "tuitionIn": 17772,
+   "tuitionOut": 40449,
+   "coa": 34549,
+   "roomBoard": 16710,
+   "books": 1200,
+   "other": 1440,
+   "netAvg": 22383,
+   "netByIncome": [
+    10164,
+    10456,
+    12932,
+    18964,
+    30793
+   ],
+   "pell": 0.1994,
+   "grad6": 0.8326,
+   "retention": 0.9191,
+   "debt": 22763,
+   "earn10": 71631
+  },
+  {
+   "unitid": 129020,
+   "slug": "uconn",
+   "short": "UConn",
+   "name": "University of Connecticut",
+   "ipedsName": "University of Connecticut",
+   "city": "Storrs",
+   "state": "CT",
+   "control": "public",
+   "url": "https://uconn.edu/",
+   "npcUrl": "https://financialaid.uconn.edu/pricecalc/",
+   "admRate": 0.5239,
+   "testPolicy2024": 1,
+   "satEbrw": [
+    610,
+    710
+   ],
+   "satMath": [
+    600,
+    730
+   ],
+   "act": [
+    28,
+    33
+   ],
+   "satAvg": 1348,
+   "undergrads": 19835,
+   "tuitionIn": 21044,
+   "tuitionOut": 43712,
+   "coa": 39426,
+   "roomBoard": 14380,
+   "books": 990,
+   "other": 4330,
+   "netAvg": 25097,
+   "netByIncome": [
+    15193,
+    16339,
+    20608,
+    28285,
+    33797
+   ],
+   "pell": 0.2538,
+   "grad6": 0.8329,
+   "retention": 0.9246,
+   "debt": 21500,
+   "earn10": 73997
+  },
+  {
+   "unitid": 215293,
+   "slug": "pitt",
+   "short": "Pitt",
+   "name": "University of Pittsburgh",
+   "ipedsName": "University of Pittsburgh-Pittsburgh Campus",
+   "city": "Pittsburgh",
+   "state": "PA",
+   "control": "public",
+   "url": "www.pitt.edu/",
+   "npcUrl": "pitt.studentaidcalculator.com/survey.aspx",
+   "admRate": 0.5808,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    640,
+    720
+   ],
+   "satMath": [
+    640,
+    740
+   ],
+   "act": [
+    29,
+    33
+   ],
+   "satAvg": 1370,
+   "undergrads": 20370,
+   "tuitionIn": 21926,
+   "tuitionOut": 41430,
+   "coa": 38105,
+   "roomBoard": 13620,
+   "books": 596,
+   "other": 3014,
+   "netAvg": 30434,
+   "netByIncome": [
+    14709,
+    18371,
+    23192,
+    31567,
+    36008
+   ],
+   "pell": 0.1398,
+   "grad6": 0.855,
+   "retention": 0.9199,
+   "debt": 24250,
+   "earn10": 66125
+  },
+  {
+   "unitid": 216339,
+   "slug": "temple",
+   "short": "Temple",
+   "name": "Temple University",
+   "ipedsName": "Temple University",
+   "city": "Philadelphia",
+   "state": "PA",
+   "control": "public",
+   "url": "www.temple.edu/",
+   "npcUrl": "https://sfs.temple.edu/sites/sfs/files/netprice.html",
+   "admRate": 0.8041,
+   "testPolicy2024": 3,
+   "satEbrw": [
+    null,
+    null
+   ],
+   "satMath": [
+    null,
+    null
+   ],
+   "act": [
+    null,
+    null
+   ],
+   "satAvg": null,
+   "undergrads": 20970,
+   "tuitionIn": 23011,
+   "tuitionOut": 38958,
+   "coa": 40903,
+   "roomBoard": 17690,
+   "books": 1250,
+   "other": 4555,
+   "netAvg": 28198,
+   "netByIncome": [
+    22694,
+    23431,
+    26534,
+    29397,
+    34947
+   ],
+   "pell": 0.3197,
+   "grad6": 0.7505,
+   "retention": 0.8261,
+   "debt": 24395,
+   "earn10": 63727
+  },
+  {
+   "unitid": 199193,
+   "slug": "nc-state",
+   "short": "NC State",
+   "name": "NC State University",
+   "ipedsName": "North Carolina State University at Raleigh",
+   "city": "Raleigh",
+   "state": "NC",
+   "control": "public",
+   "url": "www.ncsu.edu/",
+   "npcUrl": "https://npc.collegeboard.org/app/ncsu",
+   "admRate": 0.4174,
+   "testPolicy2024": 5,
+   "satEbrw": [
+    650,
+    720
+   ],
+   "satMath": [
+    650,
+    750
+   ],
+   "act": [
+    28,
+    32
+   ],
+   "satAvg": 1376,
+   "undergrads": 27371,
+   "tuitionIn": 8799,
+   "tuitionOut": 32847,
+   "coa": 26425,
+   "roomBoard": 14332,
+   "books": 876,
+   "other": 3230,
+   "netAvg": 17303,
+   "netByIncome": [
+    6382,
+    8758,
+    13334,
+    20087,
+    24652
+   ],
+   "pell": 0.1958,
+   "grad6": 0.8476,
+   "retention": 0.9447,
+   "debt": 20121,
+   "earn10": 68758
+  }
+ ]
+}

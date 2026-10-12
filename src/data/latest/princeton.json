@@ -1,0 +1,114 @@
+{
+ "slug": "princeton",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 42303,
+  "admitted": 1868,
+  "enrolled": 1408,
+  "doc": "Princeton University Common Data Set 2025-2026 (v2), C1",
+  "url": "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 entering class (Class of 2030), enrolled profile as of Sept. 4, 2026",
+  "applicants": null,
+  "admitted": null,
+  "enrolled": 1414,
+  "doc": "Princeton Office of Admission, Admission Statistics page: 1,414 enrolled; 19% first-generation; 71% qualify for financial aid; 25% Pell-eligible; 12.9% international citizens; 62.2% from public schools",
+  "url": "https://admission.princeton.edu/apply/admission-statistics",
+  "accessed": "2026-10-12"
+ },
+ "scores": {
+  "satComposite": [
+   1490,
+   1530,
+   1560
+  ],
+  "satEbrw": [
+   740,
+   760,
+   780
+  ],
+  "satMath": [
+   760,
+   790,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.6,
+  "pctAct": 0.2,
+  "doc": "CDS 2025-2026, C9 (848 SAT submitters, 288 ACT submitters)",
+  "url": "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "For applicants seeking to enroll in fall 2027 (2026-27 cycle), Princeton remains test optional; applying without an SAT or ACT is no disadvantage. Princeton will require the SAT or ACT again beginning with the 2027-28 cycle (fall 2028 entry), except for active military personnel.",
+  "since": "test optional since 2020; required again for fall 2028 entry",
+  "url": "https://admission.princeton.edu/apply/standardized-testing",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 3.96,
+  "pctSubmitting": 0.99,
+  "doc": "CDS 2025-2026, C12 (C11: 72% of enrolled first-years had a 4.0)",
+  "url": "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 68140,
+  "fees": 314,
+  "housingFood": 22120,
+  "books": 1050,
+  "personal": 3000,
+  "travel": "varies, 50 to 5,000",
+  "total": 94624,
+  "totalIncludes": "tuition 68,140 + housing 13,010 + food 9,110 + fees 314 (activities fee and class dues) + books/supplies 1,050 + personal 3,000. Transportation (50 to 5,000) is not included. Student Health Plan required if not covered by a family policy (not included).",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://admission.princeton.edu/cost-aid/fees-payment-options",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Admission is need-blind; Princeton meets 100% of demonstrated need with grant aid, and students are not required or expected to borrow. Published average family contribution for 2026-27: $0 at $150,000 income, $12,500 at $200,000, $25,000 at $250,000, $37,500 at $300,000, $50,000 at $350,000 (US families with assets under $175,000 and one child in college).",
+  "year": "2026-27",
+  "url": "https://admission.princeton.edu/cost-aid"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": true,
+  "deadlines": {
+   "early": "November 1 (Single-Choice Early Action, decision mid-December)",
+   "regular": "January 1"
+  },
+  "url": "https://admission.princeton.edu/apply/application-dates-deadlines"
+ },
+ "facts": [
+  {
+   "text": "Princeton stays test optional for fall 2027 applicants but will require the SAT or ACT from the 2027-28 cycle (fall 2028 entry), after finding that score submitters performed better academically.",
+   "url": "https://admission.princeton.edu/apply/standardized-testing"
+  },
+  {
+   "text": "New Jersey residents get no in-state edge: 229 of 4,602 in-state applicants were admitted for fall 2025 (5.0%), against 1,398 of 27,134 out-of-state (5.2%) and 241 of 10,567 international applicants (2.3%).",
+   "url": "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+  },
+  {
+   "text": "A typical US family earning $150,000 with assets under $175,000 has a total family contribution of $0 in 2026-27.",
+   "url": "https://admission.princeton.edu/cost-aid"
+  },
+  {
+   "text": "89% of recent seniors graduated debt free, and 71% of the Class of 2030 qualified for financial aid.",
+   "url": "https://admission.princeton.edu/cost-aid"
+  },
+  {
+   "text": "For fall 2025, 1,370 applicants were offered a waiting-list place, 1,086 accepted and 36 were admitted.",
+   "url": "https://ir.princeton.edu/sites/g/files/toruqf2041/files/documents/CDS_2526_Princeton_v2.pdf"
+  }
+ ],
+ "notes": "ir.princeton.edu returns 403 to curl for HTML pages; the CDS link (document/606) was found through the IR CDS page in Chrome and the PDF then downloaded directly (v2 file; a v1.4 URL cited elsewhere no longer resolves). Residency rates in facts are computed from CDS C1 counts (229/4602, 1398/27134, 241/10567). No Early Decision. Class of 2030 applicant and admit counts were not published on the admission statistics page (only enrolled 1,414). CDS C8F says 'test optional through the 2026-27 cycle', consistent with the admissions page."
+}

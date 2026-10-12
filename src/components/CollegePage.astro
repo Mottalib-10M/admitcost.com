@@ -1,0 +1,99 @@
+---
+/**
+ * One university: the odds and net price calculator locked on it first (RECETTE §5, 2026-10-11), the key
+ * figures in a strip, the folded answer, the prose written for this school, then the generated tables
+ * (net price by income, cost lines, admissions, outcomes), marked data-chrome because their form repeats
+ * on every university page (RECETTE §6.4).
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import MiniSim from './calc/MiniSim';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import { route, ROUTES } from '../i18n/routes';
+import { label } from '../i18n/nav';
+import { t } from '../i18n/ui';
+import { pageById, collegePageById, collegeId } from '../lib/pages';
+import { helpers, SOURCES, table } from '../lib/helpers';
+import { schoolBySlug, SC_META } from '../lib/data';
+import { coaOf } from '../lib/props';
+import { usd, num, pct, day } from '../lib/fmt';
+import { articleSchema, faqSchema, breadcrumbSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+import { AUTHOR_NAME, LAST_UPDATED } from '../data/site-config';
+import type { CollegeDef } from '../lib/page-types';
+interface Props { def: CollegeDef }
+const { def } = Astro.props;
+const lang = 'en';
+const ui = t(lang);
+const S = schoolBySlug(def.slug);
+const L = S.latest;
+const id = collegeId(def.slug);
+const path = route(id, lang);
+const h1 = `${S.name} acceptance rate, SAT range and net price`;
+const jsonLd = [webApplicationSchema({ name: h1, description: def.description, path, lang }), articleSchema({ title: h1, description: def.description, path, lang }), webPageSchema({ name: h1, description: def.description, path, lang }), breadcrumbSchema([{ name: ui.breadcrumbHome, path: route('home', lang) }, { name: 'Acceptance rates', path: route('acceptance-rates', lang) }, { name: S.name, path }])];
+if (def.faqs.length) jsonLd.push(faqSchema(def.faqs, lang));
+const card = (rid: string) => pageById(rid)?.card ?? (collegePageById(rid) ? (() => { const o = schoolBySlug(collegePageById(rid)!.slug); return `Admit rate ${o.adm ? pct(o.adm.rate, o.adm.rate < 0.1 ? 2 : 1) : 'n/a'}, sticker price ${o.sticker?.total ? usd(o.sticker.total) : 'n/a'}`; })() : '');
+const related = def.related.filter((r) => ROUTES.some((x) => x.id === r)).map((r) => ({ href: route(r, lang), name: label(r), description: card(r) }));
+const docs: Array<{ name: string; url: string }> = [];
+const addDoc = (name: string | undefined, url: string | undefined) => { if (url && !docs.some((d) => d.url === url)) docs.push({ name: `${S.name}: ${name ?? 'official page'}`, url }); };
+if (L) { addDoc(L.cycle?.doc, L.cycle?.url); addDoc(L.cycleNewer?.doc, L.cycleNewer?.url); addDoc('testing policy', L.testPolicy?.url); addDoc(`cost of attendance ${L.cost?.year ?? ''}`.trim(), L.cost?.url); addDoc('financial aid', L.aidPromise?.url); addDoc('application plans and deadlines', L.plans?.url); }
+const npc = S.npcUrl ? (S.npcUrl.startsWith('http') ? S.npcUrl : `https://${S.npcUrl}`) : '';
+if (npc) addDoc('net price calculator', npc);
+const sources = [...docs, ...['scorecard', 'scorecard_doc', 'ipeds_netprice', 'concordance'].map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url }))];
+const parts = def.body(helpers()).split(/<!--mini:([A-Za-z0-9_-]+)(?:\|([A-Za-z0-9+/=]+))?-->/);
+const decode = (b?: string) => (b ? Buffer.from(b, 'base64').toString('utf8') : undefined);
+const Y = SC_META.years;
+const r = (x: number | null | undefined, d = 1) => (typeof x === 'number' ? pct(x, d) : 'n/a');
+const netRows = SC_META.incomeBands.map((b, i) => [b, S.netByIncome[i] === null ? 'n/a' : usd(Math.max(0, S.netByIncome[i]!)), S.coa && S.netByIncome[i] !== null ? r(Math.max(0, S.netByIncome[i]!) / S.coa, 0) : 'n/a']);
+netRows.push(['All aided students', S.netAvg === null ? 'n/a' : usd(S.netAvg), S.coa && S.netAvg !== null ? r(S.netAvg / S.coa, 0) : 'n/a']);
+const coa = coaOf(S);
+const coaRows: Array<Array<string>> = coa.lines.map(([l, v], i) => [l, usd(v), coa.outLines ? usd(coa.outLines[i]?.[1] ?? v) : '']);
+coaRows.push(['<strong>Total</strong>', `<strong>${usd(coa.total)}</strong>`, coa.outTotal ? `<strong>${usd(coa.outTotal)}</strong>` : '']);
+const admRows: Array<Array<string>> = [];
+for (const c of [L?.cycleNewer, L?.cycle]) if (c?.applicants && c.admitted) admRows.push([c.label, num(c.applicants), num(c.admitted), c.enrolled ? num(c.enrolled) : 'n/a', pct(c.admitted / c.applicants, c.admitted / c.applicants < 0.1 ? 2 : 1)]);
+if (S.admRate !== null) admRows.push(['Fall 2024 (federal IPEDS figure)', 'n/a', 'n/a', 'n/a', pct(S.admRate, S.admRate < 0.1 ? 2 : 1)]);
+const testRows: Array<Array<string>> = [];
+if (S.sat) testRows.push([`SAT total (${S.sat.label})`, num(S.sat.p25), S.sat.p50 ? num(S.sat.p50) : 'n/a', num(S.sat.p75)]);
+if (S.actR) testRows.push([`ACT composite (${S.actR.label})`, String(S.actR.p25), S.actR.p50 ? String(S.actR.p50) : 'n/a', String(S.actR.p75)]);
+if (S.satEbrw[0] && S.satMath[0] && S.sat?.label.indexOf('Scorecard') === -1) testRows.push(['SAT sections, fall 2024 (Scorecard)', `${S.satEbrw[0]} + ${S.satMath[0]}`, 'n/a', `${S.satEbrw[1]} + ${S.satMath[1]}`]);
+const outRows = [['Graduated within 6 years', r(S.grad6, 0), Y.grad], ['Returned for a second year', r(S.retention, 0), Y.retention], ['Median earnings 10 years after entry', S.earn10 ? usd(S.earn10) : 'n/a', Y.earnings], ['Median federal debt of graduates', S.debt ? usd(S.debt) : 'n/a', Y.debt], ['Undergraduates', S.undergrads ? num(S.undergrads) : 'n/a', 'fall 2024'], ['Students with a Pell Grant', r(S.pell, 0), '2023-24']];
+const band2 = S.netByIncome[2];
+---
+<PageLayout title={def.title} description={def.description} lang={lang} jsonLd={jsonLd} faqs={def.faqs} related={related} sources={sources} breadcrumbs={[{ label: 'Acceptance rates', href: route('acceptance-rates', lang) }, { label: S.name }]}>
+  <article>
+    <header class="mb-4">
+      <p class="text-xs font-semibold uppercase tracking-wide text-accent-700 sm:text-sm">{S.city}, {S.state} · {S.control} · {S.undergrads ? `${num(S.undergrads)} undergraduates` : ''}</p>
+      <h1 class="mt-1 font-serif text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{h1}</h1>
+      <p class="mt-2 text-base text-navy-700 sm:text-lg">{def.intro}</p>
+    </header>
+    <div data-outil class="mb-4"><Tool kind="odds" school={def.slug} lock={true} idPrefix={def.slug.slice(0, 5).replace(/-/g, '')} /></div>
+    <p class="mb-6 text-sm text-navy-600">Admissions: {S.adm?.source ?? 'n/a'} · net price: College Scorecard, {Y.net} · figures checked <time datetime={LAST_UPDATED}>{day(LAST_UPDATED)}</time> · {ui.reviewedBy} <a href={route('about', lang)} class="underline hover:text-navy-900">{AUTHOR_NAME}</a> · <a href={route('method', lang)} class="underline hover:text-navy-900">{label('method')}</a></p>
+    <dl data-chrome class="mb-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <div class="border-l-2 border-accent-500 pl-3"><dt class="text-xs text-navy-600">Admit rate, newest cycle</dt><dd class="tabular-nums text-xl font-bold text-navy-900">{S.adm ? pct(S.adm.rate, S.adm.rate < 0.1 ? 2 : 1) : 'n/a'}</dd></div>
+      <div class="border-l-2 border-accent-500 pl-3"><dt class="text-xs text-navy-600">SAT middle 50%</dt><dd class="tabular-nums text-base font-semibold text-navy-900">{S.testStatus === 'blind' ? 'test-free' : S.sat ? `${num(S.sat.p25)} to ${num(S.sat.p75)}` : 'n/a'}</dd></div>
+      <div class="border-l-2 border-accent-500 pl-3"><dt class="text-xs text-navy-600">Sticker price {S.sticker?.year}</dt><dd class="tabular-nums text-xl font-bold text-navy-900">{S.sticker?.total ? usd(S.sticker.total) : 'n/a'}</dd></div>
+      <div class="border-l-2 border-accent-500 pl-3"><dt class="text-xs text-navy-600">Net price, income $48k to $75k</dt><dd class="tabular-nums text-xl font-bold text-navy-900">{band2 === null ? 'n/a' : usd(Math.max(0, band2))}</dd></div>
+    </dl>
+    <Clamp text={def.resume} lang={lang} id={`clamp-${def.slug}`} class="mb-8" />
+    <div class="prose prose-slate max-w-none prose-headings:font-serif">
+      {parts.map((p, i) => i % 3 === 0 ? <Fragment set:html={p ?? ''} /> : i % 3 === 1 ? <MiniSim client:load kind={p} arg={decode(parts[i + 1])} href={route('compare-colleges', lang)} /> : null)}
+    </div>
+    {L?.facts && L.facts.length > 0 && (
+      <section class="mt-8">
+        <h2 class="font-serif text-2xl font-bold text-navy-900">From {S.name}’s own documents</h2>
+        <ul class="mt-3 list-disc space-y-1.5 pl-5 text-navy-800">{L.facts.map((f) => <li>{f.text} <a class="text-sm text-accent-700 underline" href={f.url} target="_blank" rel="nofollow noopener noreferrer">source</a></li>)}</ul>
+      </section>
+    )}
+    <section data-chrome class="mt-10">
+      <h2 class="font-serif text-2xl font-bold text-navy-900">Net price at {S.name} by family income</h2>
+      <Fragment set:html={table(['Family income', `Average net price ${Y.net}`, `Share of the ${Y.coa} cost`], netRows, `Average paid after grants and scholarships by first-year students on federal aid, ${Y.net} (College Scorecard, from IPEDS)${S.control === 'public' ? ', in-state students only' : ''}.`, ['l', 'r', 'r'])} />
+      <h2 class="mt-10 font-serif text-2xl font-bold text-navy-900">Cost of attendance at {S.name}, {coa.year}</h2>
+      <Fragment set:html={table(coa.outLines ? ['Item', 'In-state', 'Out-of-state'] : ['Item', 'Amount', ''], coaRows, `${coa.source}.`, ['l', 'r', 'r'])} />
+      {admRows.length > 0 && <h2 class="mt-10 font-serif text-2xl font-bold text-navy-900">{S.name} admissions by cycle</h2>}
+      {admRows.length > 0 && <Fragment set:html={table(['Entering class', 'Applicants', 'Admitted', 'Enrolled', 'Admit rate'], admRows, 'Counts from the university’s Common Data Set or class profile; the fall 2024 rate is the federal figure.', ['l', 'r', 'r', 'r', 'r'])} />}
+      {testRows.length > 0 && <h2 class="mt-10 font-serif text-2xl font-bold text-navy-900">SAT and ACT scores at {S.name}</h2>}
+      {testRows.length > 0 && <Fragment set:html={table(['Score', '25th percentile', 'Median', '75th percentile'], testRows, `Enrolled first-year students who sent a score. Testing policy: ${S.testText}`, ['l', 'r', 'r', 'r'])} />}
+      <h2 class="mt-10 font-serif text-2xl font-bold text-navy-900">Outcomes at {S.name}</h2>
+      <Fragment set:html={table(['Measure', 'Value', 'Period'], outRows, 'College Scorecard, release of June 10, 2026.', ['l', 'r', 'l'])} />
+    </section>
+  </article>
+</PageLayout>

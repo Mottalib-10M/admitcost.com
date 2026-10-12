@@ -1,0 +1,161 @@
+{
+  "slug": "uc-riverside",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 61184,
+    "admitted": 52676,
+    "enrolled": 6686,
+    "doc": "UC Riverside Common Data Set 2025-2026, C1",
+    "url": "https://ir.ucr.edu/media/558/download",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [
+        51828,
+        44686,
+        6431
+      ],
+      "outOfState": [
+        3137,
+        2810,
+        111
+      ],
+      "international": [
+        6219,
+        5180,
+        144
+      ],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": {
+      "offered": 3783,
+      "accepted": 2019,
+      "admitted": 0
+    }
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 first-year (preliminary)",
+    "applicants": 72295,
+    "admitted": 63958,
+    "enrolled": null,
+    "byResidency": {
+      "caResident": [
+        63043,
+        55914
+      ],
+      "domesticNonresident": [
+        2998,
+        2897
+      ],
+      "international": [
+        6254,
+        5147
+      ],
+      "order": "applied, admitted"
+    },
+    "doc": "UCOP Fall 2026 preliminary applications Table 1a (as of January 21, 2026) and admissions Table 1a (offers as of June 17, 2026)",
+    "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+    "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/table-1a-undergraduate-application-summary-counts.pdf",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026, C9 left blank (test-free admission)",
+    "url": "https://ir.ucr.edu/media/558/download"
+  },
+  "testPolicy": {
+    "status": "blind",
+    "text": "UC will not consider SAT or ACT test scores when making admissions decisions or awarding scholarships. They may be used as an alternative method of fulfilling minimum requirements for eligibility or for course placement after you enroll. SAT and ACT scores may only be reported in the application post-submission.",
+    "since": "test-free since fall 2021 entry (Regents decision of May 2020, confirmed November 2021); applies to all UC campuses",
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.75,
+    "pctSubmitting": 1.0,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://ir.ucr.edu/media/558/download"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "New first-year students 2026-27, university housing: UC tuition and fees 15,588 + campus and tech fees 1,202 + UC Student Health Insurance 2,824 + housing 13,793 + food 7,282 + books and supplies 1,700 + transportation + personal. One-time first-term charges (Highlander Orientation Fee 300, document fee 225) are listed separately.",
+    "inState": {
+      "tuition": 15588,
+      "fees": 1202,
+      "housingFood": 21075,
+      "books": 1700,
+      "personal": 2875,
+      "travel": 1275,
+      "health": 2824,
+      "total": 46539,
+      "note": "housingFood = housing 13,793 + food 7,282; components sum exactly to 46,539"
+    },
+    "outOfState": {
+      "tuition": 54858,
+      "fees": 1202,
+      "housingFood": 21075,
+      "books": 1700,
+      "personal": 2525,
+      "travel": 1100,
+      "health": 2824,
+      "total": 85809,
+      "note": "tuition = 15,588 + Non-resident Supplemental Tuition 39,270; the listed components sum to 85,284, so the published total of 85,809 appears to include the 525 of one-time first-term fees"
+    },
+    "url": "https://financialaid.ucr.edu/cost",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Blue and Gold Opportunity Plan (California residents): most California families that earn up to $100,000 receive enough grant and scholarship funds to cover their UC tuition; tuition is set when the student first enrolls and stays the same for up to six years. Considered automatically with a FAFSA or California Dream Act Application and Cal Grant GPA Verification Form filed by March 2.",
+    "year": "current UC policy, page read 2026-10-13 (no year stated on the page)",
+    "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": null,
+      "regular": "November 30 (fall 2027 filing period October 1 to November 30, 2026; decisions by March 31, 2027)"
+    },
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html"
+  },
+  "facts": [
+    {
+      "text": "UC Riverside admitted 52,676 of 61,184 first-year applicants for fall 2025, and 6,431 of the 6,686 enrolled first-years were California residents.",
+      "url": "https://ir.ucr.edu/media/558/download"
+    },
+    {
+      "text": "The fall 2025 waiting list offered 3,783 places, 2,019 accepted, and no one was admitted from it.",
+      "url": "https://ir.ucr.edu/media/558/download"
+    },
+    {
+      "text": "Preliminary fall 2026 figures from UCOP: 72,295 first-year applicants and 63,958 admits, including 55,914 of 63,043 California applicants.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    },
+    {
+      "text": "UC Tuition Stability Plan: tuition is set for each incoming class and stays flat for up to six years, so a 2026-27 entrant pays 15,588 in UC tuition and fees against 14,934 for a 2025-26 entrant.",
+      "url": "https://financialaid.ucr.edu/cost"
+    },
+    {
+      "text": "A non-resident first-year in university housing has a 2026-27 budget of 85,809 against 46,539 for a Californian; the Non-resident Supplemental Tuition is 39,270.",
+      "url": "https://financialaid.ucr.edu/cost"
+    },
+    {
+      "text": "All UC campuses are test-free: SAT and ACT scores are not used for admission or for scholarships, so the odds depend on the A-G GPA, course rigor and the personal insight questions.",
+      "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html"
+    }
+  ],
+  "notes": "Cycle from CDS 2025-26 C1 (28,275 + 30,832 + 674 + 1,403 = 61,184 applied; 23,831 + 26,994 + 599 + 1,252 = 52,676 admitted; enrolled detail sums to 6,686); residency table read directly in C1. C2 waitlist values read in the order offered / accepting / admitted. CDS G1 left tuition as 'Varies according to cohort year', so cost comes from the financial aid page. Out-of-state total 85,809 is 525 higher than the sum of its listed lines (in-state total matches its lines exactly). No early plans (C21/C22 = No). C9 blank: UC is test-free. UCOP fall 2026 counts are preliminary. Top-level cost fields null because in-state and out-of-state are given separately."
+}

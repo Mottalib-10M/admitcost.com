@@ -1,0 +1,103 @@
+{
+ "slug": "harvard",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 47893,
+  "admitted": 2003,
+  "enrolled": 1675,
+  "doc": "Harvard University Common Data Set 2025-2026, C1",
+  "url": "https://oira.harvard.edu/files/2026/07/CDS_2025-2026.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": null,
+  "satEbrw": [
+   720,
+   750,
+   770
+  ],
+  "satMath": [
+   730,
+   770,
+   790
+  ],
+  "act": [
+   33,
+   35,
+   35
+  ],
+  "pctSat": 0.79,
+  "pctAct": 0.27,
+  "doc": "CDS 2025-2026, C9 (1,325 SAT submitters, 450 ACT submitters)",
+  "url": "https://oira.harvard.edu/files/2026/07/CDS_2025-2026.pdf"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "Harvard requires the SAT or ACT. In exceptional cases, when those are not accessible, AP results, IB actual or predicted scores, GCSE/A-Level actual or predicted results, or externally assessed national leaving exam results can meet the requirement. TOEFL, IELTS and Duolingo cannot.",
+  "since": "fall 2025 entry (Class of 2029), announced by the Faculty of Arts and Sciences on 2024-04-11 (https://www.fas.harvard.edu/2024/04/11/return-to-required-testing)",
+  "url": "https://college.harvard.edu/resources/faq/which-standardized-tests-does-harvard-require",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 4.22,
+  "pctSubmitting": 0.991,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://oira.harvard.edu/files/2026/07/CDS_2025-2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 62226,
+  "fees": 6216,
+  "housingFood": 23192,
+  "books": 1000,
+  "personal": 2500,
+  "travel": "0-5000",
+  "total": 95134,
+  "totalIncludes": "tuition 62,226 + fees 6,216 + housing 14,250 + food 8,942 (billed subtotal 91,634) + personal 2,500 + books 1,000; transportation 0 to 5,000 is added on top, so the published total is a range of 95,134 to 100,134. Health insurance 4,954 is required in addition unless covered by a family plan (not in the total).",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://college.harvard.edu/financial-aid/how-aid-works/cost-attendance",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "For families with annual incomes below $100,000, the expected parent contribution is zero; for families with incomes up to $200,000, financial aid covers at least the full cost of tuition. Harvard is need-blind (financial need never affects admission), gives need-based aid only (no merit aid), meets 100 percent of demonstrated need, and international students are eligible for exactly the same aid as American students. Aid packages are scholarship plus student employment; Harvard will never require families to take out loans.",
+  "year": "2025-26 onward for the income thresholds (raised from $85,000 in March 2025)",
+  "url": "https://college.harvard.edu/financial-aid/how-aid-works/cost-attendance",
+  "url2": "https://college.harvard.edu/financial-aid/how-aid-works"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": true,
+  "deadlines": {
+   "early": "November 1",
+   "regular": "January 1"
+  },
+  "url": "https://college.harvard.edu/admissions/apply/application-requirements"
+ },
+ "facts": [
+  {
+   "text": "Families earning under $100,000 a year have an expected parent contribution of zero, and families earning up to $200,000 have at least full tuition covered by aid.",
+   "url": "https://college.harvard.edu/financial-aid/how-aid-works/cost-attendance"
+  },
+  {
+   "text": "Billed costs (tuition, fees, housing, food) rise from $86,926 in 2025-26 to $91,634 in 2026-27, and required health insurance adds $4,954 unless the student has family coverage.",
+   "url": "https://college.harvard.edu/financial-aid/how-aid-works/cost-attendance"
+  },
+  {
+   "text": "Harvard has no binding Early Decision: its early plan is Restrictive Early Action (November 1, decisions mid-December; 12/16 for the fall 2025 cycle), which limits applying early to other private schools.",
+   "url": "https://oira.harvard.edu/files/2026/07/CDS_2025-2026.pdf"
+  },
+  {
+   "text": "For fall 2025, 2,003 of 47,893 applicants were admitted and 1,675 enrolled; 75 students were admitted from the waiting list.",
+   "url": "https://oira.harvard.edu/files/2026/07/CDS_2025-2026.pdf"
+  },
+  {
+   "text": "Testing is mandatory again since the fall 2025 entering class, ending the test-optional period that began in June 2020.",
+   "url": "https://www.fas.harvard.edu/2024/04/11/return-to-required-testing"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 (published July 2026). C1 total enrolled is 1,675 (803 men + 872 women); the brief's example value 1,650 was not used. SAT composite percentiles are blank in the CDS (only section scores reported). Harvard left CDS section G (cost) blank, so cost is from the financial aid office page. No official Class of 2030 (fall 2026) numbers: Harvard did not publish admission statistics on Ivy Day 2026 (The Crimson, 2026-03-27, https://www.thecrimson.com/article/2026/3/27/class-of-2030-ivy-day/ , pointer only). Need-blind, 100% need-based and 100% of demonstrated need verified on the How Aid Works page; the income thresholds verified on the cost page. 'We will never require you to take out loans' is quoted from the How Aid Works page. housingFood = 14,250 + 8,942."
+}

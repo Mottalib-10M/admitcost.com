@@ -1,0 +1,118 @@
+{
+ "slug": "swarthmore",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 12995,
+  "admitted": 977,
+  "enrolled": 426,
+  "doc": "Swarthmore College Common Data Set 2025-2026, C1 (5,709 men + 7,286 women applied; 472 + 505 admitted; 201 + 225 full-time enrolled)",
+  "url": "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 entering class (Class of 2030), as of June 2026",
+  "applicants": 13029,
+  "admitted": 969,
+  "enrolled": 445,
+  "doc": "Swarthmore by the Numbers, Enrollment Information for Fall 2026 (as of June 2026)",
+  "url": "https://www.swarthmore.edu/meet-swarthmore/swarthmore-numbers",
+  "accessed": "2026-10-13"
+ },
+ "scores": {
+  "satComposite": [
+   1480,
+   1520,
+   1550
+  ],
+  "satEbrw": [
+   740,
+   760,
+   770
+  ],
+  "satMath": [
+   740,
+   770,
+   790
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.4014,
+  "pctAct": 0.1479,
+  "doc": "CDS 2025-2026, C9 (171 SAT submitters, 63 ACT submitters)",
+  "url": "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Submitting standardized test scores is optional and applicants are not penalized if they do not submit. Applicants may submit SAT and/or ACT or ask that scores already sent be suppressed. The SAT is superscored; the ACT is not (highest composite from one sitting). The CDS 2025-26 states that for the 2026-27 admissions cycle Swarthmore has suspended its requirement that applicants submit SAT or ACT scores.",
+  "since": "2026-27 admissions cycle (fall 2027 entry): testing requirement suspended, per CDS 2025-26 C8 text",
+  "url": "https://www.swarthmore.edu/admissions-aid/standardized-testing-policy",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 left blank (0). C10: 86.72% in top tenth of high school class, of the 30.05% who submitted class rank",
+  "url": "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 72722,
+  "fees": 482,
+  "housingFood": 22566,
+  "books": 825,
+  "personal": 1775,
+  "travel": "varies",
+  "total": 98370,
+  "totalIncludes": "billed charges: tuition and books 72,722 (tuition includes an 800 textbook credit) + housing 11,676 + food 10,890 + student activities fee 482 = 95,770; non-billed: course materials, supplies and equipment 825 + personal 1,775; total cost of attendance 98,370. Transportation and student health insurance are listed as 'varies' and are not in the total.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.swarthmore.edu/financial-aid/tuition-books-housing-food-plan-activities-fee",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Need-blind admission for domestic students; meets 100 percent of determined need for all admitted students with loan-free aid (international students included, but admitted need-aware). Swarthmore Tuition Guarantee: from fall 2027, domestic families with household income of $200,000 or less and typical assets receive aid covering at least full tuition, potentially up to the full cost of attendance.",
+  "year": "Tuition Guarantee from fall 2027 (2027-28); no-loan and 100% of need already in place",
+  "url": "https://www.swarthmore.edu/financial-aid/swarthmore-tuition-guarantee"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 15 (Fall Early Decision); January 4 (Winter Early Decision)",
+   "regular": "January 4"
+  },
+  "url": "https://www.swarthmore.edu/admissions-aid/application-materials-deadlines"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, 1,281 students applied Early Decision and 228 were admitted, so ED admits made up about 23% of the 977 total admits.",
+   "url": "https://www.swarthmore.edu/sites/default/files/assets/documents/institutional-effectiveness-research-assessment/Swarthmore-CDS-2025-26.pdf"
+  },
+  {
+   "text": "Starting fall 2027, the Swarthmore Tuition Guarantee covers at least full tuition for domestic families earning $200,000 or less with typical assets.",
+   "url": "https://www.swarthmore.edu/financial-aid/swarthmore-tuition-guarantee"
+  },
+  {
+   "text": "Under Pennsylvania Act 69 of 2024, Swarthmore publishes estimated billed costs of $99,961 for 2027-28, $104,954 for 2028-29 and $110,197 for 2029-30.",
+   "url": "https://www.swarthmore.edu/financial-aid/tuition-books-housing-food-plan-activities-fee"
+  },
+  {
+   "text": "Fall 2026 (Class of 2030): 13,029 applicants, 969 admitted and 445 enrolled as of June 2026, an admit rate near 7.4%.",
+   "url": "https://www.swarthmore.edu/meet-swarthmore/swarthmore-numbers"
+  },
+  {
+   "text": "Swarthmore students can cross-register at Bryn Mawr and Haverford (Tri-College Consortium) and at the University of Pennsylvania, and the college offers an engineering degree inside a liberal arts college.",
+   "url": "https://www.swarthmore.edu/meet-swarthmore/swarthmore-numbers"
+  },
+  {
+   "text": "A student may apply to Swarthmore a maximum of three times, first-year and transfer applications combined.",
+   "url": "https://www.swarthmore.edu/admissions-aid/application-materials-deadlines"
+  }
+ ],
+ "notes": "The CDS 2025-26 is a fillable PDF; values were read from the form fields. The computed C1 total fields are stored as 0, so totals were summed from the men and women fields (no unknown-sex field filled; no part-time enrollees reported). 14 students were admitted from the waiting list. C12 average GPA is blank (fields 0), so gpa is null. CDS G1 (tuition 68,766, fees 460, room and board 21,466, books 785, other 1,695) matches 2025-26 prices; the cost block uses the financial aid office's 2026-27 page instead. ACT superscore: not used. Fall 2026 numbers are 'as of June 2026' and may change in the CDS 2026-27."
+}

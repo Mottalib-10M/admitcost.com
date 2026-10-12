@@ -1,0 +1,95 @@
+{
+  "slug": "smu",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 24053,
+    "admitted": 11459,
+    "enrolled": 1715,
+    "doc": "Southern Methodist University Common Data Set 2025-2026, Part C, C1",
+    "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1360, 1410, 1470],
+    "satEbrw": [670, 710, 730],
+    "satMath": [670, 710, 750],
+    "act": [31, 32, 34],
+    "pctSat": 0.094,
+    "pctAct": 0.086,
+    "doc": "CDS 2025-2026, C9 (161 SAT submitters, 148 ACT submitters)",
+    "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "SMU is fully test-optional. No preference is given to applicants based on whether they submit test results or not; SMU superscores the SAT and ACT. Scores are used in admission and scholarship decisions if submitted.",
+    "since": null,
+    "url": "https://www.smu.edu/admission/apply/undergraduate-admission/requirements-guidelines",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.69,
+    "pctSubmitting": 1.0,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 63736,
+    "fees": 8080,
+    "housingFood": 20950,
+    "books": 888,
+    "personal": 1600,
+    "travel": 1134,
+    "total": 96388,
+    "totalIncludes": "on-campus undergraduate, full-time 12-18 credit hours, fall 2026 and spring 2027: tuition 63,736 + general student fees 8,080 + housing and food 20,950 (direct 92,766) + books, supplies and loan fees 888 + transportation 1,134 + personal 1,600 (indirect 3,622) = 96,388. Summer and intersession not included.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://www.smu.edu/enrollment-services/student-financial-services/cost-and-payment/cost-of-attendance",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Access SMU provides additional merit scholarships to meet full need for Texas residents who enter as full-time first-years directly from high school, receive a Federal Pell Grant and an SMU academic scholarship (University, Founders', Second Century, Distinguished or Provost), submit the FAFSA and CSS Profile, and have a family adjusted gross income of $100,000 or less (with typical assets). No university-wide full-need promise is published.",
+    "year": "current (2026-27 cycle page)",
+    "url": "https://www.smu.edu/admission/financial-aid-resources/access-smu"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1, 2026 (ED I and EA)",
+      "ed2": "January 15, 2027",
+      "regular": "January 15, 2027"
+    },
+    "url": "https://www.smu.edu/admission/apply/undergraduate-admission/process"
+  },
+  "facts": [
+    {
+      "text": "Early Decision admitted 424 of 528 applicants (CDS 2025-26, C21), a far higher rate than the 11,459 admits from 24,053 applicants overall.",
+      "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+    },
+    {
+      "text": "Texans and out-of-state applicants are close in number but not in admits: in fall 2025, 5,071 of 12,254 Texas applicants and 5,859 of 9,805 out-of-state applicants were admitted (437 of 1,767 international).",
+      "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+    },
+    {
+      "text": "Very few enrolled students sent scores: only 9.4% of the fall 2025 first-years submitted the SAT and 8.6% the ACT, so the published score ranges describe a small minority.",
+      "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+    },
+    {
+      "text": "All first-years are admitted as pre-majors in Dedman College regardless of intended major, except Art, Film (BFA), Dance, Music and Theatre, where an audition or portfolio is a critical factor.",
+      "url": "https://www.smu.edu/admission/apply/undergraduate-admission/requirements-guidelines"
+    },
+    {
+      "text": "Access SMU meets full need with extra merit scholarships for Pell-eligible Texas residents with family AGI of $100,000 or less who also earn an SMU academic scholarship.",
+      "url": "https://www.smu.edu/admission/financial-aid-resources/access-smu"
+    },
+    {
+      "text": "The waiting list offered 4,249 places for fall 2025; 1,074 students accepted one and 243 were admitted.",
+      "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-c-first-time-freshman-final.pdf"
+    }
+  ],
+  "notes": "C1 totals are sums: applied 11,148 men + 12,905 women; admitted 5,217 + 6,242; enrolled 847 + 868; they match the residency table totals (24,053 / 11,459 / 1,715). The ED counts in C21 are captioned 'For the Fall 2024 entering class' in the 2025-26 form (template label). CDS C21/C22 dates: ED I 11/1 (notification 12/31), ED II 1/15 (notification 3/1), EA 11/1 (notification 12/31), not restrictive. CDS 2025-26 Part G lists tuition 63,736, fees 8,080, food and housing 20,950 under the 2026-27 heading, consistent with the Student Financial Services 2026-27 page. CDS C8F notes tests are not required for non-US citizens at high schools abroad nor for audition/portfolio BFA programs. pctSubmitting GPA 100.00 per C12."
+}

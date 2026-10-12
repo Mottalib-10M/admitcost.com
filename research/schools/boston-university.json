@@ -1,0 +1,88 @@
+{
+  "slug": "boston-university",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 76776,
+    "admitted": 9853,
+    "enrolled": 3449,
+    "doc": "Boston University Common Data Set 2025-2026, section C (updated July 2026), C1",
+    "url": "https://www.bu.edu/asir/files/2026/07/CDS-2025-2026-C-updated.pdf",
+    "accessed": "2026-10-12"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1420, 1470, 1510],
+    "satEbrw": [700, 730, 750],
+    "satMath": [720, 750, 780],
+    "act": [33, 34, 34],
+    "pctSat": 0.36,
+    "pctAct": 0.1,
+    "doc": "CDS 2025-2026, C9 (1,257 SAT submitters, 341 ACT submitters)",
+    "url": "https://www.bu.edu/asir/files/2026/07/CDS-2025-2026-C-updated.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Boston University is test optional for first-year applicants applying through fall 2028 and spring 2029, for all undergraduate schools and colleges and all scholarship programs. International students must submit TOEFL, IELTS or Duolingo for English proficiency.",
+    "since": "policy stated through fall 2028 / spring 2029 entry",
+    "url": "https://www.bu.edu/admissions/apply/first-year/",
+    "accessed": "2026-10-12"
+  },
+  "gpa": {
+    "average": 3.86,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://www.bu.edu/asir/files/2026/07/CDS-2025-2026-C-updated.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 73024,
+    "fees": 1570,
+    "housingFood": 20740,
+    "books": 1000,
+    "personal": 1455,
+    "travel": 630,
+    "total": 98419,
+    "totalIncludes": "billed: tuition 73,024 + housing 13,170 + food 7,570 + fees 1,570 = 95,334; other: books and supplies 1,000 + personal 1,455 + local transportation 630 = 3,085; total cost of attendance 98,419. Student health insurance is required under Massachusetts law unless the student has qualifying coverage (not in the total).",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://www.bu.edu/admissions/admitted/tuition-and-fees/",
+    "accessed": "2026-10-12"
+  },
+  "aidPromise": {
+    "text": "BU Promise: beginning in 2026-27, all domestic first-time, first-year students receive financial aid that meets 100 percent of demonstrated need without student loans. For admitted first-years starting in 2026-27 with typical assets, household income $0 to $75,000 gets full tuition plus the standard housing and dining plan covered (net cost $0); $75,001 to $100,000 pays $10,000 or less; $100,001 to $150,000 pays $15,000 or less; $150,001 to $200,000 pays $20,000 or less. BU Scholarship Assurance: first-year need-based aid is never reduced and rises by the same percentage as tuition.",
+    "year": "2026-27 onward",
+    "url": "https://www.bu.edu/finaid/how-aid-works/",
+    "url2": "https://www.bu.edu/admissions/tuition-aid/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": false,
+    "rea": false,
+    "deadlines": { "early": "November 2 (Early Decision); January 5 (Early Decision 2)", "regular": "January 5" },
+    "url": "https://www.bu.edu/admissions/tuition-aid/"
+  },
+  "facts": [
+    {
+      "text": "Under the BU Promise for students starting in 2026-27, families earning up to $75,000 with typical assets pay nothing for tuition, housing and dining, and those earning up to $200,000 pay at most $20,000 a year.",
+      "url": "https://www.bu.edu/finaid/how-aid-works/"
+    },
+    {
+      "text": "Early Decision fills a large share of the class: for fall 2025, BU received 6,907 ED applications and admitted 2,165, against 9,853 admits overall.",
+      "url": "https://www.bu.edu/asir/files/2026/07/CDS-2025-2026-C-updated.pdf"
+    },
+    {
+      "text": "BU guarantees test-optional admission through the fall 2028 entering class, including for its merit scholarship programs.",
+      "url": "https://www.bu.edu/admissions/apply/first-year/"
+    },
+    {
+      "text": "For fall 2025, 1,075 of 9,853 admits and 500 of 3,449 enrollees were Massachusetts residents; 2,521 admits were international.",
+      "url": "https://www.bu.edu/asir/files/2026/07/CDS-2025-2026-C-updated.pdf"
+    },
+    {
+      "text": "The 2026-27 cost of attendance is $98,419, of which $95,334 is billed by BU; health insurance is added if the student lacks qualifying coverage.",
+      "url": "https://www.bu.edu/admissions/admitted/tuition-and-fees/"
+    }
+  ],
+  "notes": "C1: applied 30,474 men + 46,302 women (unknown-sex line blank) = 76,776, matching the residency total (8,059 in-state, 50,764 out-of-state, 15,794 international, 2,159 unknown); admitted 4,070 + 5,783 = 9,853; enrolled 1,356 + 2,093 = 3,449. CDS C12 gives the average GPA 3.86 but the percent submitting GPA was not found in the text extracted. CDS section G (posted May 2026) shows tuition 69,870, which is the 2025-26 figure (the admissions office gives 2026-27 tuition 73,024), so the admissions office figures were used for cost. No official fall 2026 numbers found: the 'Meet the Class of 2030' page has no admission statistics. ED deadline November 2 and ED2/RD January 5 come from the financial aid deadlines listed on the tuition and aid page; CDS 2025-26 lists ED II closing January 5."
+}

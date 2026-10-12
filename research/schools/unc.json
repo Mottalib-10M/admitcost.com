@@ -1,0 +1,154 @@
+{
+  "slug": "unc",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 76247,
+    "admitted": 12751,
+    "enrolled": 5091,
+    "doc": "UNC-Chapel Hill Common Data Set 2025-26, C1",
+    "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [
+        17846,
+        6605,
+        4063
+      ],
+      "outOfState": [
+        48645,
+        4685,
+        728
+      ],
+      "international": [
+        9756,
+        1461,
+        300
+      ],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": {
+      "offered": 7355,
+      "accepted": 5258,
+      "admitted": 2099
+    }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [
+      1400,
+      1470,
+      1530
+    ],
+    "satEbrw": [
+      690,
+      730,
+      750
+    ],
+    "satMath": [
+      700,
+      750,
+      780
+    ],
+    "act": [
+      29,
+      32,
+      34
+    ],
+    "pctSat": 0.28,
+    "pctAct": 0.41,
+    "doc": "CDS 2025-26, C9 (1,102 SAT submitters, 1,945 ACT submitters)",
+    "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "For students applying for the 2026-2027 academic year and beyond, students with a weighted GPA of 2.8 or above (on a 4.0 scale) are not required to submit a test score. Students with a weighted GPA below 2.8 must submit an ACT of 17 or higher or an SAT of 930 or higher. Self-reported scores are used in review and superscored.",
+    "since": "UNC System GPA-based rule in force since fall 2025 entry (CDS C8F); waivers covered fall 2022 to 2024",
+    "url": "https://admissions.unc.edu/apply/types-of-applications/first-year/",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 4.47,
+    "pctSubmitting": 0.899,
+    "doc": "CDS 2025-26, C12 (weighted)",
+    "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Budget for students admitted fall 2026 / spring 2027, living on campus, full-time: tuition + fees + housing + food + books and supplies + travel + loan fees 56 (only when the aid offer includes loans) + personal. Student Blue health insurance is not included.",
+    "inState": {
+      "tuition": 7230,
+      "fees": 2130,
+      "housingFood": 15870,
+      "books": 638,
+      "personal": 2048,
+      "travel": 1078,
+      "loanFees": 56,
+      "total": 29050,
+      "note": "housingFood = housing 9,168 + food 6,702"
+    },
+    "outOfState": {
+      "tuition": 47472,
+      "fees": 2130,
+      "housingFood": 15870,
+      "books": 638,
+      "personal": 2048,
+      "travel": 2050,
+      "loanFees": 56,
+      "total": 70264,
+      "note": "housingFood = housing 9,168 + food 6,702"
+    },
+    "url": "https://studentaid.unc.edu/incoming/costs/",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "UNC works to meet the demonstrated financial need of first-degree, full-time students with grants, scholarships, loans and Work-Study (CSS Profile used for University grants). The Carolina Covenant meets full need with grants, scholarships and Work-Study and no loans, so that qualifying students (family income at or below 200% of the poverty guideline plus other economic criteria) can graduate debt-free.",
+    "year": "current (pages read 2026-10-13)",
+    "url": "https://studentaid.unc.edu/carolina-covenant/",
+    "url2": "https://studentaid.unc.edu/incoming/costs/"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "October 15 (Early Action, non-binding; supporting materials and test scores by November 7)",
+      "regular": "January 15 (supporting materials and test scores by February 21)"
+    },
+    "url": "https://admissions.unc.edu/apply/types-of-applications/first-year/"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, UNC admitted 6,605 of 17,846 North Carolina applicants but only 4,685 of 48,645 out-of-state applicants and 1,461 of 9,756 international applicants.",
+      "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf"
+    },
+    {
+      "text": "Of the 5,091 enrolled first-years in fall 2025, 4,063 were North Carolina residents.",
+      "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf"
+    },
+    {
+      "text": "The Early Action deadline is October 15, earlier than the usual November 1, and it is non-binding.",
+      "url": "https://admissions.unc.edu/apply/types-of-applications/first-year/"
+    },
+    {
+      "text": "A non-resident pays 47,472 in 2026-27 tuition against 7,230 for a North Carolinian; the on-campus budgets are 70,264 and 29,050.",
+      "url": "https://studentaid.unc.edu/incoming/costs/"
+    },
+    {
+      "text": "Tests are optional only with a weighted GPA of 2.8 or more; below that, an ACT of 17 or SAT of 930 is required.",
+      "url": "https://admissions.unc.edu/apply/types-of-applications/first-year/"
+    },
+    {
+      "text": "The waiting list admitted 2,099 students for fall 2025, out of 5,258 who accepted a place on it.",
+      "url": "https://oira.unc.edu/wp-content/uploads/sites/297/2026/06/CDS_UNCCH_2025-26_20260615.pdf"
+    }
+  ],
+  "notes": "Cycle from CDS 2025-26 C1: applied 31,665 + 44,582 = 76,247; admitted 5,305 + 7,446 = 12,751; enrolled full-time 5,084 + part-time 7 = 5,091 (the CDS gives full-time and part-time rows; the residency table's enrolled row also sums to 5,091). The residency table is headed 'Fall 2024' in the CDS, but its totals match the fall 2025 C1 totals exactly, so it is taken as fall 2025. C21 Early Decision: No; C22 Early Action closing Oct. 15, notification Jan. 31, not restrictive. CDS G1 2026-27 tuition matches the financial aid page (7,230 / 47,472; CDS required fees 2,129 vs 2,130 on the aid page). The cost page also lists 25-26 and 24-25 tabs; the 26-27 tab is used. A 2023 announcement of free tuition and fees for North Carolina families under $80,000 is widely reported in the press, but no current official UNC page stating it could be opened, so it is not recorded. No official fall 2026 class numbers found."
+}

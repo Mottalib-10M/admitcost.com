@@ -1,0 +1,63 @@
+{
+ "legalCountry": "France",
+ "registerLabel": "SIREN",
+ "vatLabel": "VAT",
+ "jurisdiction": "France",
+ "supervisoryAuthority": "Commission nationale de l'informatique et des libertés (CNIL)",
+ "supervisoryAuthorityUrl": "https://www.cnil.fr",
+ "consentMode": "none",
+ "year": 2026,
+ "founded": "2026",
+ "volumes": "/private/tmp/claude-501/-Users-mottalib/7bccc98c-ef3e-4a30-80e5-e0d5eaa9394d/scratchpad/volumes-us-college-cost.txt",
+ "volumesNote": "Environ 640 000 recherches/mois mesurées au Keyword Planner (objetech, 2026-10-12) ; site validé par l'éditeur le 2026-10-12.",
+ "folder": "us-college-cost",
+ "outDir": "a-publier/Mottalib-10M",
+ "url": "https://us-college-cost.example",
+ "locales": [
+  "en"
+ ],
+ "names": {
+  "en": "AdmitCost"
+ },
+ "langTags": {
+  "en": "en-US"
+ },
+ "ogLocales": {
+  "en": "en_US"
+ },
+ "localeTag": "en-US",
+ "currency": "USD",
+ "flag": "us",
+ "symbol": "U$",
+ "accent": "#9B2335",
+ "authorRole": {
+  "en": "À RÉÉCRIRE"
+ },
+ "authorDesc": {
+  "en": "À RÉÉCRIRE"
+ },
+ "email": "contact@us-college-cost.example",
+ "indexnow": "a65f809eaca6eee72e6306610e833bf1",
+ "shortName": "AdmitCost",
+ "description": "À RÉÉCRIRE",
+ "port": 4447,
+ "og": [
+  {
+   "file": "og-en.png",
+   "title": "AdmitCost",
+   "subtitle": "",
+   "badge": "2026",
+   "brand": "AdmitCost"
+  }
+ ],
+ "lastUpdated": "2026-10-12",
+ "knowsAbout": {
+  "en": [
+   "College acceptance rates",
+   "SAT and ACT score ranges",
+   "College cost of attendance",
+   "Net price by family income",
+   "ACT to SAT concordance"
+  ]
+ }
+}

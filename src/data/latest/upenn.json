@@ -1,0 +1,106 @@
+{
+ "slug": "upenn",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 72544,
+  "admitted": 3570,
+  "enrolled": 2420,
+  "doc": "University of Pennsylvania Common Data Set 2025-2026 (dated 23 June 2026), C1",
+  "url": "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": null,
+  "satEbrw": [
+   740,
+   760,
+   770
+  ],
+  "satMath": [
+   770,
+   790,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.52,
+  "pctAct": 0.18,
+  "doc": "CDS 2025-2026, C9 (1,249 SAT submitters, 427 ACT submitters)",
+  "url": "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "Penn applicants are required to submit scores for the SAT or ACT; applicants who face hardship can submit a testing waiver instead. Applies to all first-year, domestic, international, homeschooled, transfer and QuestBridge applicants. ACT Science not required; superscoring used.",
+  "since": null,
+  "url": "https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.9,
+  "pctSubmitting": 0.98,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 65670,
+  "fees": 8308,
+  "housingFood": 20604,
+  "books": 1412,
+  "personal": 2008,
+  "travel": 1080,
+  "total": 99082,
+  "totalIncludes": "On-campus budget: tuition 65,670 + fees 8,308 + housing 13,644 + food 6,960 + books and supplies 1,412 + transportation 1,080 + personal 2,008. Off campus 97,444; living with family 81,548. Nursing first-year books are 1,742.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Quaker Commitment: aid meets 100% of demonstrated need with grants and work-study (no loans); the family's primary home value is ignored; families making up to $200,000 with typical assets get at minimum full tuition covered; families under $75,000 with typical assets get all billed expenses (tuition and fees, housing, dining) covered. Need-blind for US, Canadian and Mexican citizens and permanent residents; need-aware for other international applicants.",
+  "year": "current (2026-27)",
+  "url": "https://srfs.upenn.edu/financial-aid/undergraduate-aid-program/facts-and-figures"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1, 2026 (Early Decision, binding, decision in December)",
+   "regular": "January 5, 2027 (decision in April)"
+  },
+  "url": "https://admissions.upenn.edu/how-to-apply/first-year-applicants"
+ },
+ "facts": [
+  {
+   "text": "Early Decision matters: for fall 2025, 1,266 of 9,503 Early Decision applicants were admitted (13.3%), against 2,304 of the other 63,041 applicants (3.7%).",
+   "url": "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5"
+  },
+  {
+   "text": "Applicants apply to one of four undergraduate schools (College of Arts and Sciences, Wharton, Engineering, Nursing) or a coordinated dual-degree program, not to Penn in general.",
+   "url": "https://admissions.upenn.edu/how-to-apply/first-year-applicants"
+  },
+  {
+   "text": "Families earning up to $200,000 with typical assets are guaranteed at least full tuition; under $75,000, all billed costs (tuition, fees, housing, dining) are covered, and packages contain no loans.",
+   "url": "https://srfs.upenn.edu/financial-aid/undergraduate-aid-program/facts-and-figures"
+  },
+  {
+   "text": "International applicants had the lowest odds for fall 2025: 441 of 17,882 were admitted (2.5%), against 451 of 5,411 Pennsylvania residents (8.3%) and 2,678 of 49,251 other US applicants (5.4%); Penn is need-aware for international applicants other than citizens and permanent residents of Canada and Mexico.",
+   "url": "https://ira.upenn.edu/penn-numbers/common-data-set"
+  },
+  {
+   "text": "The 2026-27 on-campus cost of attendance is $99,082, including $8,308 in fees on top of $65,670 tuition.",
+   "url": "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance"
+  },
+  {
+   "text": "For fall 2025, 3,252 applicants were offered a waiting-list place, 2,566 accepted and 60 were admitted.",
+   "url": "https://upenn.box.com/s/woo7d85yxpol6j9e2o121aucjc6dc1k5"
+  }
+ ],
+ "notes": "CDS 2025-26 is hosted on Box (link from https://ira.upenn.edu/penn-numbers/common-data-set); downloaded via the Box static link. SAT composite percentiles not reported in C9 (sections only). C8A marks SAT or ACT 'Require' for fall 2027, consistent with the admissions page. testPolicy.since null: the page does not state when the requirement returned (Penn's own page reviewed does not give the date). Residency admit rates in facts computed from CDS C1 residency table (in-state 451/5,411; out-of-state 2,678/49,251; international 441/17,882; the international count in CDS may include Canada/Mexico citizens, so the need-aware link is approximate). Enrolled: 2,420 total including 13 part-time men. No official Class of 2030 counts found. Accessed 2026-10-13 (session ran past midnight)."
+}

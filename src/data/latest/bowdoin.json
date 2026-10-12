@@ -1,0 +1,106 @@
+{
+ "slug": "bowdoin",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 14045,
+  "admitted": 957,
+  "enrolled": 515,
+  "doc": "Bowdoin College Common Data Set 2025-2026, C1",
+  "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1470,
+   1510,
+   1540
+  ],
+  "satEbrw": [
+   730,
+   750,
+   770
+  ],
+  "satMath": [
+   730,
+   760,
+   780
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.3476,
+  "pctAct": 0.1728,
+  "doc": "CDS 2025-2026, C9 (179 SAT submitters, 89 ACT submitters)",
+  "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Bowdoin has been test optional for more than 50 years; ACT or SAT scores are not required for admission. The application asks, for each SAT and ACT, whether the committee should use the results, and that choice can be changed until the application deadline. Bowdoin superscores the ACT (science not included in the composite). Homeschooled applicants must send either a graded paper or lab assignment or SAT/ACT scores.",
+  "since": "1969",
+  "url": "https://www.bowdoin.edu/admissions/apply/test-optional-policy/index.html",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 left blank (0)",
+  "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 74268,
+  "fees": 700,
+  "housingFood": 20432,
+  "books": 840,
+  "personal": 1660,
+  "travel": "varies",
+  "total": 97900,
+  "totalIncludes": "direct costs: tuition 74,268 + student activities fee 700 + housing 10,106 + food 10,326 (21-meal plan) = 95,400; indirect: books and supplies 840 + personal 1,660 = 2,500+; total cost of attendance published as $97,900+ (transportation varies and is not in the figure). Other meal plans raise housing plus food to 20,966 or 22,154.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.bowdoin.edu/student-aid/cost-of-attendance/index.html",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Bowdoin says it is one of only eleven U.S. schools that are need-blind and meet the full calculated need of all applicants, domestic and international. All aid packages are grants and scholarships plus campus employment, with $0 of loans.",
+  "year": "current policy (2026-27)",
+  "url": "https://www.bowdoin.edu/admissions/costs-and-aid/index.html"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 15 (Early Decision 1); January 5 (Early Decision 2); QuestBridge Match November 1",
+   "regular": "January 5"
+  },
+  "url": "https://www.bowdoin.edu/admissions/apply/dates-deadlines/index.html"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, 1,985 students applied Early Decision and 296 were admitted, about 31% of the 957 total admits.",
+   "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+  },
+  {
+   "text": "International applicants were 6,041 of 14,045 applicants (43%) but 76 of 957 admits, even though Bowdoin is need-blind for international students.",
+   "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+  },
+  {
+   "text": "Maine residents filed 540 applications and received 74 admissions for fall 2025.",
+   "url": "https://www.bowdoin.edu/ir/pdf/bowdoin-cds_2025-2026.pdf"
+  },
+  {
+   "text": "Bowdoin was the first school to eliminate standardized testing requirements, in 1969; in fall 2025 only 34.76% of enrolled first-years submitted the SAT and 17.28% the ACT.",
+   "url": "https://www.bowdoin.edu/admissions/apply/test-optional-policy/index.html"
+  },
+  {
+   "text": "Aid packages contain no loans; in the most recent admitted class need-based Bowdoin scholarships ranged from $3,820 to $98,800, and the $70 application fee is waived for aid applicants and first-generation students.",
+   "url": "https://www.bowdoin.edu/admissions/costs-and-aid/index.html"
+  }
+ ],
+ "notes": "CDS 2025-26 is a fillable PDF; values read from form fields. 5 students admitted from the waiting list. C12 GPA blank. CDS G1 (tuition 71,070, fees 670, room and board 19,560, books 840, other 1,660) is 2025-26; cost uses the Student Aid office 2026-27 page. The CDS gives a $65 application fee while the admissions page says $70 (different cycles). No official fall 2026 (Class of 2030) counts found on the IR Facts and Figures page, which still shows the Class of 2029."
+}

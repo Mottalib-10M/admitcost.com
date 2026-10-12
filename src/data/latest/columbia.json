@@ -1,0 +1,110 @@
+{
+ "slug": "columbia",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029), Columbia College and Columbia Engineering",
+  "applicants": 59611,
+  "admitted": 2946,
+  "enrolled": 1797,
+  "doc": "Columbia College and Columbia Engineering Common Data Set 2025-26, C1",
+  "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1510,
+   1540,
+   1560
+  ],
+  "satEbrw": [
+   740,
+   760,
+   777
+  ],
+  "satMath": [
+   760,
+   780,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.5,
+  "pctAct": 0.17,
+  "doc": "CDS 2025-26, C9 (897 SAT submitters, 311 ACT submitters)",
+  "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Columbia College and Columbia Engineering remain test optional for the 2026-2027 admissions cycle (fall 2027 entry). Starting August 2027 (2027-2028 cycle, fall 2028 entry) first-year and transfer applicants must submit the ACT or SAT; applicants facing challenges may request a waiver without disadvantage.",
+  "since": "test optional since 2020; required again from the 2027-28 cycle",
+  "url": "https://undergrad.admissions.columbia.edu/apply/first-year/testing",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 4.25,
+  "pctSubmitting": 0.999,
+  "doc": "CDS 2025-26, C12 (footnote: 99.9% had a GPA on any scale; the 4.25 average and C11 distribution are based on the 72.2% with GPAs recorded on a 4.0 scale)",
+  "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 72800,
+  "fees": 4160,
+  "housingFood": 19650,
+  "books": 1320,
+  "personal": 1844,
+  "travel": "varies",
+  "total": 99774,
+  "totalIncludes": "First-year on-campus budget: tuition 72,800 + fees 4,160 (includes one-time transcript and orientation fees of 730) + food 7,128 + housing 12,522 + books and supplies 1,320 + personal 1,844. Travel varies and is listed separately (two round trips, e.g. 944 from Indiana, 1,254 from California). Continuing on-campus students: total 100,884 (fees 3,430, food 7,586, housing 13,904).",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://cc-seas.financialaid.columbia.edu/eligibility/facts",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Families with calculated incomes below $66,000 and typical assets pay $0 parent contribution; families below $150,000 and typical assets (assets up to about $250,000) attend tuition-free. Aid meets 100% of demonstrated need with grants and work only, no loans. Admission is need-blind for US citizens, eligible noncitizens and undocumented students residing in the US; international applicants are not need-blind, but those admitted with funding have full need met.",
+  "year": "2026-27",
+  "url": "https://cc-seas.financialaid.columbia.edu/how/aid/works"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Decision, binding; decisions mid-December)",
+   "regular": "January 1 (decisions late March)"
+  },
+  "url": "https://undergrad.admissions.columbia.edu/apply/first-year"
+ },
+ "facts": [
+  {
+   "text": "Early Decision is a big lever: for fall 2025, 819 of 5,868 Early Decision applicants were admitted (14.0%), against 2,127 of the other 53,743 applicants (4.0%).",
+   "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf"
+  },
+  {
+   "text": "Families with incomes below $150,000 and typical assets attend tuition-free, and below $66,000 the parent contribution is $0.",
+   "url": "https://cc-seas.financialaid.columbia.edu/eligibility/facts"
+  },
+  {
+   "text": "The 2026-27 first-year on-campus budget is $99,774 before travel; first-year students are required to live on campus.",
+   "url": "https://cc-seas.financialaid.columbia.edu/eligibility/facts"
+  },
+  {
+   "text": "International applicants faced a tighter door for fall 2025: 407 of 15,380 were admitted (2.6%), against 447 of 8,882 New York residents (5.0%) and 2,092 of 35,349 other US applicants (5.9%).",
+   "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_College_and_Columbia_Enginnering_CDS.pdf"
+  },
+  {
+   "text": "Columbia stays test optional for fall 2027 entrants but will require the SAT or ACT from August 2027 for the 2027-28 cycle.",
+   "url": "https://undergrad.admissions.columbia.edu/apply/first-year/testing"
+  },
+  {
+   "text": "Columbia School of General Studies (for nontraditional students) publishes its own separate Common Data Set; the figures here cover Columbia College and Columbia Engineering only.",
+   "url": "https://opir.columbia.edu/sites/opir.columbia.edu/files/content/Common%20Data%20Set/2025-26_Columbia_General_Studies_CDS.pdf"
+  }
+ ],
+ "notes": "opir.columbia.edu is behind a Cloudflare check for HTML pages; the CDS page link list was read in Chrome, the PDF itself downloads with curl. Contradiction: CDS 2025-26 C8A marks SAT or ACT as required 'for Fall 2027', but the admissions testing page says test optional for the 2026-2027 cycle and required from August 2027 (fall 2028 entry). The admissions office page is used. Required fees in CDS G1: 4,160 first-year, 3,430 undergraduates; CDS G1 food and housing first-year 19,650 matches the aid office. ED rate split computed from CDS C21 counts. No Early Action. Columbia did not have a published official Class of 2030 profile that I could open (class profile URLs redirect to the general FAQ). The 'no loans' wording: 'Loans are not used to meet financial need or included in initial financial aid awards' (How Aid Works page)."
+}

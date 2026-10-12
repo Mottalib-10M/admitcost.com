@@ -1,0 +1,91 @@
+{
+  "slug": "usc",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 83488,
+    "admitted": 9345,
+    "enrolled": 3759,
+    "doc": "University of Southern California Common Data Set 2025-2026, C1",
+    "url": "https://oir.usc.edu/wp-content/uploads/sites/3/2026/10/CDS_2025-26_FINAL.pdf",
+    "accessed": "2026-10-12"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1470, 1510, 1540],
+    "satEbrw": [720, 740, 760],
+    "satMath": [740, 780, 790],
+    "act": [32, 33, 35],
+    "pctSat": 0.33,
+    "pctAct": 0.12,
+    "doc": "CDS 2025-2026, C9 (1,243 SAT submitters, 453 ACT submitters)",
+    "url": "https://oir.usc.edu/wp-content/uploads/sites/3/2026/10/CDS_2025-26_FINAL.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Test scores are optional. Students who submit them must send official scores from the testing agencies (self-reported scores are not accepted); USC superscores the SAT and ACT by section. The admissions page refers to 'our test-optional policy'.",
+    "since": null,
+    "url": "https://admission.usc.edu/prospective-students/how-to-apply/first-year-students/",
+    "accessed": "2026-10-12"
+  },
+  "gpa": {
+    "average": 3.85,
+    "pctSubmitting": 0.9992,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://oir.usc.edu/wp-content/uploads/sites/3/2026/10/CDS_2025-26_FINAL.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 75384,
+    "fees": 1952,
+    "housingFood": 21952,
+    "books": 670,
+    "personal": 2016,
+    "travel": 1188,
+    "total": 103162,
+    "totalIncludes": "on-campus budget: tuition 75,384 (12-18 units, two semesters) + fees 1,952 + housing 13,510 + food 8,442 + books/supplies 670 + transportation 1,188 + personal/misc 2,016 = 103,162. A 450 new student fee is added in the first semester (not in the total). No health insurance line is shown.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://financialaid.usc.edu/cost-of-attendance/",
+    "accessed": "2026-10-12"
+  },
+  "aidPromise": {
+    "text": "Students from U.S. families with an annual income of $80,000 or less with typical assets attend USC tuition free.",
+    "year": "new first-year students entering from fall 2020 onward",
+    "url": "https://affordability.usc.edu/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": { "early": "November 1 (Early Decision and Early Action, most majors)", "regular": "January 10 (December 1 for performing arts majors)" },
+    "url": "https://admission.usc.edu/prospective-students/how-to-apply/first-year-students/"
+  },
+  "facts": [
+    {
+      "text": "Students from U.S. families earning $80,000 a year or less with typical assets attend USC tuition free.",
+      "url": "https://affordability.usc.edu/"
+    },
+    {
+      "text": "The 2026-27 on-campus cost of attendance is $103,162 (tuition $75,384), up from $99,139 in 2025-26, plus a $450 new student fee in the first semester.",
+      "url": "https://financialaid.usc.edu/cost-of-attendance/"
+    },
+    {
+      "text": "For fall 2025, of 9,345 admitted first-years, 3,692 were California residents, 3,378 out-of-state and 2,275 international; of 3,759 who enrolled, 1,701 were from California.",
+      "url": "https://oir.usc.edu/wp-content/uploads/sites/3/2026/10/CDS_2025-26_FINAL.pdf"
+    },
+    {
+      "text": "Early Decision (November 1) is binding and open to most majors, alongside non-binding, non-restrictive Early Action on the same date; dance, drama and music applicants (Kaufman, Dramatic Arts, Thornton) can only apply Regular Decision by December 1.",
+      "url": "https://admission.usc.edu/prospective-students/how-to-apply/first-year-students/"
+    },
+    {
+      "text": "The World Bachelor in Business program in the Marshall School accepts applications only by the November 1 deadline and no longer takes Regular Decision applicants.",
+      "url": "https://admission.usc.edu/prospective-students/how-to-apply/first-year-students/"
+    },
+    {
+      "text": "Testing is optional: only 33 percent of the fall 2025 enrolled class submitted SAT scores and 12 percent ACT scores, so the published score ranges describe a minority of students.",
+      "url": "https://oir.usc.edu/wp-content/uploads/sites/3/2026/10/CDS_2025-26_FINAL.pdf"
+    }
+  ],
+  "notes": "CDS 2025-26 posted October 2026 (inner page headers still read 'Common Data Set 2024-2025', but C1 states Fall 2025). C1 totals: applied 37,036 men + 46,419 women + 33 unknown; admitted 4,580 + 4,759 + 6; enrolled 1,745 + 2,013 + 1. CDS G1 lists 2026-27 tuition as $66,640 and required fees $2,047, which contradicts the financial aid office's 2026-27 tuition of $75,384 and fees $1,952; the financial aid office figures were used. CDS C21 answers 'No' to Early Decision for the fall 2025 cohort while the current admissions page offers binding ED; the admissions page was used for the 2026-27 plans. CDS H2 (2025-26 aid year) shows first-years whose need was met at 99.4 percent on average, but USC does not publish a '100 percent of need' promise on the pages opened. No official fall 2026 (Class of 2030) figures found on usc.edu; consultant blogs quote 79,290 applicants and 9,251 admits but were not used. Test-optional start date not found on an official page opened. Web search quota ran out during this batch, so further official pages could not be searched for."
+}

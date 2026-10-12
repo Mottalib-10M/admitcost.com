@@ -1,0 +1,30 @@
+# Requêtes du site us-college-cost, reprises sans modification des relevés Keyword Planner (objetech, 2026-10-12) :
+# volumes-2026-10-12-dix/us-reserve.txt (section université), volumes-2026-10-12-rpm/us-4.txt et us-5.txt.
+sat score
+100 k – 1 M
+acceptance rate
+10 k – 100 k
+harvard acceptance rate
+10 k – 100 k
+what is a good sat score
+10 k – 100 k
+act to sat conversion
+1 k – 10 k
+harvard tuition
+10 k – 100 k
+net price calculator
+1 k – 10 k
+cost of attendance
+1 k – 10 k
+ucla acceptance rate
+10 k – 100 k
+nyu acceptance rate
+10 k – 100 k
+stanford acceptance rate
+10 k – 100 k
+usc tuition
+10 k – 100 k
+nyu tuition
+10 k – 100 k
+ucla tuition
+10 k – 100 k

@@ -1,0 +1,106 @@
+{
+  "slug": "wellesley",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 8506,
+    "admitted": 1258,
+    "enrolled": 576,
+    "doc": "Wellesley College Common Data Set 2025-2026, C1",
+    "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [
+      1460,
+      1500,
+      1540
+    ],
+    "satEbrw": [
+      730,
+      750,
+      760
+    ],
+    "satMath": [
+      720,
+      770,
+      790
+    ],
+    "act": [
+      33,
+      34,
+      35
+    ],
+    "pctSat": 0.44,
+    "pctAct": 0.18,
+    "doc": "CDS 2025-2026, C9 (253 SAT submitters, 103 ACT submitters)",
+    "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Wellesley College will continue to be test optional for those applying for entry in fall 2027. About 45% of enrolling first-year students applied without testing. If submitted, the SAT or ACT is accepted (new ACT with or without the science section). English-language proficiency exams are not required.",
+    "since": "test optional since the introduction of test-optional practices (date not given on the page); confirmed for fall 2027 entry",
+    "url": "https://www.wellesley.edu/admission-aid/faqs",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C11/C12 left blank (0.00%)",
+    "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 72570,
+    "fees": 360,
+    "housingFood": 23206,
+    "books": 800,
+    "personal": 1250,
+    "travel": "varies",
+    "total": 98186,
+    "totalIncludes": "direct (billed) costs: tuition 72,570 + housing 12,020 + meals 11,186 + student activity fee 360 = 96,136; indirect: books 800 + personal 1,250. The page does not print a grand total; 98,186 is the sum of the listed items. Transportation varies by distance; the health insurance fee is billed to all students but waivable (about 50% waive) and is not in the total.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://www.wellesley.edu/admission-aid/student-financial-services/tuition-cost",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Need-blind admission for U.S. citizens and permanent residents; meets 100% of every admitted student's calculated need. Wellesley Tuition Promise: from fall 2027, U.S. students with total family income of $200,000 or less and typical assets attend tuition-free; up to $100,000 also no loans.",
+    "year": "Tuition Promise from fall 2027 (2027-28)",
+    "url": "https://www.wellesley.edu/admission-aid/wellesley-tuition-promise"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Decision I); January 5 (Early Decision II)",
+      "regular": "January 8"
+    },
+    "url": "https://www.wellesley.edu/admission-aid/faqs"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, 1,023 students applied Early Decision and 301 were admitted, close to a quarter of all 1,258 admits.",
+      "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066"
+    },
+    {
+      "text": "International applicants were 3,132 of 8,506 applicants (37%) but only 107 of 1,258 admits; Massachusetts residents were 698 applicants and 151 admits.",
+      "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066"
+    },
+    {
+      "text": "From fall 2027, the Wellesley Tuition Promise makes tuition free for U.S. families earning $200,000 or less with typical assets, with no loans up to $100,000; the college estimates the remaining cost for eligible students at $0 to $26,000 a year for housing, meals and the activity fee.",
+      "url": "https://www.wellesley.edu/news/wellesley-free-tuition-income-200k-or-less-fall-2027"
+    },
+    {
+      "text": "Wellesley offered 2,214 students a place on the waiting list for fall 2025; 1,121 accepted it and 59 were admitted.",
+      "url": "https://wellesley-college.files.svdcdn.com/production/administrative-departments/OIR/CDS_2025-2026-FINAL.pdf?dm=1773253066"
+    },
+    {
+      "text": "Massachusetts requires all college students to have health insurance, so Wellesley bills every student its health plan fee unless the student waives it with qualifying coverage.",
+      "url": "https://www.wellesley.edu/admission-aid/student-financial-services/tuition-cost"
+    }
+  ],
+  "notes": "CDS G1 is blank (the CDS checked the box saying 2026-27 costs would be available 15-Mar), so cost is from the Student Financial Services page; that page lists items but no total, so the total is the arithmetic sum of listed items. C8 check-box columns are not readable in the extracted text; the policy is taken from the admission FAQ. The FAQ gives the international ED II deadline once as January 1 and elsewhere as January 5 for all ED II applicants. The $0 to $26,000 estimate for 2027-28 is quoted from the official news release of September 9, 2026, which also says Wellesley meets the full calculated need of every U.S. and international student who attends. No official fall 2026 (Class of 2030) counts found. Wellesley is a women's college; the CDS does not state the admit rate by sex."
+}

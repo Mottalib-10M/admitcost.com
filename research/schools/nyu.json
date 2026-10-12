@@ -1,0 +1,88 @@
+{
+  "slug": "nyu",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 114125,
+    "admitted": 10340,
+    "enrolled": 5662,
+    "doc": "New York University Common Data Set 2025-2026, C1",
+    "url": "https://www.nyu.edu/content/dam/nyu/institutionalResearch/documents/cds-2025-2026/CDS%2025-26%20Final%20July%202026%20(including%20G%20July_2026).pdf",
+    "accessed": "2026-10-12"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1480, 1520, 1550],
+    "satEbrw": [730, 750, 770],
+    "satMath": [750, 780, 790],
+    "act": [34, 35, 35],
+    "pctSat": 0.27,
+    "pctAct": 0.1,
+    "doc": "CDS 2025-2026, C9 (1,524 SAT submitters, 562 ACT submitters)",
+    "url": "https://www.nyu.edu/content/dam/nyu/institutionalResearch/documents/cds-2025-2026/CDS%2025-26%20Final%20July%202026%20(including%20G%20July_2026).pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Standardized testing is optional for the upcoming application term. For Steinhardt music and studio art and all Tisch programs, a required audition or portfolio can be submitted in place of standardized testing. NYU accepts official or unofficial test scores for review.",
+    "since": null,
+    "url": "https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants.html",
+    "accessed": "2026-10-12"
+  },
+  "gpa": {
+    "average": 3.81,
+    "pctSubmitting": 1.0,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://www.nyu.edu/content/dam/nyu/institutionalResearch/documents/cds-2025-2026/CDS%2025-26%20Final%20July%202026%20(including%20G%20July_2026).pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 68576,
+    "fees": null,
+    "housingFood": 26438,
+    "books": 1492,
+    "personal": 2054,
+    "travel": 2438,
+    "total": 100998,
+    "totalIncludes": "New York campus, College of Arts and Science (same for Gallatin, Liberal Studies, Nursing, SPS, Silver, Steinhardt, Tandon): tuition and fees 68,576 (published as one line) + food and housing 26,438 + books and supplies 1,492 + transportation 2,438 + personal 2,054 = 100,998. Stern: tuition and fees 70,464, total 102,886. Tisch: tuition and fees 75,326, total 107,748. Student health insurance is listed as a separate item and not in these totals. The page says amounts were not officially approved until July 2026.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/cost-of-attendance.html",
+    "accessed": "2026-10-12"
+  },
+  "aidPromise": {
+    "text": "NYU Promise, for first-year undergraduates admitted to the New York campus who file the required financial aid applications by the deadline: families with income under $100,000 do not pay tuition, NYU meets 100 percent of demonstrated need without the expectation of loans, and scholarships are adjusted to meet tuition increases each year.",
+    "year": "current (2026-27 cycle)",
+    "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/frequently-asked-questions.html",
+    "url2": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/types-of-aid/scholarships-and-grants.html"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": false,
+    "rea": false,
+    "deadlines": { "early": "November 1 (Early Decision I, decision December 15); January 1 (Early Decision II, decision February 15)", "regular": "January 5 (decision April 1)" },
+    "url": "https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants.html"
+  },
+  "facts": [
+    {
+      "text": "Under the NYU Promise, families earning less than $100,000 pay no tuition at the New York campus, and NYU meets 100 percent of demonstrated need without expecting loans, provided aid forms are filed on time.",
+      "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/frequently-asked-questions.html"
+    },
+    {
+      "text": "The 2026-27 cost of attendance depends on the school: $100,998 for most schools, $102,886 at Stern and $107,748 at Tisch, before health insurance.",
+      "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/cost-of-attendance.html"
+    },
+    {
+      "text": "NYU received 114,125 first-year applications for fall 2025 and admitted 10,340; 5,662 enrolled.",
+      "url": "https://www.nyu.edu/content/dam/nyu/institutionalResearch/documents/cds-2025-2026/CDS%2025-26%20Final%20July%202026%20(including%20G%20July_2026).pdf"
+    },
+    {
+      "text": "NYU has two binding Early Decision rounds (November 1 and January 1) and no Early Action.",
+      "url": "https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants.html"
+    },
+    {
+      "text": "Testing is optional, and only 27 percent of the fall 2025 enrolled class submitted SAT scores (10 percent ACT); Tisch and some Steinhardt programs judge an audition or portfolio instead.",
+      "url": "https://www.nyu.edu/content/dam/nyu/institutionalResearch/documents/cds-2025-2026/CDS%2025-26%20Final%20July%202026%20(including%20G%20July_2026).pdf"
+    }
+  ],
+  "notes": "www.nyu.edu blocks curl with an AWS WAF challenge, so all NYU pages and the CDS PDF were opened in Chrome (PDF text extracted in the browser with pdf.js); the PDF could not be saved to .cache-raw/cds. C1 totals: applied 46,307 men + 67,818 women; admitted 4,231 + 6,109; enrolled 2,426 + 3,236. CDS residency breakdown was left blank (totals only). CDS G1 (2026-27) lists tuition 68,574 with required fees blank and on-campus food and housing 25,250, slightly different from the financial aid office's tuition and fees 68,576 and food and housing 26,438; the financial aid office figures were used. CDS C21 does not report ED application or admit counts. No official Class of 2030 statistics found on nyu.edu via the NYU site search. Test-optional start date not stated on the page. Figures are for the New York campus only (Abu Dhabi and Shanghai differ)."
+}

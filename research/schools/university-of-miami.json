@@ -1,0 +1,103 @@
+{
+  "slug": "university-of-miami",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 58167,
+    "admitted": 10245,
+    "enrolled": 2686,
+    "doc": "University of Miami Common Data Set 2025-2026, C1",
+    "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 applicant data (Class of 2030)",
+    "applicants": 54218,
+    "admitted": 11961,
+    "enrolled": null,
+    "doc": "Undergraduate Admission, Class Profile page (Fall 2026 Applicant Data: 54,218 completed applications, 11,961 admitted, 22% admission rate; middle 50% SAT superscore 1350-1480 and ACT 28-33 for admitted students who were required to submit testing; average unweighted GPA 3.81 for admitted students)",
+    "url": "https://admissions.miami.edu/undergraduate/about/class-profile/index.html",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": [1350, 1400, 1450],
+    "satEbrw": [670, 700, 730],
+    "satMath": [660, 700, 740],
+    "act": [30, 32, 33],
+    "pctSat": 0.34,
+    "pctAct": 0.17,
+    "doc": "CDS 2025-2026, C9 (921 SAT submitters, 462 ACT submitters)",
+    "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf"
+  },
+  "testPolicy": {
+    "status": "required",
+    "text": "The University of Miami requires standardized test scores (SAT or ACT, self-reported) as part of the undergraduate application. Exempt (may apply with or without scores): performance-based programs in the Frost School of Music, BFA programs in the College of Arts and Sciences, the School of Architecture, and students graduating from a high school outside the United States.",
+    "since": "fall 2026 entry (page heading 'Test Scores Required for Fall 2026'); the first-year requirements page for the current cycle repeats 'UM requires standardized test scores'",
+    "url": "https://admissions.miami.edu/undergraduate/application-process/admission-requirements/testing-policy/index.html",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.75,
+    "pctSubmitting": 0.9996,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 66312,
+    "fees": 2030,
+    "housingFood": 26358,
+    "books": 1040,
+    "personal": 2294,
+    "travel": 800,
+    "total": 98872,
+    "totalIncludes": "on-campus undergraduate: tuition 66,312 + fees 2,030 + housing 16,958 + meals 9,400 (direct costs 94,700) + books 1,040 + personal 2,294 + transportation 800 + loan fees 38 (indirect 4,172) = 98,872. University health insurance 4,483 is required unless waived (U.S. citizens can waive); the international on-campus total is 104,091. Figures are labelled preliminary pending Board of Trustees approval.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://admissions.miami.edu/undergraduate/financial-aid/cost-of-attendance/index.html",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "No full-need or no-loan guarantee is stated on the current official pages. Need-based aid (FAFSA and CSS Profile) may combine scholarships, grants, loans and work-study; all applicants are automatically considered for merit scholarships, and Premier Scholarships, which cover up to the full cost of attendance, require applying by November 1.",
+    "year": "2026-27 cycle",
+    "url": "https://admissions.miami.edu/undergraduate/financial-aid/um-within-reach/index.html"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (ED I and EA; ED I decision mid-December, EA late January)",
+      "ed2": "January 5 (decision late February)",
+      "regular": "January 5 (decision April 1); Frost School of Music ED II and RD: December 1"
+    },
+    "url": "https://admissions.miami.edu/undergraduate/application-process/options-and-deadlines/index.html"
+  },
+  "facts": [
+    {
+      "text": "Early Decision admits a much larger share of its applicants than the overall pool: the CDS reports 2,395 ED applications and 1,062 ED admits, against 10,245 admits from 58,167 applicants overall.",
+      "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf"
+    },
+    {
+      "text": "Florida residents were admitted at a lower rate than out-of-state applicants in fall 2025: 3,155 of 13,608 in-state applicants versus 6,282 of 36,007 out-of-state and 808 of 8,552 international applicants.",
+      "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf"
+    },
+    {
+      "text": "The waiting list is large: 22,147 applicants were offered a place for fall 2025, 9,077 accepted it, and 703 were admitted from it.",
+      "url": "https://www.irsa.miami.edu/facts-and-information/common-data-set/cds2526.pdf"
+    },
+    {
+      "text": "Premier Scholarships, which cover up to the full cost of attendance, are only open to students who apply ED I or EA by November 1.",
+      "url": "https://admissions.miami.edu/undergraduate/application-process/options-and-deadlines/index.html"
+    },
+    {
+      "text": "Test scores are required for most applicants, but Frost School of Music performance programs, BFA programs, the School of Architecture and students from high schools outside the US can choose to apply without them.",
+      "url": "https://admissions.miami.edu/undergraduate/application-process/admission-requirements/testing-policy/index.html"
+    },
+    {
+      "text": "For the fall 2026 class, UM reports 54,218 completed applications and 11,961 admitted students, a 22% admission rate.",
+      "url": "https://admissions.miami.edu/undergraduate/about/class-profile/index.html"
+    }
+  ],
+  "notes": "CDS 2025-26 values are drawn as vector graphics (no extractable text); they were read from rendered page images. C1 totals are sums of the men/women/unknown rows (applied 23,048 + 35,098 + 21; admitted 4,508 + 5,734 + 3; enrolled 1,136 + 1,550 + 0) and match the residency table totals (58,167 / 10,245 / 2,686). The C21 ED counts are captioned 'For the Fall 2024 entering class' in the CDS 2025-26 (likely a template label not updated). CDS G1 is captioned 2026-2027 with the 'not available' box checked (date May 31, 2026); its amounts (tuition 66,312, fees 2,030, food and housing 26,358) are identical to the financial aid office's 2026-27 table, which is labelled preliminary. The student newspaper The Miami Hurricane (2026-08-26, pointer only) reports a tuition increase, which the official pages do not show; the official 2026-27 page was used as published. The 'Fall 2026 Applicant Data' block does not give enrolled count; the SAT/ACT ranges there are for admitted students, so they were not put in scores. An earlier description of 'meeting 100 percent of demonstrated need' found via search does not appear on the current Miami Within Reach page, so it was not recorded."
+}

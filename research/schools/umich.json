@@ -1,0 +1,133 @@
+{
+  "slug": "umich",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 109112,
+    "admitted": 17915,
+    "enrolled": 8178,
+    "doc": "University of Michigan-Ann Arbor Common Data Set 2025-2026, C1",
+    "url": "https://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2025-26_umaa.pdf",
+    "accessed": "2026-10-13",
+    "waitlist": {
+      "offered": 24447,
+      "accepted": 18435,
+      "admitted": 1663
+    }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [
+      1370,
+      1470,
+      1530
+    ],
+    "satEbrw": [
+      690,
+      730,
+      750
+    ],
+    "satMath": [
+      680,
+      740,
+      780
+    ],
+    "act": [
+      32,
+      33,
+      34
+    ],
+    "pctSat": 0.55,
+    "pctAct": 0.18,
+    "doc": "CDS 2025-2026, C9 (4,503 SAT submitters, 1,462 ACT submitters)",
+    "url": "https://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2025-26_umaa.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Continuing for the 2027 application cycle, U-M will be test-optional. Applicants choose whether SAT/ACT scores are considered; self-reported scores are accepted (official scores required on enrollment) and U-M superscores. ED/EA applicants who want scores considered must self-report them by Nov. 1. Not submitting is stated to be no disadvantage.",
+    "since": "test-optional since fall 2021 entry, renewed for fall 2027 entry",
+    "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.9,
+    "pctSubmitting": 0.978,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2025-26_umaa.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Full-time undergraduate, fall and winter terms, lower division (0-54 credits), LSA rates: tuition and fees + living expenses (unlimited basic residential meal plan) + books, course materials, supplies and equipment + transportation + miscellaneous personal. Upper division (55+ credits): tuition and fees 21,268 in-state (total 42,566) and 71,798 out-of-state (total 93,096). Health insurance not listed.",
+    "inState": {
+      "tuition": 18402,
+      "fees": 494,
+      "housingFood": 17220,
+      "books": 1220,
+      "personal": 2458,
+      "travel": 400,
+      "total": 40194,
+      "note": "Financial aid page gives tuition and fees combined (18,896); the split 18,402 + 494 is from CDS 2025-26 G1 (2026-27 figures)"
+    },
+    "outOfState": {
+      "tuition": 66602,
+      "fees": 494,
+      "housingFood": 17220,
+      "books": 1220,
+      "personal": 2458,
+      "travel": 400,
+      "total": 88394,
+      "note": "Tuition and fees 67,096 on the financial aid page; split from CDS G1; international students pay an additional 1,000 required fee per CDS G1"
+    },
+    "url": "https://finaid.umich.edu/getting-started/estimating-costs",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Go Blue Guarantee: free tuition for up to four years for qualified high-achieving, in-state, full-time undergraduate students; Michigan families with incomes of $125,000 and under and assets below $125,000 qualify.",
+    "year": "current (threshold raised to $125,000; page read 2026-10-13)",
+    "url": "https://goblueguarantee.umich.edu/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Decision, binding, decision by Dec. 24, commitment Jan. 6; Early Action, nonbinding, decision by Jan. 29)",
+      "regular": "February 1 (decision by April 2)"
+    },
+    "url": "https://admissions.umich.edu/apply/first-year-applicants/first-year-application-plans"
+  },
+  "facts": [
+    {
+      "text": "Michigan now offers binding Early Decision (deadline Nov. 1, decision by Dec. 24) alongside Early Action; the CDS 2025-26 shows no Early Decision plan for the fall 2025 class, so ED is new.",
+      "url": "https://admissions.umich.edu/apply/first-year-applicants/first-year-application-plans"
+    },
+    {
+      "text": "In-state families with income of $125,000 or less and assets below $125,000 qualify for free tuition under the Go Blue Guarantee.",
+      "url": "https://goblueguarantee.umich.edu/"
+    },
+    {
+      "text": "Out-of-state students pay 67,096 in 2026-27 tuition and fees (lower division) against 18,896 for Michigan residents, for totals of 88,394 and 40,194.",
+      "url": "https://finaid.umich.edu/getting-started/estimating-costs"
+    },
+    {
+      "text": "Tuition rises once a student reaches upper division (55+ credits): 21,268 in-state and 71,798 out-of-state in 2026-27.",
+      "url": "https://finaid.umich.edu/getting-started/estimating-costs"
+    },
+    {
+      "text": "For fall 2025, 18,435 applicants accepted a place on the waiting list and 1,663 were admitted from it.",
+      "url": "https://obp.umich.edu/wp-content/uploads/pubdata/cds/cds_2025-26_umaa.pdf"
+    },
+    {
+      "text": "For fall 2027 entry, the advance selection process for computer science has been removed and the School of Public Health becomes a preferred admission option through LSA.",
+      "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes"
+    }
+  ],
+  "notes": "Cycle from CDS 2025-26 C1 (53,044 + 56,068 = 109,112 applied; 7,593 + 10,322 = 17,915 admitted; 3,499 + 4,679 = 8,178 enrolled). C1 residency breakdown left blank by U-M. No official fall 2026 class numbers found. Finaid and admissions pages block curl (HTTP 403) and were read in Chrome. CDS G1 2026-27: in-state tuition 18,402 / 19,588 and out-of-state 66,602 / 68,953 (two columns, likely lower/upper division in LSA) with required fees 494; the financial aid page's tuition-and-fees figures differ for upper division (21,268 / 71,798), so the financial aid page totals are used. The Ann Arbor-specific Go Blue Guarantee page (finaid.umich.edu/go-blue-guarantee) redirects to the system page cited; academic merit conditions are not detailed there."
+}

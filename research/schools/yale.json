@@ -1,0 +1,26 @@
+{
+  "slug": "yale",
+  "cycle": { "label": "Fall 2025 entering class (Class of 2029)", "applicants": 50264, "admitted": 2387, "enrolled": 1633,
+             "doc": "Yale University Common Data Set 2025-2026, C1 (22,819 men + 27,445 women applied; 1,189 + 1,198 admitted; 799 + 834 enrolled)", "url": "https://oir.yale.edu/sites/default/files/yale_cds_2025-26_md_20260616.pdf", "accessed": "2026-10-12" },
+  "cycleNewer": null,
+  "scores": { "satComposite": [1480, 1540, 1560], "satEbrw": [730, 760, 780], "satMath": [740, 780, 790], "act": [33, 34, 35],
+              "pctSat": 0.67, "pctAct": 0.25, "doc": "CDS 2025-2026, C9 (1,092 SAT submitters, 412 ACT submitters)", "url": "https://oir.yale.edu/sites/default/files/yale_cds_2025-26_md_20260616.pdf" },
+  "testPolicy": { "status": "required", "text": "All first-year and transfer applicants must include scores from the ACT or SAT. AP or IB scores may be added but are not required and no longer replace the SAT/ACT. The ACT Science and Writing sections are optional; superscoring is accepted.", "since": null,
+                  "url": "https://admissions.yale.edu/standardized-testing", "accessed": "2026-10-12" },
+  "gpa": { "average": null, "pctSubmitting": null, "doc": "CDS 2025-2026, C11-C12 left blank by Yale", "url": "https://oir.yale.edu/sites/default/files/yale_cds_2025-26_md_20260616.pdf" },
+  "cost": { "year": "2026-27", "tuition": 72500, "fees": 185, "housingFood": 21600, "books": 1000, "personal": 2700, "travel": 1100,
+            "total": 97985, "totalIncludes": "Sum of the published 2026-27 line items: tuition 72,500 + student activity fee 185 + housing 12,080 + food 9,520 + books/course material 1,000 + personal 2,700. Travel is not in this total: the aid office says it varies by home address; the CDS 2025-26 G5 lists 1,100 for transportation (with travel, 99,085). Yale does not print a single total on the page.",
+            "inState": null, "outOfState": null,
+            "url": "https://finaid.yale.edu/coa", "accessed": "2026-10-12" },
+  "aidPromise": { "text": "Families with incomes below $100,000 and typical assets qualify for a zero parent share award covering tuition and fees, housing, food and travel, plus hospitalization insurance coverage and a $2,000 start-up grant in the first year. Families with incomes below $200,000 and typical assets receive a need-based scholarship covering at least tuition. Need-blind admission for any student anywhere in the world; aid meets 100% of demonstrated need regardless of citizenship or immigration status, without requiring loans.", "year": "current policy as published for 2026-27 (start year of the $200,000 tier not stated on the page)", "url": "https://admissions.yale.edu/affordability" },
+  "plans": { "ed": false, "ed2": false, "ea": false, "rea": true, "deadlines": { "early": "November 1 (Single-Choice Early Action, decisions mid-December)", "regular": "January 2 (decisions late March)" }, "url": "https://admissions.yale.edu/timelines" },
+  "facts": [
+    { "text": "Yale's early plan is Single-Choice (Restrictive) Early Action, non-binding, due November 1; Yale states it gives no advantage to applicants who apply early, and students denied early cannot reapply in Regular Decision the same year.", "url": "https://admissions.yale.edu/timelines" },
+    { "text": "Families earning under $100,000 with typical assets pay nothing (zero parent share, travel included, plus a $2,000 start-up grant); under $200,000, aid covers at least full tuition; 21% of students' families pay nothing.", "url": "https://admissions.yale.edu/affordability" },
+    { "text": "Admission is need-blind for every applicant worldwide, and aid meets 100% of demonstrated need regardless of citizenship, with no loans in initial offers; 88% of Yale College graduates have no student loan debt.", "url": "https://finaid.yale.edu/affordability" },
+    { "text": "Testing tightened: the class entering fall 2025 applied under a test-flexible policy (ACT, SAT, AP or IB), while current applicants must submit the SAT or ACT.", "url": "https://admissions.yale.edu/standardized-testing" },
+    { "text": "For fall 2025, 944 applicants were offered a place on the waiting list, 738 accepted it and 32 were admitted.", "url": "https://oir.yale.edu/sites/default/files/yale_cds_2025-26_md_20260616.pdf" },
+    { "text": "Yale's 2026-27 tuition is $72,500, with housing $12,080 and food $9,520.", "url": "https://finaid.yale.edu/coa" }
+  ],
+  "notes": "Cycle from CDS 2025-26 (file dated 2026-06-16). CDS C8F still describes the test-flexible policy (ACT, AP, IB; the CDS text lists 'ACT' twice, apparently a typo for SAT) that applied to the fall 2025 class; the admissions page today requires ACT or SAT. The page does not give the date of the change; web search quota was exhausted before I could find the official announcement, so testPolicy.since is null. GPA (C11-C12) left blank by Yale. CDS G1 lists 2026-27 tuition 72,500 and food and housing 21,600 but leaves required fees blank, while the aid office COA lists a 185 student activity fee. No official class of 2030 (fall 2026) counts found. The start year of the $200,000 no-tuition tier could not be confirmed (news.yale.edu URL guessed returned 404)."
+}

@@ -1,0 +1,727 @@
+{
+ "_lisezmoi": "Every figure of the site that is not in scorecard.json or latest/*.json lives here, read on the official source cited, never typed in a page (RECETTE \u00a74, \u00a717.4).",
+ "year": 2026,
+ "retrieved_at": "2026-10-12",
+ "valid_from": "2026-10-12",
+ "valid_to": "2027-09-30",
+ "concordance": {
+  "published": "2018-06",
+  "note": "2018 ACT/SAT Concordance Tables, College Board and ACT, still the official tables in October 2026.",
+  "satToAct": [
+   [
+    1600,
+    36
+   ],
+   [
+    1590,
+    36
+   ],
+   [
+    1580,
+    36
+   ],
+   [
+    1570,
+    36
+   ],
+   [
+    1560,
+    35
+   ],
+   [
+    1550,
+    35
+   ],
+   [
+    1540,
+    35
+   ],
+   [
+    1530,
+    35
+   ],
+   [
+    1520,
+    34
+   ],
+   [
+    1510,
+    34
+   ],
+   [
+    1500,
+    34
+   ],
+   [
+    1490,
+    34
+   ],
+   [
+    1480,
+    33
+   ],
+   [
+    1470,
+    33
+   ],
+   [
+    1460,
+    33
+   ],
+   [
+    1450,
+    33
+   ],
+   [
+    1440,
+    32
+   ],
+   [
+    1430,
+    32
+   ],
+   [
+    1420,
+    32
+   ],
+   [
+    1410,
+    31
+   ],
+   [
+    1400,
+    31
+   ],
+   [
+    1390,
+    31
+   ],
+   [
+    1380,
+    30
+   ],
+   [
+    1370,
+    30
+   ],
+   [
+    1360,
+    30
+   ],
+   [
+    1350,
+    29
+   ],
+   [
+    1340,
+    29
+   ],
+   [
+    1330,
+    29
+   ],
+   [
+    1320,
+    28
+   ],
+   [
+    1310,
+    28
+   ],
+   [
+    1300,
+    28
+   ],
+   [
+    1290,
+    27
+   ],
+   [
+    1280,
+    27
+   ],
+   [
+    1270,
+    27
+   ],
+   [
+    1260,
+    27
+   ],
+   [
+    1250,
+    26
+   ],
+   [
+    1240,
+    26
+   ],
+   [
+    1230,
+    26
+   ],
+   [
+    1220,
+    25
+   ],
+   [
+    1210,
+    25
+   ],
+   [
+    1200,
+    25
+   ],
+   [
+    1190,
+    24
+   ],
+   [
+    1180,
+    24
+   ],
+   [
+    1170,
+    24
+   ],
+   [
+    1160,
+    24
+   ],
+   [
+    1150,
+    23
+   ],
+   [
+    1140,
+    23
+   ],
+   [
+    1130,
+    23
+   ],
+   [
+    1120,
+    22
+   ],
+   [
+    1110,
+    22
+   ],
+   [
+    1100,
+    22
+   ],
+   [
+    1090,
+    21
+   ],
+   [
+    1080,
+    21
+   ],
+   [
+    1070,
+    21
+   ],
+   [
+    1060,
+    21
+   ],
+   [
+    1050,
+    20
+   ],
+   [
+    1040,
+    20
+   ],
+   [
+    1030,
+    20
+   ],
+   [
+    1020,
+    19
+   ],
+   [
+    1010,
+    19
+   ],
+   [
+    1000,
+    19
+   ],
+   [
+    990,
+    19
+   ],
+   [
+    980,
+    18
+   ],
+   [
+    970,
+    18
+   ],
+   [
+    960,
+    18
+   ],
+   [
+    950,
+    17
+   ],
+   [
+    940,
+    17
+   ],
+   [
+    930,
+    17
+   ],
+   [
+    920,
+    17
+   ],
+   [
+    910,
+    16
+   ],
+   [
+    900,
+    16
+   ],
+   [
+    890,
+    16
+   ],
+   [
+    880,
+    16
+   ],
+   [
+    870,
+    15
+   ],
+   [
+    860,
+    15
+   ],
+   [
+    850,
+    15
+   ],
+   [
+    840,
+    15
+   ],
+   [
+    830,
+    15
+   ],
+   [
+    820,
+    14
+   ],
+   [
+    810,
+    14
+   ],
+   [
+    800,
+    14
+   ],
+   [
+    790,
+    14
+   ],
+   [
+    780,
+    14
+   ],
+   [
+    770,
+    13
+   ],
+   [
+    760,
+    13
+   ],
+   [
+    750,
+    13
+   ],
+   [
+    740,
+    13
+   ],
+   [
+    730,
+    13
+   ],
+   [
+    720,
+    12
+   ],
+   [
+    710,
+    12
+   ],
+   [
+    700,
+    12
+   ],
+   [
+    690,
+    12
+   ],
+   [
+    680,
+    11
+   ],
+   [
+    670,
+    11
+   ],
+   [
+    660,
+    11
+   ],
+   [
+    650,
+    11
+   ],
+   [
+    640,
+    10
+   ],
+   [
+    630,
+    10
+   ],
+   [
+    620,
+    10
+   ],
+   [
+    610,
+    9
+   ],
+   [
+    600,
+    9
+   ],
+   [
+    590,
+    9
+   ]
+  ],
+  "actToSat": [
+   [
+    36,
+    1590,
+    1570,
+    1600
+   ],
+   [
+    35,
+    1540,
+    1530,
+    1560
+   ],
+   [
+    34,
+    1500,
+    1490,
+    1520
+   ],
+   [
+    33,
+    1460,
+    1450,
+    1480
+   ],
+   [
+    32,
+    1430,
+    1420,
+    1440
+   ],
+   [
+    31,
+    1400,
+    1390,
+    1410
+   ],
+   [
+    30,
+    1370,
+    1360,
+    1380
+   ],
+   [
+    29,
+    1340,
+    1330,
+    1350
+   ],
+   [
+    28,
+    1310,
+    1300,
+    1320
+   ],
+   [
+    27,
+    1280,
+    1260,
+    1290
+   ],
+   [
+    26,
+    1240,
+    1230,
+    1250
+   ],
+   [
+    25,
+    1210,
+    1200,
+    1220
+   ],
+   [
+    24,
+    1180,
+    1160,
+    1190
+   ],
+   [
+    23,
+    1140,
+    1130,
+    1150
+   ],
+   [
+    22,
+    1110,
+    1100,
+    1120
+   ],
+   [
+    21,
+    1080,
+    1060,
+    1090
+   ],
+   [
+    20,
+    1040,
+    1030,
+    1050
+   ],
+   [
+    19,
+    1010,
+    990,
+    1020
+   ],
+   [
+    18,
+    970,
+    960,
+    980
+   ],
+   [
+    17,
+    930,
+    920,
+    950
+   ],
+   [
+    16,
+    890,
+    880,
+    910
+   ],
+   [
+    15,
+    850,
+    830,
+    870
+   ],
+   [
+    14,
+    800,
+    780,
+    820
+   ],
+   [
+    13,
+    760,
+    730,
+    770
+   ],
+   [
+    12,
+    710,
+    690,
+    720
+   ],
+   [
+    11,
+    670,
+    650,
+    680
+   ],
+   [
+    10,
+    630,
+    620,
+    640
+   ],
+   [
+    9,
+    590,
+    590,
+    610
+   ]
+  ]
+ },
+ "sat": {
+  "classOf": 2026,
+  "takers": 1954833,
+  "meanTotal": 1045,
+  "meanRw": 528,
+  "meanMath": 517,
+  "p25": 870,
+  "p50": 1030,
+  "p75": 1220,
+  "perfect": 691,
+  "bands": [
+   [
+    "1400-1600",
+    167152
+   ],
+   [
+    "1200-1390",
+    377381
+   ],
+   [
+    "1000-1190",
+    549902
+   ],
+   [
+    "800-990",
+    562438
+   ],
+   [
+    "600-790",
+    251378
+   ],
+   [
+    "400-590",
+    46582
+   ]
+  ],
+  "benchmarkRw": 480,
+  "benchmarkMath": 530,
+  "metBoth": 0.42
+ },
+ "act": {
+  "classOf": 2025,
+  "meanComposite": 19.4,
+  "tested": "almost 1.4 million",
+  "shareOfClass": 0.36,
+  "metThree": 0.3,
+  "enhancedFrom": "2025-09"
+ },
+ "incomeBands": [
+  [
+   0,
+   30000
+  ],
+  [
+   30001,
+   48000
+  ],
+  [
+   48001,
+   75000
+  ],
+  [
+   75001,
+   110000
+  ],
+  [
+   110001,
+   null
+  ]
+ ],
+ "odds": {
+  "_note": "Rules of the site's own classification, explained on the method page. Not a prediction model.",
+  "reachBelow": 0.15,
+  "likelyAbove": 0.6,
+  "likelyMinPct": 0.5,
+  "targetMinPct": 0.25,
+  "iqrToSd": 1.349
+ },
+ "sources": {
+  "scorecard": {
+   "url": "https://collegescorecard.ed.gov/data/",
+   "label": "U.S. Department of Education, College Scorecard data, release of June 10, 2026"
+  },
+  "scorecard_doc": {
+   "url": "https://collegescorecard.ed.gov/files/CollegeScorecardDataDictionary.xlsx",
+   "label": "College Scorecard data dictionary, release of June 10, 2026 (Most Recent cohort map: year of each figure)"
+  },
+  "ipeds": {
+   "url": "https://nces.ed.gov/ipeds/",
+   "label": "NCES, Integrated Postsecondary Education Data System (IPEDS)"
+  },
+  "ipeds_netprice": {
+   "url": "https://nces.ed.gov/ipeds/survey-components/9/student-financial-aid",
+   "label": "NCES, IPEDS Student Financial Aid component: how average net price is defined"
+  },
+  "concordance": {
+   "url": "https://www.act.org/content/dam/act/unsecured/documents/ACT-SAT-Concordance-Tables.pdf",
+   "label": "ACT and College Board, 2018 ACT/SAT Concordance Tables"
+  },
+  "concordance_guide": {
+   "url": "https://satsuite.collegeboard.org/media/pdf/guide-2018-act-sat-concordance.pdf",
+   "label": "College Board, Guide to the 2018 ACT/SAT Concordance"
+  },
+  "act_enhanced": {
+   "url": "https://www.act.org/content/act/en/products-and-services/the-act-postsecondary-professionals/resources/enhancements-higher-ed.html",
+   "label": "ACT, test enhancements for higher education (three-section Composite from September 2025)"
+  },
+  "sat_report": {
+   "url": "https://reports.collegeboard.org/media/pdf/2026-total-group-sat-suite-of-assessments-annual-report-ada.pdf",
+   "label": "College Board, 2026 SAT Suite of Assessments Annual Report, total group (class of 2026)"
+  },
+  "sat_results": {
+   "url": "https://reports.collegeboard.org/sat-suite-program-results",
+   "label": "College Board, SAT Suite program results"
+  },
+  "act_class2025": {
+   "url": "https://www.act.org/gradclass2025",
+   "label": "ACT, ACT-tested graduating class of 2025 (national average Composite 19.4)"
+  },
+  "cds": {
+   "url": "https://commondataset.org/",
+   "label": "Common Data Set Initiative (template followed by each university's own CDS)"
+  },
+  "npc_rule": {
+   "url": "https://www.govinfo.gov/link/uscode/20/1015a",
+   "label": "20 U.S.C. 1015a(h): every college that takes federal aid must post a net price calculator"
+  },
+  "studentaid_coa": {
+   "url": "https://studentaid.gov/help-center/answers/article/what-is-cost-of-attendance",
+   "label": "Federal Student Aid: what cost of attendance includes"
+  },
+  "npc_center": {
+   "url": "https://collegecost.ed.gov/net-price",
+   "label": "U.S. Department of Education, Net Price Calculator Center"
+  }
+ }
+}

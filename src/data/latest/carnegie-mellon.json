@@ -1,0 +1,106 @@
+{
+ "slug": "carnegie-mellon",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 34867,
+  "admitted": 3859,
+  "enrolled": 1804,
+  "doc": "Carnegie Mellon University Common Data Set 2025-2026, C1 (Pittsburgh campus; 21,054 men + 12,942 women + 871 another gender applied; 2,140 + 1,628 + 91 admitted; 1,060 + 700 + 44 enrolled full-time)",
+  "url": "https://www.cmu.edu/ira/CDS/pdf/cds_2025_26/cds_2025_full_pdf.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1500,
+   1540,
+   1560
+  ],
+  "satEbrw": [
+   730,
+   750,
+   770
+  ],
+  "satMath": [
+   770,
+   790,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   36
+  ],
+  "pctSat": 0.655,
+  "pctAct": 0.181,
+  "doc": "CDS 2025-2026, C9 (1,182 SAT submitters, 327 ACT submitters)",
+  "url": "https://www.cmu.edu/ira/CDS/pdf/cds_2025_26/cds_2025_full_pdf.pdf"
+ },
+ "testPolicy": {
+  "status": "other",
+  "text": "Varies by college. The Griffin School of Computer Science requires an SAT or ACT score. The College of Engineering, Dietrich College, Heinz College's Information Systems program, Mellon College of Science and Tepper School of Business are 'test flexible': a test result is required but may be the SAT, ACT, IB, AP, Cambridge A-Level or French Baccalaureate (predicted or actual). The College of Fine Arts is test optional and requires portfolios or auditions.",
+  "since": "CDS 2025-26 C8 shows SAT or ACT 'required' for fall 2025 entry",
+  "url": "https://www.cmu.edu/admission/admission/standardized-testing",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 3.89,
+  "pctSubmitting": 0.997,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://www.cmu.edu/ira/CDS/pdf/cds_2025_26/cds_2025_full_pdf.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 69702,
+  "fees": 1862,
+  "housingFood": 19650,
+  "books": 1000,
+  "personal": 1300,
+  "travel": "varies by home state (not in the resident total)",
+  "total": 93614,
+  "totalIncludes": "first-year resident entering fall 2026: tuition 69,702 + housing 11,700 + food 7,950 + First-Year Experience Fee 748 + Technology Fee 490 + Student Activities Fee 322 + Transportation Fee 302 (= 91,214 tuition, fees and living) + books and supplies 1,000 + personal 1,300 + estimated loan fees 100 = 93,614. Not included: transportation allowance (varies by home state) and required health insurance 3,093 unless waived.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.cmu.edu/sfs/tuition/undergraduate/index.html",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Students whose families make less than $75k a year attend CMU completely tuition-free. Students from families making less than $100k a year receive financial aid that does not include federal loans. CMU is committed to meeting 100% of demonstrated financial need for domestic students.",
+  "year": "current policy as published in 2026 (start year not stated on the page)",
+  "url": "https://www.cmu.edu/admission/costs-aid"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 2 (Early Decision, notified by December 15; not available for Drama, BXA Design programs or Music)",
+   "regular": "January 4 (December 1 for the Schools of Drama and Music)"
+  },
+  "url": "https://www.cmu.edu/admission/admission/application-plans-deadlines"
+ },
+ "facts": [
+  {
+   "text": "Testing depends on the college: Computer Science requires the SAT or ACT, most other colleges require some test (SAT, ACT, IB, AP, A-Level or French Bac), and Fine Arts is test optional with portfolio or audition.",
+   "url": "https://www.cmu.edu/admission/admission/standardized-testing"
+  },
+  {
+   "text": "Early Decision admitted 553 of 2,680 applicants for fall 2025 (about 21%), against 3,859 of 34,867 overall (about 11%).",
+   "url": "https://www.cmu.edu/ira/CDS/pdf/cds_2025_26/cds_2025_full_pdf.pdf"
+  },
+  {
+   "text": "7,117 applicants were offered a waitlist place for fall 2025 and 4,937 accepted it, but only 36 were admitted from it.",
+   "url": "https://www.cmu.edu/ira/CDS/pdf/cds_2025_26/cds_2025_full_pdf.pdf"
+  },
+  {
+   "text": "Families earning under $75,000 pay no tuition, and aid for families under $100,000 contains no federal loans.",
+   "url": "https://www.cmu.edu/admission/costs-aid"
+  },
+  {
+   "text": "First-years entering in fall 2026 face a cost of attendance of $93,614 (tuition $69,702, or $969 per unit), plus $3,093 health insurance unless waived; all first-years must live on campus.",
+   "url": "https://www.cmu.edu/sfs/tuition/undergraduate/index.html"
+  }
+ ],
+ "notes": "CDS 2025-26 opened; some C2/C9 labels say 'Fall 2024' (template leftovers), but C1 is labeled Fall 2025 and the C9 submitter counts (1,182 = 65.5% of 1,804) match the fall 2025 class. CDS G1 in that file reports 2025-26 costs (tuition 67,020); the 2026-27 figures are from Student Financial Services. The ED deadline is November 1 in CDS C21 (fall 2025 cycle) and November 2 on the current admissions page. No official Class of 2030 figures checked (web search budget exhausted); cycleNewer null."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "williams",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 15520,
+    "admitted": 1336,
+    "enrolled": 567,
+    "doc": "Williams College Common Data Set 2025-2026 (V2, April 2026), C1",
+    "url": "https://www.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1490, 1520, 1550],
+    "satEbrw": [740, 750, 770],
+    "satMath": [740, 770, 790],
+    "act": [33, 34, 35],
+    "pctSat": 0.43,
+    "pctAct": 0.18,
+    "doc": "CDS 2025-2026, C9 (242 SAT submitters, 104 ACT submitters; means: SAT 1510, ACT 34)",
+    "url": "https://www.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Williams is truly test optional: it is entirely up to the applicant whether to submit SAT or ACT results. Applicants state on the Williams application whether they apply test-optional and may change their mind until the deadline of their decision program (QuestBridge Match, Early Decision, Regular Decision or Transfer).",
+    "since": null,
+    "url": "https://www.williams.edu/admission-aid/how-to-apply/",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C11/C12 left blank",
+    "url": "https://www.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 76300,
+    "fees": 340,
+    "housingFood": 19320,
+    "books": 1000,
+    "personal": 1850,
+    "travel": 850,
+    "total": 95960,
+    "totalIncludes": "published comprehensive fee total: tuition 76,300 + housing 9,830 + meals 9,490 + activities and residential house fees 340 = 95,960 (97,460 with the 1,500 study away fee). Not in that total: books estimated at 1,000 (covered by Williams for every aided student); CDS G5 adds transportation 850 and other expenses 1,850.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://www.williams.edu/admission-aid/tuition-aid/",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Williams meets 100% of demonstrated need with no loans and no work-study expectations, and offers free tuition to students whose families earn $200K or less (with typical assets); it covers the cost of books for every student on financial aid.",
+    "year": "2026-27",
+    "url": "https://www.williams.edu/admission-aid/tuition-aid/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": "November 15 (Early Decision; decision by December 14)",
+      "regular": "January 4"
+    },
+    "url": "https://www.williams.edu/admission-aid/how-to-apply/"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, 964 students applied Early Decision and 256 were admitted, so about 27% of ED applicants got in versus 1,080 of the remaining 14,556 applicants (about 7%).",
+      "url": "https://www.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf"
+    },
+    {
+      "text": "Williams offers free tuition to families earning $200,000 or less with typical assets, and its aid has no loans and no work-study expectation.",
+      "url": "https://www.williams.edu/admission-aid/tuition-aid/"
+    },
+    {
+      "text": "Williams offered 2,193 applicants a waiting-list place for fall 2025; 850 accepted and 25 were admitted.",
+      "url": "https://www.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf"
+    },
+    {
+      "text": "Only one early round exists (binding Early Decision, November 15); Williams has no Early Action and no second ED round.",
+      "url": "https://www.williams.edu/admission-aid/how-to-apply/"
+    },
+    {
+      "text": "The 2026-27 comprehensive fee is $95,960, or $97,460 for students paying the $1,500 study away fee.",
+      "url": "https://www.williams.edu/admission-aid/tuition-aid/"
+    }
+  ],
+  "notes": "williams.edu blocks curl and WebFetch (Cloudflare 403); the CDS PDF and admission pages were opened in Chrome (CDS mirrored at https://hub.williams.edu/institutional-research/files/2026/04/Williams-CDS-2025-2026-V2.pdf, listed on https://hub.williams.edu/institutional-research/common-data-set/). PDF not saved to .cache-raw (download blocked). C1: 7,368 men + 7,248 women + 904 unknown sex applied; 628 + 661 + 47 admitted; 286 + 279 + 2 enrolled. C1 residency breakdown is blank. CDS G1 already lists 2026-27 costs, matching the tuition page. The ED vs non-ED rates in facts are computed from C1 and C21 counts. The test-optional page gives no start date; Williams' need-blind status for international applicants was not found on the pages opened, so it is not claimed. No official fall 2026 counts found."
+}

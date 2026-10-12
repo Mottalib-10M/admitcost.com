@@ -1,0 +1,88 @@
+{
+  "slug": "tufts",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 33395,
+    "admitted": 3612,
+    "enrolled": 1764,
+    "doc": "Tufts University Common Data Set 2025-2026, C1 (sum of men, women and unknown-sex lines)",
+    "url": "https://provost.tufts.edu/institutionalresearch/wp-content/uploads/sites/5/CDS_2025-2026.pdf",
+    "accessed": "2026-10-12"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1460, 1500, 1520],
+    "satEbrw": [720, 740, 760],
+    "satMath": [730, 760, 780],
+    "act": [33, 34, 35],
+    "pctSat": 0.42,
+    "pctAct": 0.16,
+    "doc": "CDS 2025-2026, C9 (749 SAT submitters, 279 ACT submitters)",
+    "url": "https://provost.tufts.edu/institutionalresearch/wp-content/uploads/sites/5/CDS_2025-2026.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Tufts University is test-optional for all undergraduate applicants. Tufts encourages applicants with an SAT of 1300 or higher or an ACT of 28 or higher to submit; self-reported scores are accepted; the choice to include scores cannot be changed after the application is submitted.",
+    "since": null,
+    "url": "https://admissions.tufts.edu/apply/applying-to-tufts/sat-and-act-tests/",
+    "accessed": "2026-10-12"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C12 (left blank by Tufts)",
+    "url": "https://provost.tufts.edu/institutionalresearch/wp-content/uploads/sites/5/CDS_2025-2026.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 74862,
+    "fees": 1696,
+    "housingFood": 20594,
+    "books": 1000,
+    "personal": 1846,
+    "travel": "varies by distance from home",
+    "total": 99998,
+    "totalIncludes": "first-year on campus: costs paid to the school 97,152 (tuition 74,862 + housing 11,220 + food 9,374 + fees 1,696, fees = Health and Wellness and Activity fees) + out-of-pocket 2,846 (books and supplies 1,000 + personal 1,846). The page publishes these two subtotals separately; 99,998 is their sum. Transportation varies and is not given as a number; student health insurance is extra if not waived.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://students.tufts.edu/financial-services/undergrad-aid/award-letter/undergraduate-cost-attendance",
+    "accessed": "2026-10-12"
+  },
+  "aidPromise": {
+    "text": "Tufts Tuition Pact: starting with the class enrolling in fall 2026, U.S. students whose annual family income (with typical assets) is under $150,000 attend tuition-free. Tufts meets 100 percent of demonstrated need of every admitted student regardless of citizenship status, and students with family income under $60,000 typically receive aid with no student loans.",
+    "year": "fall 2026 entering class onward",
+    "url": "https://students.tufts.edu/financial-services/undergrad-aid/award-letter/undergraduate-cost-attendance",
+    "url2": "https://admissions.tufts.edu/tuition-and-aid/tuition-and-aid/cost-and-aid/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": false,
+    "rea": false,
+    "deadlines": { "early": "November 2, 2026 (Early Decision I, decision mid-December); January 4, 2027 (Early Decision II, decision early February)", "regular": "January 4, 2027 (decision by April 1)" },
+    "url": "https://admissions.tufts.edu/apply/applying-to-tufts/"
+  },
+  "facts": [
+    {
+      "text": "From the fall 2026 entering class, U.S. students from families earning under $150,000 with typical assets attend Tufts tuition-free.",
+      "url": "https://students.tufts.edu/financial-services/undergrad-aid/award-letter/undergraduate-cost-attendance"
+    },
+    {
+      "text": "Early Decision is a big share of the class: for fall 2025, Tufts received 3,344 ED applications and admitted 1,071, close to a third of all 3,612 admits.",
+      "url": "https://provost.tufts.edu/institutionalresearch/wp-content/uploads/sites/5/CDS_2025-2026.pdf"
+    },
+    {
+      "text": "Applicants apply to one school (Arts and Sciences, Engineering, or the SMFA art school, or the 5-year combined degree) and are considered only for that school; of 1,762 enrolled first-years in fall 2025, 1,303 were in Arts and Sciences and 296 in Engineering.",
+      "url": "https://admissions.tufts.edu/apply/enrolled-student-profile/"
+    },
+    {
+      "text": "Tufts is test-optional and encourages submitting only an SAT of 1300+ or ACT of 28+; about half of applicants for the Class of 2029 submitted scores.",
+      "url": "https://admissions.tufts.edu/apply/applying-to-tufts/sat-and-act-tests/"
+    },
+    {
+      "text": "The 2026-27 first-year on-campus bill (tuition, housing, food, fees) is $97,152, plus $2,846 for books and personal expenses and a variable travel cost.",
+      "url": "https://students.tufts.edu/financial-services/undergrad-aid/award-letter/undergraduate-cost-attendance"
+    }
+  ],
+  "notes": "C1 lines: applied 14,444 men + 18,947 women + 4 unknown = 33,395; admitted 1,568 + 2,044 + 0 = 3,612; enrolled 777 + 987 + 0 = 1,764. The CDS residency table in the same section gives totals of 33,415 / 3,613 / 1,765 (in-state 4,733 applied, 659 admitted, 364 enrolled), and the admissions Class of 2029 profile (updated 2025-11-03) gives 33,415 applications, 3,613 offers and 1,762 enrolled; C1 sex lines were used per the brief. Tufts left CDS C12 (GPA) and G1/G5 amounts blank, so GPA is null and cost is from the financial aid office page. Total 99,998 is the sum of the two published subtotals. 71 students admitted from the waiting list. No official fall 2026 figures found. Test-optional start date not stated on the page."
+}
