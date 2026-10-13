@@ -1,0 +1,133 @@
+{
+  "slug": "uc-berkeley",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 126864,
+    "admitted": 14524,
+    "enrolled": 6687,
+    "doc": "UC Berkeley Common Data Set 2025-2026 (Google Sheet linked from the Office of Planning and Analysis), CDS-C, C1",
+    "url": "https://docs.google.com/spreadsheets/d/1INsGFH6MhaO-MFMBZ1Dngcn84FeN-hc0BLS0-v8TL_k/edit?gid=2118947953#gid=2118947953",
+    "accessed": "2026-10-13",
+    "page": "https://opa.berkeley.edu/campus-data/common-data-set"
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 entering class, preliminary admits (snapshot)",
+    "applicants": 133154,
+    "admitted": 13967,
+    "enrolled": null,
+    "admittedByResidency": {
+      "californiaResident": 9445,
+      "domesticNonresident": 3155,
+      "international": 1367
+    },
+    "admitGpaMiddle50": "4.16-4.28",
+    "doc": "UC Admissions, UC Berkeley first-year admit data (fall 2026 snapshot); residency split from UCOP Fact Sheet Fall 2026 First-Year and Transfer Admissions, Table 1a (offers as of June 17, 2026)",
+    "url": "https://admission.universityofcalifornia.edu/campuses-majors/berkeley/first-year-admit-data.html",
+    "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026 C9 blank: UC does not use SAT or ACT in admission",
+    "url": "https://docs.google.com/spreadsheets/d/1INsGFH6MhaO-MFMBZ1Dngcn84FeN-hc0BLS0-v8TL_k/edit?gid=2118947953#gid=2118947953"
+  },
+  "testPolicy": {
+    "status": "blind",
+    "text": "UC Berkeley, like every UC campus, does not consider SAT or ACT scores in admission decisions or in awarding Regents and Chancellor's scholarships; scores may be used for the statewide guarantee, minimum eligibility or course placement.",
+    "since": "test-blind since fall 2023 entry for California applicants, extended to nonresidents (Regents decision of May 21, 2020; UC will not consider SAT or ACT scores in admission decisions or Regents and Chancellor's scholarships)",
+    "url": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "url2": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.9,
+    "pctSubmitting": 1.0,
+    "doc": "CDS 2025-2026, C12 (39.8% of enrolled first-years had a 4.0, 50.1% between 3.75 and 3.99)",
+    "url": "https://docs.google.com/spreadsheets/d/1INsGFH6MhaO-MFMBZ1Dngcn84FeN-hc0BLS0-v8TL_k/edit?gid=2118947953#gid=2118947953"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "see inState / outOfState",
+    "inState": {
+      "tuition": 18214,
+      "fees": null,
+      "housingFood": 23640,
+      "books": null,
+      "personal": null,
+      "travel": null,
+      "healthInsurance": 5066,
+      "indirect": 7754,
+      "total": 54674,
+      "totalIncludes": "new students starting 2026-27, campus residence hall: tuition and fees 18,214 + housing 16,640 + meal plan 7,000 + Student Health Insurance Plan 5,066 = direct costs 46,920; total cost of attendance including personal expenses 54,674 (books, personal and transportation, 7,754, are not itemized on the page)"
+    },
+    "outOfState": {
+      "tuition": 57484,
+      "fees": null,
+      "housingFood": 23640,
+      "books": null,
+      "personal": null,
+      "travel": null,
+      "healthInsurance": 5066,
+      "indirect": 7754,
+      "total": 93944,
+      "totalIncludes": "same budget plus Nonresident Supplemental Tuition 39,270 for new out-of-state students; 93,944 is 54,674 + 39,270 (sum computed, not printed)"
+    },
+    "url": "https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Blue and Gold: most California families earning up to $100,000 receive enough grant and scholarship money to cover UC tuition. Tuition predictability: a UC student's tuition is set at first enrollment and stays the same for up to six years. Blue and Gold applies to California residents only.",
+    "year": "2026-27",
+    "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": null,
+      "regular": "November 30 (UC application filing period for fall 2027 entry, opens August 1)"
+    },
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/"
+  },
+  "facts": [
+    {
+      "text": "Berkeley received 126,864 first-year applications for fall 2025 and admitted 14,524; for fall 2026 it admitted 13,967 of 133,154 (preliminary), a 10.5% admit rate.",
+      "url": "https://admission.universityofcalifornia.edu/campuses-majors/berkeley/first-year-admit-data.html"
+    },
+    {
+      "text": "Of Berkeley's 13,967 fall 2026 first-year admits, 9,445 were Californians, 3,155 domestic nonresidents and 1,367 international students.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    },
+    {
+      "text": "Berkeley offered 9,102 fall 2025 applicants a waiting-list place and 6,479 accepted, but it reported 0 admitted from the list (updated May 2026).",
+      "url": "https://docs.google.com/spreadsheets/d/1INsGFH6MhaO-MFMBZ1Dngcn84FeN-hc0BLS0-v8TL_k/edit?gid=2118947953#gid=2118947953"
+    },
+    {
+      "text": "A new out-of-state student adds $39,270 of Nonresident Supplemental Tuition to Berkeley's $54,674 resident cost of attendance for 2026-27.",
+      "url": "https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/"
+    },
+    {
+      "text": "Tuition and fees for new 2026-27 students are $18,214, versus $17,560 for students who started in 2025-26, because UC fixes tuition by entering cohort.",
+      "url": "https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/"
+    },
+    {
+      "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    }
+  ],
+  "notes": "Berkeley publishes its CDS as Google Sheets (xlsx export saved in .cache-raw/cds/uc-berkeley_cds_2025-26.xlsx). C1 residency breakdown says 'State applicant data not yet available'. CDS G1 shows 2025-26 tuition 14,202 / nonresident 53,472, fees 4,262, food and housing 26,028 (headers say 2025-2026); cost uses the financial aid office's 2026-27 budgets, where tuition and fees are not split and books, personal and transportation are not itemized. Berkeley's Quick Facts page gives slightly different fall 2025 counts (third-party pointer, not used). Fall 2026 numbers are preliminary. No early plans; one UC application due November 30."
+}

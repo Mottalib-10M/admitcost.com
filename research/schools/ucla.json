@@ -1,0 +1,130 @@
+{
+  "slug": "ucla",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 145086,
+    "admitted": 13659,
+    "enrolled": 6553,
+    "doc": "UCLA Common Data Set 2025-2026, C1 (65,079 men + 73,508 women + 6,499 unknown applied; 5,546 + 7,274 + 839 admitted; 2,547 + 3,652 + 354 enrolled)",
+    "url": "https://apb.ucla.edu/file/d1ab04b3-ee89-4cf2-9124-8dc0471b5e5a",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 entering class, preliminary admits (snapshot)",
+    "applicants": 146692,
+    "admitted": 15903,
+    "enrolled": null,
+    "admittedByResidency": {
+      "californiaResident": 9109,
+      "domesticNonresident": 4793,
+      "international": 2001
+    },
+    "admitGpaMiddle50": "4.20-4.30",
+    "doc": "UC Admissions, UCLA first-year admit data (fall 2026 snapshot); residency split from UCOP Fact Sheet Fall 2026 First-Year and Transfer Admissions, Table 1a (offers as of June 17, 2026)",
+    "url": "https://admission.universityofcalifornia.edu/campuses-majors/ucla/first-year-admit-data.html",
+    "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026 C9 blank: UC does not use SAT or ACT in admission",
+    "url": "https://apb.ucla.edu/file/d1ab04b3-ee89-4cf2-9124-8dc0471b5e5a"
+  },
+  "testPolicy": {
+    "status": "blind",
+    "text": "UCLA will not consider SAT or ACT scores for admission or scholarship purposes. Submitted scores may be used as an alternative method of meeting minimum requirements or for course placement.",
+    "since": "test-blind since fall 2023 entry for California applicants, extended to nonresidents (Regents decision of May 21, 2020; UC will not consider SAT or ACT scores in admission decisions or Regents and Chancellor's scholarships)",
+    "url": "https://admission.ucla.edu/apply/first-year/first-year-requirements",
+    "url2": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.94,
+    "pctSubmitting": 0.998,
+    "doc": "CDS 2025-2026, C12 (58.8% of enrolled first-years had a 4.0)",
+    "url": "https://apb.ucla.edu/file/d1ab04b3-ee89-4cf2-9124-8dc0471b5e5a"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "see inState / outOfState",
+    "inState": {
+      "tuition": 15588,
+      "fees": 842,
+      "housingFood": 19867,
+      "books": 1588,
+      "personal": 2761,
+      "travel": 969,
+      "healthInsurance": 3885,
+      "total": 45500,
+      "totalIncludes": "new students starting 2026-27, on campus: UC systemwide tuition 15,588 + campus fees 842 + housing 12,299 + food 7,568 + books and supplies 1,588 + transportation 969 + personal 2,761 + health insurance 3,885 (waivable with own insurance) = 45,500"
+    },
+    "outOfState": {
+      "tuition": 54858,
+      "fees": 842,
+      "housingFood": 19867,
+      "books": 1588,
+      "personal": 2761,
+      "travel": 969,
+      "healthInsurance": 3885,
+      "total": 84770,
+      "totalIncludes": "same budget plus Nonresident Supplemental Tuition 39,270 (tuition shown = 15,588 + 39,270) = 84,770"
+    },
+    "url": "https://financialaid.ucla.edu/go/coa",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Blue and Gold: most California families earning up to $100,000 receive enough grant and scholarship money to cover UC tuition. Tuition predictability: a UC student's tuition is set at first enrollment and stays the same for up to six years. Blue and Gold applies to California residents only.",
+    "year": "2026-27",
+    "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": null,
+      "regular": "November 30 (UC application filing period for fall 2027 entry, opens August 1)"
+    },
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/"
+  },
+  "facts": [
+    {
+      "text": "UCLA admitted 13,659 of 145,086 first-year applicants for fall 2025 and 15,903 of 146,692 for fall 2026 (preliminary), an admit rate of 10.8%.",
+      "url": "https://admission.universityofcalifornia.edu/campuses-majors/ucla/first-year-admit-data.html"
+    },
+    {
+      "text": "Of UCLA's 15,903 fall 2026 first-year admits, 9,109 were California residents, 4,793 domestic nonresidents and 2,001 international students.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    },
+    {
+      "text": "A new nonresident pays $39,270 of Nonresident Supplemental Tuition in 2026-27, taking UCLA's on-campus budget from $45,500 for a Californian to $84,770.",
+      "url": "https://financialaid.ucla.edu/go/coa"
+    },
+    {
+      "text": "UCLA put 20,563 applicants on its fall 2025 waiting list; 13,612 accepted a place and 1,514 were admitted.",
+      "url": "https://apb.ucla.edu/file/d1ab04b3-ee89-4cf2-9124-8dc0471b5e5a"
+    },
+    {
+      "text": "UC tuition is fixed at entry for up to six years: UCLA students who started in 2024-25 pay $14,436 systemwide tuition in 2026-27, versus $15,588 for new students.",
+      "url": "https://financialaid.ucla.edu/go/coa"
+    },
+    {
+      "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    }
+  ],
+  "notes": "CDS 2025-26 is a fillable PDF (values read from form fields; computed total fields are stored as 0, so totals are sums of men, women and unknown). C1 residency breakdown and section G are blank in UCLA's CDS; cost is from the Financial Aid and Scholarships office 2026-27 budgets (figures not final until the Regents approve). The UCOP Tableau freshman table also gives 13,659 fall 2025 admits for UCLA. Fall 2026 numbers are preliminary (UC snapshot, offers as of June 17, 2026); no fall 2026 enrollment yet. UCLA has no early plans (CDS C21/C22 = No); one UC application, filing period October 1 to November 30. The systemwide test policy source is the 2020 Regents release (with its November 24, 2020 update); UCLA's requirements page states the current rule."
+}

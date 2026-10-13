@@ -1,0 +1,128 @@
+{
+  "slug": "ucsd",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 136750,
+    "admitted": 39054,
+    "enrolled": 7801,
+    "doc": "UC San Diego Common Data Set 2025-2026, C1",
+    "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 entering class, preliminary admits (snapshot)",
+    "applicants": 141767,
+    "admitted": 38571,
+    "enrolled": null,
+    "admittedByResidency": {
+      "californiaResident": 21589,
+      "domesticNonresident": 9995,
+      "international": 6987
+    },
+    "admitGpaMiddle50": "4.12-4.28",
+    "doc": "UC Admissions, UC San Diego first-year admit data (fall 2026 snapshot); residency split from UCOP Fact Sheet Fall 2026 First-Year and Transfer Admissions, Table 1a (offers as of June 17, 2026)",
+    "url": "https://admission.universityofcalifornia.edu/campuses-majors/san-diego/first-year-admit-data.html",
+    "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026 C9 blank: UC does not use SAT or ACT in admission",
+    "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+  },
+  "testPolicy": {
+    "status": "blind",
+    "text": "UC San Diego, like every UC campus, does not consider SAT or ACT scores in admission decisions or in awarding Regents and Chancellor's scholarships; scores may be used for the statewide guarantee, minimum eligibility or course placement.",
+    "since": "test-blind since fall 2023 entry for California applicants, extended to nonresidents (Regents decision of May 21, 2020; UC will not consider SAT or ACT scores in admission decisions or Regents and Chancellor's scholarships)",
+    "url": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "url2": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.88,
+    "pctSubmitting": 0.94,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "see inState / outOfState",
+    "inState": {
+      "tuition": 14202,
+      "fees": 3789,
+      "housingFood": 20443,
+      "books": 1203,
+      "personal": 2760,
+      "travel": 921,
+      "total": 43318,
+      "totalIncludes": "CDS 2025-26 section G (full 2026-27 academic year, first-year students living on campus): tuition 14,202 + required fees 3,789 + food and housing 20,443 + books 1,203 + transportation 921 + other expenses 2,760; 43,318 is the computed sum; health insurance not included"
+    },
+    "outOfState": {
+      "tuition": 53472,
+      "fees": 3789,
+      "housingFood": 20443,
+      "books": 1203,
+      "personal": 2760,
+      "travel": 921,
+      "total": 82588,
+      "totalIncludes": "same items with nonresident tuition 53,472; 82,588 is the computed sum"
+    },
+    "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Blue and Gold: most California families earning up to $100,000 receive enough grant and scholarship money to cover UC tuition. Tuition predictability: a UC student's tuition is set at first enrollment and stays the same for up to six years. Blue and Gold applies to California residents only.",
+    "year": "2026-27",
+    "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": null,
+      "regular": "November 30 (UC application filing period for fall 2027 entry, opens August 1)"
+    },
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, California residents filed 87,584 applications and received 21,677 admissions (24.7%), while out-of-state U.S. applicants received 9,881 of 24,912 (39.7%).",
+      "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+    },
+    {
+      "text": "International applicants received 7,496 admissions out of 24,254 applications for fall 2025, and 1,409 enrolled.",
+      "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+    },
+    {
+      "text": "UC San Diego offered 36,709 applicants a waiting-list place for fall 2025; 25,411 accepted and 5,284 were admitted from it.",
+      "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+    },
+    {
+      "text": "For fall 2026 UC San Diego admitted 38,571 of 141,767 first-year applicants (preliminary), a 27.2% rate.",
+      "url": "https://admission.universityofcalifornia.edu/campuses-majors/san-diego/first-year-admit-data.html"
+    },
+    {
+      "text": "UC San Diego's CDS notes that the UC Tuition Stability Plan freezes an incoming cohort's tuition for six years.",
+      "url": "https://ir.ucsd.edu/stats/undergrad/CDS-2025-2026-Final4.pdf"
+    },
+    {
+      "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    }
+  ],
+  "notes": "Cost is from CDS 2025-26 section G, which asks for the full 2026-27 year; the fas.ucsd.edu undergraduate cost page loads its table through an embedded form that curl cannot read. CDS tuition 14,202 excludes fees counted under required fees (3,789), so it is not comparable line by line with other campuses' 'systemwide tuition' 15,588. Totals are computed sums. Admit rates in facts are computed from CDS counts. Fall 2026 numbers are preliminary. No early plans; one UC application due November 30."
+}

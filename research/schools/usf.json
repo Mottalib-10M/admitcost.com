@@ -1,0 +1,105 @@
+{
+  "slug": "usf",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 71722,
+    "admitted": 29196,
+    "enrolled": 6730,
+    "doc": "University of South Florida Common Data Set 2025-2026, C1 (form fields of the PDF)",
+    "url": "https://www.usf.edu/ods/documents/cds/usf-cds-2025-2026-final-v2.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1160, 1250, 1340],
+    "satEbrw": [590, 630, 670],
+    "satMath": [560, 610, 670],
+    "act": [25, 27, 29],
+    "pctSat": 0.778,
+    "pctAct": 0.217,
+    "doc": "CDS 2025-2026, C9 (5,238 SAT submitters, 1,463 ACT submitters)",
+    "url": "https://www.usf.edu/ods/documents/cds/usf-cds-2025-2026-final-v2.pdf"
+  },
+  "testPolicy": {
+    "status": "required",
+    "text": "USF requires first-year applicants to submit official results for at least one college entrance exam: SAT, ACT or CLT. It superscores, considering the highest section scores across all test dates, and sets minimum section scores (SAT 490 Reading and Writing and 480 Math; ACT 19 Reading, 17 English, 19 Math; CLT 38 Verbal plus Writing and 16 Quantitative). CDS 2025-26 C8: 'Standardized test scores (either SAT or ACT) are required for all first-year applicants.'",
+    "since": null,
+    "url": "https://www.usf.edu/admissions/freshmen/admission-information/academic-requirements.aspx",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 4.09,
+    "pctSubmitting": 0.999,
+    "doc": "CDS 2025-2026, C12 (61.99% of enrolled first-years reported a GPA of 4.0 or higher in C11)",
+    "url": "https://www.usf.edu/ods/documents/cds/usf-cds-2025-2026-final-v2.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Office of Financial Aid, 2026-27 students living on campus, undergraduate: billable tuition and fees (28 credit hours), housing 9,638 and food 5,770, plus non-billable books and supplies, transportation and personal allowances (laundry, toiletries, healthcare, clothing, entertainment).",
+    "inState": {
+      "tuition": 5960,
+      "fees": null,
+      "housingFood": 15408,
+      "books": 728,
+      "personal": 2976,
+      "travel": 2176,
+      "total": 27248,
+      "note": "tuition line is 'Tuition & Fees' for 28 credit hours. CDS 2025-26 G1 (30 credit hours): tuition 4,559 plus required fees 1,851; food and housing 14,824. The Florida Board of Governors 2026-27 report lists a different on-campus total for USF, 27,720 (tuition and fees 6,380, books 780)."
+    },
+    "outOfState": {
+      "tuition": 18846,
+      "fees": null,
+      "housingFood": 15408,
+      "books": 728,
+      "personal": 2976,
+      "travel": 2176,
+      "total": 40134,
+      "note": "CDS 2025-26 G1 (30 credit hours): nonresident tuition 16,565 plus required fees 1,851"
+    },
+    "url": "https://tup-ofa.forest.usf.edu/finaid/coa/2627_on_campus",
+    "url2": "https://www.usf.edu/financial-aid/cost-of-attendance/index.aspx",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": null,
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 2, 2026 (Early Action for summer and fall 2027, materials by November 16, decisions December 9: admit, deny or defer)",
+      "regular": "December 16, 2026 (Regular Decision, materials by January 15, decisions February 10, 2027); rolling applications until March 1, 2027"
+    },
+    "url": "https://www.usf.edu/admissions/freshmen/admission-information/dates-deadlines.aspx"
+  },
+  "facts": [
+    {
+      "text": "USF's admitted-student profile shows fall is its most competitive term: fall 2026 admits had mid-range SAT scores of 1290-1420 and GPAs of 4.13-4.58, against 1140-1230 and 3.71-4.29 for summer 2026 admits.",
+      "url": "https://www.usf.edu/admissions/freshmen/admission-information/academic-requirements.aspx"
+    },
+    {
+      "text": "USF recalculates each applicant's high school GPA from core academic courses only, adding 1.0 quality point for AP, IB, AICE and dual enrollment courses and 0.5 for honors courses passed with a C or better.",
+      "url": "https://www.usf.edu/admissions/freshmen/admission-information/academic-requirements.aspx"
+    },
+    {
+      "text": "For fall 2027 the Regular Decision deadline is December 16, 2026, and a complete application by January 15, 2027 is needed for automatic merit scholarship consideration.",
+      "url": "https://www.usf.edu/admissions/freshmen/admission-information/dates-deadlines.aspx"
+    },
+    {
+      "text": "USF sets minimum section scores for admission: SAT 490 Reading and Writing and 480 Math, or ACT 19 Reading, 17 English and 19 Math.",
+      "url": "https://www.usf.edu/admissions/freshmen/admission-information/academic-requirements.aspx"
+    },
+    {
+      "text": "The 2026-27 on-campus budget is 27,248 for Florida residents and 40,134 for non-residents, of which 21,368 and 34,254 are billed by USF.",
+      "url": "https://tup-ofa.forest.usf.edu/finaid/coa/2627_on_campus"
+    }
+  ],
+  "notes": "C1 read from the PDF form fields of CDS 2025-26 (final v2): applied 28,798 men + 42,908 women + 16 unknown = 71,722; admitted 12,021 + 17,172 + 3 = 29,196; enrolled 6,730 (full-time 2,732 + 3,842 + 2, part-time 83 + 71). The residency breakdown in the same PDF (in-state 7,283 applied / 5,533 admitted / 5,484 enrolled; out-of-state 63,880 / 23,170 / 759; international 559 / 493 / 487) is internally implausible (likely columns mislabeled), so it is not used. The CDS reports no waiting list for fall 2025 and leaves C21/C22 blank; plans come from the admissions dates page. The Florida Board of Governors 2026-27 cost report gives a resident on-campus total of 27,720, different from USF's own 27,248; USF's own figure is used. No institution-wide aid promise found."
+}

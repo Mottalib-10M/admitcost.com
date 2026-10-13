@@ -1,0 +1,107 @@
+{
+ "slug": "uc-davis",
+ "cycle": {
+  "label": "Fall 2025 entering class (first-year applicant count not available; preliminary first-year admits in firstYearAdmitsPreliminary)",
+  "applicants": null,
+  "admitted": null,
+  "enrolled": null,
+  "doc": "UC Davis news release of July 28, 2025 (offers based on UC system statistics); first-year applicant and enrollee counts not found in an accessible official document",
+  "url": "https://www.ucdavis.edu/index%2ephp/news/uc-davis-admits-record-high-number-first-year-studies",
+  "accessed": "2026-10-13",
+  "firstYearAdmitsPreliminary": 45963
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 entering class, preliminary admits (snapshot)",
+  "applicants": 104864,
+  "admitted": 48015,
+  "enrolled": null,
+  "admittedByResidency": {
+   "californiaResident": 24445,
+   "domesticNonresident": 9561,
+   "international": 14009
+  },
+  "admitGpaMiddle50": "4.00-4.25",
+  "doc": "UC Admissions, UC Davis first-year admit data (fall 2026 snapshot); residency split from UCOP Fact Sheet Fall 2026 First-Year and Transfer Admissions, Table 1a (offers as of June 17, 2026)",
+  "url": "https://admission.universityofcalifornia.edu/campuses-majors/davis/first-year-admit-data.html",
+  "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+  "accessed": "2026-10-13"
+ },
+ "scores": {
+  "satComposite": null,
+  "satEbrw": null,
+  "satMath": null,
+  "act": null,
+  "pctSat": null,
+  "pctAct": null,
+  "doc": "UC does not use SAT or ACT in admission",
+  "url": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing"
+ },
+ "testPolicy": {
+  "status": "blind",
+  "text": "UC Davis, like every UC campus, does not consider SAT or ACT scores in admission decisions or in awarding Regents and Chancellor's scholarships; scores may be used for the statewide guarantee, minimum eligibility or course placement.",
+  "since": "test-blind since fall 2023 entry for California applicants, extended to nonresidents (Regents decision of May 21, 2020; UC will not consider SAT or ACT scores in admission decisions or Regents and Chancellor's scholarships)",
+  "url": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+  "url2": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS not accessible; UC's fall 2026 admit snapshot gives a middle-50% high school GPA of 4.00-4.25 for admits",
+  "url": "https://admission.universityofcalifornia.edu/campuses-majors/davis/first-year-admit-data.html"
+ },
+ "cost": {
+  "year": null,
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": null,
+  "inState": null,
+  "outOfState": null,
+  "url": null,
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Blue and Gold: most California families earning up to $100,000 receive enough grant and scholarship money to cover UC tuition. Tuition predictability: a UC student's tuition is set at first enrollment and stays the same for up to six years. Blue and Gold applies to California residents only.",
+  "year": "2026-27",
+  "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": null,
+   "regular": "November 30 (UC application filing period for fall 2027 entry, opens August 1)"
+  },
+  "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/"
+ },
+ "facts": [
+  {
+   "text": "UC Davis offered fall 2025 first-year admission to a record 45,963 applicants, 10.4% more than the year before, out of 120,131 total applications (first-year and transfer).",
+   "url": "https://www.ucdavis.edu/index%2ephp/news/uc-davis-admits-record-high-number-first-year-studies"
+  },
+  {
+   "text": "For fall 2026 UC Davis admitted 48,015 of 104,864 first-year applicants (preliminary), a 45.8% admit rate, the least selective of the five UC campuses in this set.",
+   "url": "https://admission.universityofcalifornia.edu/campuses-majors/davis/first-year-admit-data.html"
+  },
+  {
+   "text": "International students were 14,009 of UC Davis's 48,015 fall 2026 first-year admits, more than at any other UC campus.",
+   "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+  },
+  {
+   "text": "Of the 55,739 students admitted for fall 2025 (first-year and transfer), 34,088 were California residents, 61.1% of the total.",
+   "url": "https://www.ucdavis.edu/index%2ephp/news/uc-davis-admits-record-high-number-first-year-studies"
+  },
+  {
+   "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+   "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+  }
+ ],
+ "notes": "Every ucdavis.edu host used for data (aggiedata.ucdavis.edu CDS, financialaid.ucdavis.edu cost of attendance, www.ucdavis.edu) returns HTTP 403 to curl and WebFetch, so the UC Davis CDS 2025-26 and the 2026-27 cost of attendance could not be opened: cost is null. The fall 2025 release was reachable only at the index%2ephp URL listed in search results. UCOP's Tableau freshman table (UGAdmissionsSummaryDataTable_0, filtered Campus=Davis) sums to 45,673 fall 2025 first-year admits, a later figure than the 45,963 preliminary count; neither gives applicants. Fall 2026 numbers are preliminary. No early plans; one UC application due November 30."
+}

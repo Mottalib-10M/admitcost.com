@@ -1,0 +1,128 @@
+{
+  "slug": "uc-irvine",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 124231,
+    "admitted": 35964,
+    "enrolled": 6421,
+    "doc": "UC Irvine Common Data Set 2025-2026, C1",
+    "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": {
+    "label": "Fall 2026 entering class, preliminary admits (snapshot)",
+    "applicants": 126005,
+    "admitted": 38165,
+    "enrolled": null,
+    "admittedByResidency": {
+      "californiaResident": 19830,
+      "domesticNonresident": 8368,
+      "international": 9967
+    },
+    "admitGpaMiddle50": "4.06-4.27",
+    "doc": "UC Admissions, UC Irvine first-year admit data (fall 2026 snapshot); residency split from UCOP Fact Sheet Fall 2026 First-Year and Transfer Admissions, Table 1a (offers as of June 17, 2026)",
+    "url": "https://admission.universityofcalifornia.edu/campuses-majors/irvine/first-year-admit-data.html",
+    "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026 C9 blank: UC does not use SAT or ACT in admission",
+    "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf"
+  },
+  "testPolicy": {
+    "status": "blind",
+    "text": "UC Irvine, like every UC campus, does not consider SAT or ACT scores in admission decisions or in awarding Regents and Chancellor's scholarships; scores may be used for the statewide guarantee, minimum eligibility or course placement.",
+    "since": "test-blind since fall 2023 entry for California applicants, extended to nonresidents (Regents decision of May 21, 2020; UC will not consider SAT or ACT scores in admission decisions or Regents and Chancellor's scholarships)",
+    "url": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "url2": "https://www.universityofcalifornia.edu/press-room/university-california-board-regents-unanimously-approved-changes-standardized-testing",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026 C11/C12 blank; UC's fall 2026 admit snapshot gives a middle-50% high school GPA of 4.06-4.27 for admits",
+    "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "see inState / outOfState",
+    "inState": {
+      "tuition": 15588,
+      "fees": 4701,
+      "housingFood": 19376,
+      "books": 1512,
+      "personal": 2801,
+      "travel": 1228,
+      "total": 45206,
+      "totalIncludes": "new undergraduates 2026-27 living on campus: systemwide fees 15,588 + campus fees 4,701 + housing 12,053 + food 7,323 + books and supplies 1,512 + personal 2,801 + transportation 1,228 = 45,206"
+    },
+    "outOfState": {
+      "tuition": 54858,
+      "fees": 4701,
+      "housingFood": 19376,
+      "books": 1512,
+      "personal": 2801,
+      "travel": 1228,
+      "total": 84476,
+      "totalIncludes": "add 39,270 Nonresident Tuition and Fees to the resident budget; 84,476 is the computed sum"
+    },
+    "url": "https://www.ofas.uci.edu/cost/undergraduate-costs/new-students.php",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Blue and Gold: most California families earning up to $100,000 receive enough grant and scholarship money to cover UC tuition. Tuition predictability: a UC student's tuition is set at first enrollment and stays the same for up to six years. Blue and Gold applies to California residents only.",
+    "year": "2026-27",
+    "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": null,
+      "regular": "November 30 (UC application filing period for fall 2027 entry, opens August 1)"
+    },
+    "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-freshman/"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, Californians filed 86,230 applications and got 18,922 admissions (21.9%), while out-of-state U.S. applicants got 7,784 of 16,381 (47.5%) and international applicants 9,258 of 21,620 (42.8%).",
+      "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf"
+    },
+    {
+      "text": "Of UC Irvine's 6,421 enrolled first-years in fall 2025, 4,870 were Californians, 472 out-of-state U.S. students and 1,079 international students.",
+      "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf"
+    },
+    {
+      "text": "UC Irvine admitted 5,737 students from its fall 2025 waiting list, almost every one of the 5,738 who accepted a place.",
+      "url": "https://sites.uci.edu/irap/files/2026/05/2025-26-CDS-PDF-Upload.pdf"
+    },
+    {
+      "text": "For fall 2026 UC Irvine admitted 38,165 of 126,005 first-year applicants (preliminary), a 30.3% rate.",
+      "url": "https://admission.universityofcalifornia.edu/campuses-majors/irvine/first-year-admit-data.html"
+    },
+    {
+      "text": "Nonresidents add $39,270 of Nonresident Tuition and Fees to UC Irvine's $45,206 on-campus resident budget for 2026-27.",
+      "url": "https://www.ofas.uci.edu/cost/undergraduate-costs/new-students.php"
+    },
+    {
+      "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+      "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+    }
+  ],
+  "notes": "CDS 2025-26 is a fillable PDF (values from form fields; PDF listed on https://irap.uci.edu/common-data-set/). CDS section G and C12 are blank. Rates in facts are computed from CDS counts. Fall 2026 numbers are preliminary. No early plans; one UC application due November 30."
+}
