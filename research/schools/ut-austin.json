@@ -1,0 +1,131 @@
+{
+  "slug": "ut-austin",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 90690,
+    "admitted": 20154,
+    "enrolled": 9900,
+    "doc": "The University of Texas at Austin Common Data Set 2025-2026, C1 (Box file linked from https://reports.utexas.edu/common-data-set/pdf)",
+    "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [
+        46879,
+        16828,
+        8958
+      ],
+      "outOfState": [
+        35268,
+        2653,
+        758
+      ],
+      "international": [
+        8543,
+        673,
+        184
+      ],
+      "order": "applied, admitted, enrolled"
+    }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": null,
+    "satEbrw": null,
+    "satMath": null,
+    "act": null,
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "CDS 2025-2026, C9: no values in the published PDF",
+    "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja"
+  },
+  "testPolicy": {
+    "status": "required",
+    "text": "Official ACT or SAT scores are required to be submitted from the testing agency to complete the application; official Classic Learning Test (CLT) scores also satisfy the requirement. The SAT Essay, ACT Writing and ACT Science are not required.",
+    "since": "CDS 2025-26 C8A marks SAT or ACT required for fall 2027 applicants (start date not stated on the admissions pages read)",
+    "url": "https://admissions.utexas.edu/apply/frequently-asked-questions/",
+    "url2": "https://admissions.utexas.edu/apply/freshman/",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C12: no values in the published PDF",
+    "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Estimated 2026-27 cost of attendance, published as ranges (tuition varies by college and major): tuition + housing and food + transportation + books, course materials, supplies and equipment + personal/miscellaneous. UT's flat-rate tuition includes required fees.",
+    "inState": {
+      "tuition": "10858-13576",
+      "fees": null,
+      "housingFood": "15420-15580",
+      "books": 724,
+      "personal": 3666,
+      "travel": 1840,
+      "total": "32508-35386",
+      "note": "resident living on or off campus; CDS G1 2026-27 gives in-district tuition 11,656"
+    },
+    "outOfState": {
+      "tuition": "42554-51106",
+      "fees": null,
+      "housingFood": "15420-15580",
+      "books": 724,
+      "personal": 3666,
+      "travel": 1840,
+      "total": "64204-72916",
+      "note": "CDS G1 2026-27 gives out-of-state tuition 44,816"
+    },
+    "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Texas Advance Commitment: Texas residents with family adjusted gross income up to $100,000 and financial need have tuition covered by gift aid; families with AGI between $100,000 and $125,000 receive tuition support. Applies to tuition only.",
+    "year": "expanded from fall 2025",
+    "url": "https://admissions.utexas.edu/cost-aid/financial-aid/texas-advance-commitment/"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "October 15 (Early Action; supplemental materials October 22; decision or deferral by January 15, 2027)",
+      "regular": "December 1 (supplemental materials December 10; decision by February 15, 2027)"
+    },
+    "url": "https://admissions.utexas.edu/apply/freshman/"
+  },
+  "facts": [
+    {
+      "text": "UT Austin must automatically admit enough Texas students to fill 75 percent of resident spaces; for summer/fall 2027 applicants the automatic-admission threshold is the top 5 percent of a Texas high school class.",
+      "url": "https://admissions.utexas.edu/apply/review-decision-process/"
+    },
+    {
+      "text": "For fall 2025 UT admitted 16,828 of 46,879 Texas applicants but only 2,653 of 35,268 out-of-state applicants and 673 of 8,543 international applicants.",
+      "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja"
+    },
+    {
+      "text": "Texas families with AGI up to $100,000 and financial need pay no tuition under the Texas Advance Commitment.",
+      "url": "https://admissions.utexas.edu/cost-aid/financial-aid/texas-advance-commitment/"
+    },
+    {
+      "text": "An SAT, ACT or CLT score is required to complete the application.",
+      "url": "https://admissions.utexas.edu/apply/frequently-asked-questions/"
+    },
+    {
+      "text": "The 2026-27 cost of attendance runs from 32,508 to 35,386 for a Texas resident and from 64,204 to 72,916 for a non-resident, depending on the program.",
+      "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/"
+    },
+    {
+      "text": "UT has no waiting list (CDS C2) and no Early Decision; Early Action closes October 15.",
+      "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja"
+    }
+  ],
+  "notes": "Cycle from CDS 2025-26 C1 (45,923 + 44,735 + 32 = 90,690 applied; 8,704 + 11,449 + 1 = 20,154 admitted; 4,097 + 5,803 = 9,900 enrolled, 155 part-time); residency table sums match. The PDF (downloaded from the Box link on reports.utexas.edu) has no values in C9 (test scores), C11-C12 (GPA) or C21-C22 dates in its text layer; C21 ED = No, C22 shows N/A. Cost page publishes ranges, recorded as strings. No official fall 2026 class numbers recorded."
+}

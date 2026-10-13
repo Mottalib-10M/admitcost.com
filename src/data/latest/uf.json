@@ -1,0 +1,151 @@
+{
+ "slug": "uf",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 90523,
+  "admitted": 18403,
+  "enrolled": 7619,
+  "doc": "University of Florida (main campus) Common Data Set 2025-2026 v8 (14 Aug 2026), C1",
+  "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    42172,
+    9387,
+    5856
+   ],
+   "outOfState": [
+    39420,
+    8086,
+    1608
+   ],
+   "international": [
+    8931,
+    930,
+    155
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 3196,
+   "accepted": 2737,
+   "admitted": 1
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1330,
+   1410,
+   1490
+  ],
+  "satEbrw": [
+   670,
+   700,
+   740
+  ],
+  "satMath": [
+   660,
+   710,
+   750
+  ],
+  "act": [
+   29,
+   32,
+   33
+  ],
+  "pctSat": 0.78,
+  "pctAct": 0.39,
+  "doc": "CDS 2025-2026, C9 (5,839 SAT submitters, 2,919 ACT submitters)",
+  "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "CDS C8A for students applying for fall 2027: SAT or ACT required to be considered for admission; UF also accepts the CLT. Official test score deadline for the 2026-27 cycle is October 22 (ED), November 8 (EA) and January 22 (RD).",
+  "since": "Florida Board of Governors regulation 6.002 requires a test score for State University System first-year admission",
+  "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf",
+  "url2": "https://admissions.ufl.edu/apply/freshman/deadlines",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.9,
+  "pctSubmitting": 0.95,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "Incoming freshmen, on or off campus, 30 credit hours: tuition and fees (projected) + books, course materials, supplies, equipment + transportation + living expenses + miscellaneous personal + federal student loan fees 56.",
+  "inState": {
+   "tuition": 4477,
+   "fees": 1959,
+   "housingFood": 14190,
+   "books": 1220,
+   "personal": 2224,
+   "travel": 1700,
+   "loanFees": 56,
+   "total": 25830,
+   "note": "financial aid page gives tuition/fees 6,440 combined; split 4,477 + 1,959 from CDS G1 (which totals 6,436)"
+  },
+  "outOfState": {
+   "tuition": 31316,
+   "fees": 3301,
+   "housingFood": 14190,
+   "books": 1220,
+   "personal": 2224,
+   "travel": 1700,
+   "loanFees": 56,
+   "total": 54010,
+   "note": "financial aid page gives tuition/fees 34,620 combined; split from CDS G1 (which totals 34,616)"
+  },
+  "url": "https://www.sfa.ufl.edu/cost/",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Machen Florida Opportunity Scholarship: a full grant and scholarship package, up to financial need, for low-income first-generation first-year students; since 2022-23 parents' combined income must be below $55,000 and assets below $35,000.",
+  "year": "2022-23 onward",
+  "url": "https://www.sfa.ufl.edu/mfos/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "October 15 (Early Decision, binding, decision December 11, 2026) or November 1 (Early Action, non-binding, decision January 22)",
+   "regular": "January 15 (decision March 19)"
+  },
+  "url": "https://admissions.ufl.edu/apply/freshman/deadlines",
+  "url2": "https://admissions.ufl.edu/apply/freshman/early-decision"
+ },
+ "facts": [
+  {
+   "text": "UF admitted 9,387 of 42,172 Florida applicants and 8,086 of 39,420 out-of-state applicants for fall 2025, but 5,856 of the 7,619 enrolled first-years were Floridians.",
+   "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf"
+  },
+  {
+   "text": "UF now offers binding Early Decision: apply through the Common App by October 15, 2026, decision by December 11, 2026.",
+   "url": "https://admissions.ufl.edu/apply/freshman/early-decision"
+  },
+  {
+   "text": "The waiting list is close to a dead end: 2,737 students accepted a place for fall 2025 and 1 was admitted.",
+   "url": "https://data-apps.ir.aa.ufl.edu/public/cds/CDS%202025-26_v8_08.14.2026.pdf"
+  },
+  {
+   "text": "A Florida resident's 2026-27 budget is 25,830 against 54,010 for an out-of-state student; tuition and fees are 6,440 versus 34,620.",
+   "url": "https://www.sfa.ufl.edu/cost/"
+  },
+  {
+   "text": "Low-income first-generation students whose parents earn under $55,000 can receive a full grant package through the Machen Florida Opportunity Scholarship.",
+   "url": "https://www.sfa.ufl.edu/mfos/"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 C1 (40,876 + 49,647 = 90,523 applied; 8,725 + 9,678 = 18,403 admitted; 3,526 + 4,093 = 7,619 enrolled). Residency table: the international column is printed shifted in the PDF (8,931 applied appears under 'Unknown'); the three columns sum exactly to the C1 totals. C21 lists ED closing 10/15/2026 and notification 12/11/2026 (next cycle); C22 EA 11/1, notification 1/23 (fall 2025 cycle; the 2026-27 chart says January 22). Test policy page not opened separately: CDS C8A and the deadlines page (official test score deadline) are used. CDS G1 vs aid page differ by 4 dollars. No official fall 2026 class numbers recorded."
+}

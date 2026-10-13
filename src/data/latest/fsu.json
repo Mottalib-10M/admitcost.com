@@ -1,0 +1,149 @@
+{
+ "slug": "fsu",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 85469,
+  "admitted": 20364,
+  "enrolled": 6559,
+  "doc": "Florida State University Common Data Set 2025-26, section C, C1 (HTML view: select year 2025-26, section C)",
+  "url": "https://ir.fsu.edu/commondataset.aspx",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    44631,
+    15196,
+    5694
+   ],
+   "outOfState": [
+    34530,
+    4671,
+    793
+   ],
+   "international": [
+    6308,
+    497,
+    72
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 3750,
+   "accepted": 2358,
+   "admitted": 5
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1300,
+   1360,
+   1410
+  ],
+  "satEbrw": [
+   650,
+   680,
+   720
+  ],
+  "satMath": [
+   630,
+   670,
+   710
+  ],
+  "act": [
+   29,
+   30,
+   32
+  ],
+  "pctSat": 0.637,
+  "pctAct": 0.363,
+  "doc": "CDS 2025-26, C9 (3,893 SAT submitters, 2,219 ACT submitters)",
+  "url": "https://ir.fsu.edu/commondataset.aspx"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "FSU is subject to Florida Board of Governors admissions regulation 6.002, which requires first-year applicants to submit an ACT, CLT or SAT score. At least one score must be submitted before the materials deadline; FSU does not accept self-reported scores from the Common App (scores are self-reported on the FSU Admissions Portal).",
+  "since": "Board of Governors regulation 6.002 (CDS C8F); CDS C8A marks SAT or ACT required for fall 2027 applicants",
+  "url": "https://admissions.fsu.edu/first-year/apply",
+  "url2": "https://ir.fsu.edu/commondataset.aspx",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 4.29,
+  "pctSubmitting": 0.999,
+  "doc": "CDS 2025-26, C12 (weighted 4.29 with 99.9% submitting; unweighted 3.72 with 99.4% submitting)",
+  "url": "https://ir.fsu.edu/commondataset.aspx",
+  "unweighted": 3.72
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "Main campus Tallahassee, undergraduates at 13 credits per term, fall and spring, on campus: tuition + fees 50 + housing 8,420 + food 5,740 + books, course materials, supplies and equipment + transportation + personal.",
+  "inState": {
+   "tuition": 5604,
+   "fees": 50,
+   "housingFood": 14160,
+   "books": 1380,
+   "personal": 2504,
+   "travel": 2320,
+   "total": 26018,
+   "note": "housingFood = housing 8,420 + food 5,740; CDS G1 2026-27 gives tuition 4,640 + required fees 1,877 (30 credits basis)"
+  },
+  "outOfState": {
+   "tuition": 22232,
+   "fees": 50,
+   "housingFood": 14160,
+   "books": 1380,
+   "personal": 2504,
+   "travel": 3590,
+   "total": 43916,
+   "note": "CDS G1 2026-27 out-of-state tuition 23,825"
+  },
+  "url": "https://tuition.fsu.edu/cost-attendance/cost-estimates-fall-2026-spring-2027",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": null,
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "October 15 (Early Decision, binding, domestic students; Early Action, non-binding, Florida residents only; both decided December 17)",
+   "regular": "December 1 (Regular Decision, decision February 18); rolling deadline March 1"
+  },
+  "url": "https://admissions.fsu.edu/first-year/apply"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025 FSU admitted 15,196 of 44,631 Florida applicants but only 4,671 of 34,530 out-of-state applicants and 497 of 6,308 international applicants.",
+   "url": "https://ir.fsu.edu/commondataset.aspx"
+  },
+  {
+   "text": "Early Action is reserved for Florida residents; out-of-state domestic students who want an early answer must use binding Early Decision (both due October 15).",
+   "url": "https://admissions.fsu.edu/first-year/apply"
+  },
+  {
+   "text": "Regular Decision closes December 1, earlier than at most universities, with a rolling deadline of March 1 after that.",
+   "url": "https://admissions.fsu.edu/first-year/apply"
+  },
+  {
+   "text": "A test score (ACT, CLT or SAT) is mandatory under Florida Board of Governors rules, and Common App self-reported scores are not accepted.",
+   "url": "https://admissions.fsu.edu/first-year/apply"
+  },
+  {
+   "text": "The 2026-27 on-campus budget is 26,018 for a Florida resident and 43,916 for a non-resident.",
+   "url": "https://tuition.fsu.edu/cost-attendance/cost-estimates-fall-2026-spring-2027"
+  },
+  {
+   "text": "Only 5 students were admitted from the fall 2025 waiting list, out of 2,358 who accepted a place.",
+   "url": "https://ir.fsu.edu/commondataset.aspx"
+  }
+ ],
+ "notes": "Cycle from FSU CDS 2025-26 C1 (34,886 + 50,537 + 46 = 85,469 applied; 9,028 + 11,335 + 1 = 20,364 admitted; 2,716 + 3,843 = 6,559 enrolled, of which 134 part-time). The CDS is an ASP.NET page (select 2025-26 and section C or G, then View); no stable per-section URL exists, so the page URL is cited. C21/C22 dates in the CDS are for the 2026-27 cycle (10/15/2026, notification 12/17/2026); fall 2025 ED counts are blank. Cost from the tuition office page (13 credits per term) differs from CDS G1 (30 credits, tuition 4,640 / 23,825 plus fees 1,877). FSU proposes market-rate fee increases effective fall 2027 (tuition.fsu.edu notice). No official aid promise page checked, so aidPromise is null."
+}

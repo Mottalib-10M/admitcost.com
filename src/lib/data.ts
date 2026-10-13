@@ -25,7 +25,7 @@ export interface Latest {
   slug: string;
   cycle?: ({ label: string; applicants: number; admitted: number; enrolled?: number | null } & Doc) | null;
   cycleNewer?: ({ label: string; applicants: number; admitted: number; enrolled?: number | null } & Doc) | null;
-  scores?: ({ satComposite?: number[] | null; satEbrw?: number[] | null; satMath?: number[] | null; act?: number[] | null; pctSat?: number | null; pctAct?: number | null } & Doc) | null;
+  scores?: ({ satComposite?: Array<number | null> | null; satEbrw?: Array<number | null> | null; satMath?: Array<number | null> | null; act?: Array<number | null> | null; pctSat?: number | null; pctAct?: number | null } & Doc) | null;
   testPolicy?: ({ status: string; text: string; since?: string | null } & Doc) | null;
   gpa?: ({ average: number; pctSubmitting?: number | null } & Doc) | null;
   cost?: ({ year: string; inState?: CostLine | null; outOfState?: CostLine | null } & CostLine & Doc) | null;
@@ -62,23 +62,24 @@ function pickAdm(sc: ScSchool, L: Latest | null): School['adm'] {
   if (sc.admRate !== null) return { rate: sc.admRate, applicants: null, admitted: null, label: 'Fall 2024 entering class (Class of 2028)', source: 'College Scorecard (IPEDS), fall 2024', url: SC.meta.url, newer: false };
   return null;
 }
-const ok = (a?: Array<number | null> | null) => !!a && a.length >= 2 && a.every((x) => typeof x === 'number');
+const ok = (a?: Array<number | null> | null) => !!a && a.length >= 2 && typeof a[0] === 'number' && typeof a[a.length - 1] === 'number';
+/** [p25, p50?, p75] with a possibly missing median. */
+const tri = (v: Array<number | null>) => ({ p25: v[0] as number, p75: v[v.length - 1] as number, p50: v.length >= 3 && typeof v[1] === 'number' ? (v[1] as number) : null });
 function pickSat(sc: ScSchool, L: Latest | null): School['sat'] {
   const s = L?.scores;
   if (s?.satComposite && ok(s.satComposite)) {
-    const v = s.satComposite;
-    return v.length >= 3 ? { p25: v[0], p50: v[1], p75: v[2], label: `${L!.cycle?.label ?? 'latest cycle'}, ${s.doc ?? 'CDS'}`, approx: false } : { p25: v[0], p50: null, p75: v[1], label: `${s.doc ?? 'CDS'}`, approx: false };
+    return { ...tri(s.satComposite), label: `${(L!.cycle ?? L!.cycleNewer)?.label ?? 'latest cycle'}, ${s.doc ?? 'CDS'}`, approx: false };
   }
   if (s?.satEbrw && s?.satMath && ok(s.satEbrw) && ok(s.satMath)) {
-    const e = s.satEbrw, m = s.satMath, n = e.length;
-    return { p25: e[0] + m[0], p75: e[n - 1] + m[m.length - 1], p50: n >= 3 && m.length >= 3 ? e[1] + m[1] : null, label: `${L!.cycle?.label ?? 'latest cycle'}, sum of section percentiles (${s.doc ?? 'CDS'})`, approx: true };
+    const e = tri(s.satEbrw), m = tri(s.satMath);
+    return { p25: e.p25 + m.p25, p75: e.p75 + m.p75, p50: e.p50 !== null && m.p50 !== null ? e.p50 + m.p50 : null, label: `${(L!.cycle ?? L!.cycleNewer)?.label ?? 'latest cycle'}, sum of section percentiles (${s.doc ?? 'CDS'})`, approx: true };
   }
   if (ok(sc.satEbrw) && ok(sc.satMath)) return { p25: sc.satEbrw[0]! + sc.satMath[0]!, p75: sc.satEbrw[1]! + sc.satMath[1]!, p50: null, label: 'fall 2024, sum of section percentiles (College Scorecard)', approx: true };
   return null;
 }
 function pickAct(sc: ScSchool, L: Latest | null): School['actR'] {
   const a = L?.scores?.act;
-  if (a && ok(a)) return a.length >= 3 ? { p25: a[0], p50: a[1], p75: a[2], label: `${L!.cycle?.label ?? 'latest cycle'} (${L!.scores!.doc ?? 'CDS'})` } : { p25: a[0], p50: null, p75: a[1], label: L!.scores!.doc ?? 'CDS' };
+  if (a && ok(a)) return { ...tri(a), label: `${(L!.cycle ?? L!.cycleNewer)?.label ?? 'latest cycle'} (${L!.scores!.doc ?? 'CDS'})` };
   if (ok(sc.act)) return { p25: sc.act[0]!, p75: sc.act[1]!, p50: null, label: 'fall 2024 (College Scorecard)' };
   return null;
 }
