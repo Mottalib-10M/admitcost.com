@@ -9,7 +9,7 @@ const sc = s.latest!.scores!;
 export default defineCollege({
   slug: 'northwestern',
   title: `Northwestern Acceptance Rate 2026: ${K.rate('northwestern')}, ED Odds, Net Price`,
-  description: `Northwestern admitted ${K.num(c.admitted)} of ${K.num(c.applicants)} applicants for fall 2025 (${K.rate('northwestern')}), far more in Early Decision. See its ${cost.year} cost and the net price paid by income.,
+  description: `Northwestern admitted ${K.num(c.admitted)} of ${K.num(c.applicants)} applicants for fall 2025 (${K.rate('northwestern')}), far more in Early Decision. See its ${cost.year} cost and the net price paid by income.`,
   intro: `Northwestern admitted ${K.rate('northwestern')} of all applicants for fall 2025 but about one in five in Early Decision.`,
   resume: `Northwestern University admitted ${K.num(c.admitted)} of ${K.num(c.applicants)} first-year applicants for the class that entered in fall 2025, an acceptance rate of ${K.rate('northwestern')}, according to its Common Data Set 2025-2026, and ${K.num(c.enrolled!)} enrolled. The overall figure hides a wide gap: about one Early Decision applicant in five was admitted, against a far lower rate in the regular round, and Early Decision supplied close to a third of all offers. Testing stays optional for fall 2027 applicants; ${K.pct(sc.pctSat!, 0)} of the class sent an SAT, with a middle 50% of ${K.satRange('northwestern')}. The ${cost.year} cost of attendance is ${K.sticker('northwestern')} before transportation. Aid is strictly need-based and loan-free, and most families earning under $150,000 attend tuition-free; in ${K.meta.years.net}, aided families between $48,001 and $75,000 paid an average of ${K.net('northwestern', 2)}.`,
   body: (h) => `
