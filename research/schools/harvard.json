@@ -35,7 +35,7 @@
   "testPolicy": {
     "status": "required",
     "text": "Harvard requires the SAT or ACT. In exceptional cases, when those are not accessible, AP results, IB actual or predicted scores, GCSE/A-Level actual or predicted results, or externally assessed national leaving exam results can meet the requirement. TOEFL, IELTS and Duolingo cannot.",
-    "since": "fall 2025 entry (Class of 2029), announced by the Faculty of Arts and Sciences on 2024-04-11 (https://www.fas.harvard.edu/2024/04/11/return-to-required-testing)",
+    "since": "fall 2025 entry (Class of 2029), announced by the Faculty of Arts and Sciences on 2024-04-11 (https://news.harvard.edu/gazette/story/2024/04/harvard-announces-return-to-required-testing/)",
     "url": "https://college.harvard.edu/resources/faq/which-standardized-tests-does-harvard-require",
     "accessed": "2026-10-12"
   },
@@ -96,7 +96,7 @@
     },
     {
       "text": "Testing is mandatory again since the fall 2025 entering class, ending the test-optional period that began in June 2020.",
-      "url": "https://www.fas.harvard.edu/2024/04/11/return-to-required-testing"
+      "url": "https://news.harvard.edu/gazette/story/2024/04/harvard-announces-return-to-required-testing/"
     }
   ],
   "notes": "Cycle from CDS 2025-26 (published July 2026). C1 total enrolled is 1,675 (803 men + 872 women); the brief's example value 1,650 was not used. SAT composite percentiles are blank in the CDS (only section scores reported). Harvard left CDS section G (cost) blank, so cost is from the financial aid office page. No official Class of 2030 (fall 2026) numbers: Harvard did not publish admission statistics on Ivy Day 2026 (The Crimson, 2026-03-27, https://www.thecrimson.com/article/2026/3/27/class-of-2030-ivy-day/ , pointer only). Need-blind, 100% need-based and 100% of demonstrated need verified on the How Aid Works page; the income thresholds verified on the cost page. 'We will never require you to take out loans' is quoted from the How Aid Works page. housingFood = 14,250 + 8,942."

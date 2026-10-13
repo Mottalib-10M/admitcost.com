@@ -60,6 +60,8 @@ def display(n):
     if n in DISPLAY: return DISPLAY[n]
     if n.startswith('University of California-'): return n.replace('-', ', ')
     return n
+# Net price calculator links of the Scorecard that answer 404 (checked 2026-10-13): fixed or dropped.
+NPC_FIX = {'vanderbilt': 'https://www.vanderbilt.edu/financialaid/net-price-calculator/', 'temple': '', 'alabama': ''}
 out = []
 for uid, (slug, short) in want.items():
     x = rows[uid]
@@ -67,7 +69,7 @@ for uid, (slug, short) in want.items():
     sfx = '_PUB' if pub else '_PRIV'
     out.append({
         'unitid': int(uid), 'slug': slug, 'short': short, 'name': display(x['INSTNM']), 'ipedsName': x['INSTNM'], 'city': x['CITY'], 'state': x['STABBR'],
-        'control': 'public' if pub else 'private', 'url': x['INSTURL'], 'npcUrl': x['NPCURL'],
+        'control': 'public' if pub else 'private', 'url': x['INSTURL'], 'npcUrl': NPC_FIX.get(slug, x['NPCURL']),
         'admRate': num(x['ADM_RATE']), 'testPolicy2024': num(x['ADMCON7'], int),
         'satEbrw': [num(x['SATVR25'], int), num(x['SATVR75'], int)], 'satMath': [num(x['SATMT25'], int), num(x['SATMT75'], int)],
         'act': [num(x['ACTCM25'], int), num(x['ACTCM75'], int)], 'satAvg': num(x['SAT_AVG'], int),

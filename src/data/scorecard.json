@@ -737,7 +737,7 @@
    "state": "TN",
    "control": "private",
    "url": "www.vanderbilt.edu/",
-   "npcUrl": "https://www.vanderbilt.edu/financialaid/net-price-calculator.php",
+   "npcUrl": "https://www.vanderbilt.edu/financialaid/net-price-calculator/",
    "admRate": 0.0586,
    "testPolicy2024": 5,
    "satEbrw": [
@@ -3792,7 +3792,7 @@
    "state": "AL",
    "control": "public",
    "url": "www.ua.edu/",
-   "npcUrl": "https://ua.aidcalc.cloud/netprice.htm",
+   "npcUrl": "",
    "admRate": 0.7665,
    "testPolicy2024": 5,
    "satEbrw": [
@@ -5108,7 +5108,7 @@
    "state": "PA",
    "control": "public",
    "url": "www.temple.edu/",
-   "npcUrl": "https://sfs.temple.edu/sites/sfs/files/netprice.html",
+   "npcUrl": "",
    "admRate": 0.8041,
    "testPolicy2024": 3,
    "satEbrw": [
