@@ -143,3 +143,13 @@ Serveur local : `npx astro preview --port 4447`. Pour l'arrêter : `lsof -ti tcp
 
 Pas de dépôt GitHub ni de push sans validation de l'éditeur, pas de DNS, pas de Chrome. Ne pas toucher à
 `_trame` ni à la RECETTE. Monétisation : `ADS_ENABLED` reste à `false`.
+
+## État au 2026-10-13
+
+- **60 pages d'université** écrites et validées ; les 110 établissements de `research/schools.tsv` sont tous dans le simulateur, le comparateur et les tableaux (données College Scorecard), avec un lien seulement quand la page existe.
+- **Recherche faite, page à écrire** (5) : uiuc, ohio-state, penn-state, rutgers, umd.
+- **Recherche et page à faire** (45) : johns-hopkins, notre-dame, tulane, villanova, fordham, george-washington, american-university, howard, byu, university-of-washington, virginia-tech, william-and-mary, uga, clemson, south-carolina, alabama, auburn, lsu, tennessee, kentucky, arizona, arizona-state, cu-boulder, oregon, utah, iowa, minnesota, indiana, michigan-state, purdue, mizzou, oklahoma, arkansas, texas-tech, uh, cal-poly, sdsu, csulb, binghamton, stony-brook, umass-amherst, uconn, pitt, temple, nc-state.
+- Pour une école : `research/BRIEF-RECHERCHE.md` (étape 1), puis ce document (étape 2), puis `sh scripts/check-page.sh college:<slug>` (n'affiche que les assertions en échec) et la série complète des contrôles. Le test `ALL_COLLEGES=1 npx vitest run` vérifie que les 110 pages existent.
+- Plafond : 110 pages d'université + 8 outils + accueil, à propos, méthode = 121 pages indexables (≤ 150).
+- **Chrome est interdit** sur ce projet. Certains sous-agents l'ont utilisé pour lire des documents bloqués (Brown, Williams, Amherst, MIT, NYU, Michigan, UVA) avant la consigne ; Brown a été repris sans ces lectures, MIT relu à curl. À la revue annuelle, relire ces documents par curl ou WebFetch.
+- Faits « From X's own documents » : un fait inversé a été trouvé et corrigé (Miami, taux par résidence). Tout fait comparatif (« higher rate », « unlike most ») se recalcule depuis les effectifs avant publication.
