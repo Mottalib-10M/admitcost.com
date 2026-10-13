@@ -1,0 +1,85 @@
+{
+  "slug": "rutgers",
+  "cycle": null,
+  "cycleNewer": null,
+  "scores": null,
+  "testPolicy": {
+    "status": "optional",
+    "text": "Rutgers maintains test-optional and test-blind policies through 2027. Rutgers University-New Brunswick is test optional: SAT and ACT submissions are optional, students who do not send a score receive full admission consideration, and scores sent are treated as an additional credential. An SAT EBRW of 650 or an ACT reading score of 28 exempts enrolling students from the English placement exam.",
+    "since": null,
+    "url": "https://admissions.rutgers.edu/apply/first-year-applicants",
+    "accessed": "2026-10-13"
+  },
+  "gpa": null,
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Scarlet Hub 2026-2027 cost of attendance, New Brunswick, full-time undergraduate, School of Arts and Sciences (01), on campus: billed tuition, fees and food and housing, plus books, travel, loan fees 110 and miscellaneous. Each school has its own tuition: engineering totals 49,994 in-state and 75,993 out-of-state, business 48,314 and 69,894, nursing 50,210 and 64,822.",
+    "inState": {
+      "tuition": 15381,
+      "fees": 4008,
+      "housingFood": 21946,
+      "books": 1504,
+      "personal": 3704,
+      "travel": 1026,
+      "total": 47679
+    },
+    "outOfState": {
+      "tuition": 36831,
+      "fees": 4008,
+      "housingFood": 21946,
+      "books": 1504,
+      "personal": 3704,
+      "travel": 1598,
+      "total": 69701
+    },
+    "url": "https://scarlethub.rutgers.edu/wp-content/uploads/In-State-New-Brunswick-Full-Time-Undergraduate-COA-2026-2027.pdf",
+    "url2": "https://scarlethub.rutgers.edu/wp-content/uploads/Out-of-State-New-Brunswick-Full-Time-Undergraduate-COA-2026-2027.pdf",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Garden State Guarantee (state program): New Jersey residents at an in-state public four-year institution with adjusted gross income between $0 and $65,000 pay a net price of $0 for tuition and fees in their third and fourth years of study. It is a last-dollar award, requires full-time enrollment toward a first bachelor's degree, and is considered automatically with the FAFSA.",
+    "year": "2026-27 rules",
+    "url": "https://scarlethub.rutgers.edu/financial-services/types-of-aid/garden-state-guarantee/"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1, 2026 (Early Action, non-binding, notification by January 31, 2027: admitted, not admitted, wait list or deferred)",
+      "regular": "December 1, 2026 (Regular Decision, notification by February 28, 2027); rolling admission afterwards to schools still open"
+    },
+    "url": "https://admissions.rutgers.edu/apply/dates-deadlines/new-brunswick"
+  },
+  "facts": [
+    {
+      "text": "Rutgers-New Brunswick's Regular Decision deadline is December 1, 2026, and later first-year applications are reviewed only on a rolling, space-available basis by school.",
+      "url": "https://admissions.rutgers.edu/apply/dates-deadlines/new-brunswick"
+    },
+    {
+      "text": "Tuition depends on the school a student enters: in 2026-27 an in-state student pays 15,381 in the School of Arts and Sciences and 17,609 in the School of Engineering, and out-of-state engineering tuition is 43,036.",
+      "url": "https://scarlethub.rutgers.edu/wp-content/uploads/In-State-New-Brunswick-Full-Time-Undergraduate-COA-2026-2027.pdf"
+    },
+    {
+      "text": "The 2026-27 on-campus food and housing budget at New Brunswick is 21,946, larger than in-state tuition and fees combined.",
+      "url": "https://scarlethub.rutgers.edu/wp-content/uploads/In-State-New-Brunswick-Full-Time-Undergraduate-COA-2026-2027.pdf"
+    },
+    {
+      "text": "Under New Jersey's Garden State Guarantee, residents with adjusted gross income up to $65,000 pay $0 in tuition and fees in their third and fourth years.",
+      "url": "https://scarlethub.rutgers.edu/financial-services/types-of-aid/garden-state-guarantee/"
+    },
+    {
+      "text": "Rutgers' newest posted Common Data Set for New Brunswick is the 2023-2024 edition, so the admission rate shown comes from federal fall 2024 data.",
+      "url": "https://oirds.rutgers.edu/ReportingCommonDataSet.html"
+    }
+  ],
+  "notes": "The Rutgers Office of Institutional Research (oirds.rutgers.edu, CDS page) lists New Brunswick CDS up to 2023-2024 only; no 2024-25 or 2025-26 CDS and no official fall 2025 class profile with counts were found, so cycle and scores are null and the page falls back to the College Scorecard fall 2024 rate. Cost from the 2026-27 New Brunswick cost-of-attendance PDFs (School of Arts and Sciences used as the standard column). The Scarlet Guarantee (Rutgers' own program) page was not found in the Scarlet Hub navigation and is not recorded."
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "ohio-state",
+  "cycle": null,
+  "cycleNewer": null,
+  "scores": null,
+  "testPolicy": {
+    "status": "required",
+    "text": "Standardized test scores from the ACT or SAT are required for first-year applicants to the Columbus campus (applicants out of high school for two or more years by their term of enrollment are exempt). Ohio State superscores both tests; the ACT science section is not needed. Scores must arrive by the application deadline.",
+    "since": null,
+    "url": "https://undergrad.osu.edu/apply/freshmen-columbus/apply-step-by-step",
+    "accessed": "2026-10-13"
+  },
+  "gpa": null,
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Student Financial Aid, Cost of Attendance 2026-2027, Columbus campus, incoming freshmen living on campus: direct costs (tuition and fees, plus the non-resident fee of 30,220 for non-Ohioans; housing and food) and indirect costs (books, supplies and equipment; miscellaneous personal; transportation; federal loan fees 40).",
+    "inState": {
+      "tuition": 14034,
+      "fees": null,
+      "housingFood": 15630,
+      "books": 1020,
+      "personal": 2686,
+      "travel": 732,
+      "total": 34142,
+      "note": "tuition line is 'Tuition and fees'. The admissions basic-costs page lists billed 2026-27 Columbus tuition of 14,050 and housing and food of 15,738 (most common housing and dining program)."
+    },
+    "outOfState": {
+      "tuition": 44254,
+      "fees": null,
+      "housingFood": 15630,
+      "books": 1020,
+      "personal": 2686,
+      "travel": 1360,
+      "total": 64990,
+      "note": "tuition = tuition and fees 14,034 + non-resident fees 30,220"
+    },
+    "url": "https://sfa.osu.edu/incoming-freshmen/about-aid/financial-aid-eligibility",
+    "url2": "https://undergrad.osu.edu/cost-and-aid/basic-costs",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": null,
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1, 2026 (Early Action, autumn 2027; test by October 3 SAT or October 17 ACT)",
+      "regular": "January 15, 2027 (Regular Decision); financial aid priority date February 1; acceptance fee by May 1, 2027"
+    },
+    "url": "https://undergrad.osu.edu/apply/freshmen-columbus/apply-step-by-step"
+  },
+  "facts": [
+    {
+      "text": "The Ohio State Tuition Guarantee freezes tuition and mandatory fees for four years for each entering class, and for Ohio residents it also freezes housing and dining costs.",
+      "url": "https://registrar.osu.edu/student-hub/tuition-and-fees/ohio-state-tuition-guarantee/"
+    },
+    {
+      "text": "Ohio State's admitted students had middle-50% scores of 27 to 33 on the ACT and 1280 to 1470 on the SAT; 80% of admits scored between 1180 and 1530 on the SAT.",
+      "url": "https://undergrad.osu.edu/apply/freshmen-columbus/who-gets-in"
+    },
+    {
+      "text": "Under Ohio's Guaranteed Admission Program, students in the top 5% of their high school class are guaranteed admission to the main campus of any Ohio public university if they meet deadlines; the top 10% are guaranteed admission if they meet the unconditional admission standard, or else may be admitted to a regional campus.",
+      "url": "https://undergrad.osu.edu/apply/ohio-guaranteed-admission-program"
+    },
+    {
+      "text": "Non-Ohio residents pay a non-resident fee of 30,220 on top of tuition and fees of 14,034 in 2026-27, so the on-campus budget is 64,990 against 34,142 for Ohioans.",
+      "url": "https://sfa.osu.edu/incoming-freshmen/about-aid/financial-aid-eligibility"
+    },
+    {
+      "text": "Most incoming first-years on the Columbus campus are required to live on campus for their first two years.",
+      "url": "https://undergrad.osu.edu/cost-and-aid/basic-costs"
+    },
+    {
+      "text": "Ohio State does not accept first-year applications for the summer term, and Early Action (November 1) applies to the autumn term only.",
+      "url": "https://undergrad.osu.edu/apply/freshmen-columbus/apply-step-by-step"
+    }
+  ],
+  "notes": "The Columbus campus CDS 2025-26 PDF (https://irp.osu.edu/sites/default/files/documents/2026/03/CDS-2025-2026-OSU-Columbus-Campus.pdf) was downloaded, but its figures are drawn as vector outlines with no text layer: pypdf and WebFetch return only the labels, so C1, C9, C12 and residency figures are null. The Buckeye Data Digest admissions page is a Tableau dashboard that curl cannot read. The admitted-student score ranges come from the admissions page and are not labeled with a year; they describe admitted, not enrolled, students and are kept as a fact. The date the test requirement took effect is not stated on the page. No institution-wide aid promise text verified (the Buckeye Opportunity program was not found on the pages opened)."
+}

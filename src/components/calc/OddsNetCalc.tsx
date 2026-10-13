@@ -61,13 +61,7 @@ export default function OddsNetCalc({ schools, school, lock = false, rule, bands
   const options = schools.map((x) => ({ value: x.slug, label: x.name }));
   const form = (
     <>
-      {lock ? (
-        <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0 sm:col-span-2">
-          <span className="mb-1 block text-sm font-medium text-navy-700">University</span>
-          <p className="flex h-12 items-center rounded-lg border border-navy-200 bg-navy-50 px-4 font-semibold text-navy-900">{s.name}</p>
-          <span className="mt-1 text-xs text-navy-500">{s.state} · {s.control === 'public' ? 'public' : 'private'}</span>
-        </div>
-      ) : <SelectField id={`${idPrefix}-u`} label="University" value={slug} onChange={setSlug} options={options} help={`${schools.length} universities`} className="sm:col-span-2" />}
+      {lock ? null : <SelectField id={`${idPrefix}-u`} label="University" value={slug} onChange={setSlug} options={options} help={`${schools.length} universities`} className="sm:col-span-2" />}
       <NumberField id={`${idPrefix}-inc`} label="Family income per year" value={income} onChange={setIncome} unit="$" max={5000000} help="Parents’ total income before tax (AGI)" />
       {s.control === 'public'
         ? <Toggle id={`${idPrefix}-r`} label={`Resident of ${s.state}?`} value={res} onChange={setRes} options={[{ value: 'in', label: 'Yes' }, { value: 'out', label: 'No' }]} />

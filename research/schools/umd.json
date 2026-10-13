@@ -1,0 +1,114 @@
+{
+  "slug": "umd",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 67101,
+    "admitted": 30218,
+    "enrolled": 6559,
+    "doc": "University of Maryland, College Park Common Data Set 2025-2026 (Excel), C1",
+    "url": "https://www.irpa.umd.edu/InstitutionalData/CommonDataSet/CDS_2025-2026.xlsx",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [18487, 8075, 4133],
+      "outOfStateAndInternational": [48614, 22143, 2426],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": { "offered": 247, "accepted": 0, "admitted": 0 }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1410, 1470, 1520],
+    "satEbrw": [690, 730, 750],
+    "satMath": [700, 750, 780],
+    "act": [32, 34, 35],
+    "pctSat": 0.37,
+    "pctAct": 0.07,
+    "doc": "CDS 2025-2026, C9 (2,432 SAT submitters, 464 ACT submitters)",
+    "url": "https://www.irpa.umd.edu/InstitutionalData/CommonDataSet/CDS_2025-2026.xlsx"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "UMD is test-optional through the spring and fall 2027 application cycles; students choose whether to submit SAT/ACT scores. CDS C8F: students who do not submit are still considered for admission, limited enrollment programs, living-learning programs and merit scholarships; submitted scores are used in all of these.",
+    "since": null,
+    "url": "https://admissions.umd.edu/apply/freshman-applicants",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 4.41,
+    "pctSubmitting": 0.95,
+    "doc": "CDS 2025-2026, C12 (89.23% of enrolled first-years had a GPA of 4.0 or higher, C11)",
+    "url": "https://www.irpa.umd.edu/InstitutionalData/CommonDataSet/CDS_2025-2026.xlsx"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Office of Student Financial Aid, 2026-2027 academic year estimated costs, undergraduate on campus: annual tuition, mandatory fees, on-campus housing with cable and phone 10,290, average food plan 7,180, books and supplies, transportation, personal costs.",
+    "inState": {
+      "tuition": 11014,
+      "fees": 1820,
+      "housingFood": 17470,
+      "books": 1250,
+      "personal": 1200,
+      "travel": 1514,
+      "total": 34268,
+      "note": "CDS 2025-26 G1 lists 2026-27 tuition of 10,490 in-state, required fees 1,800 and food and housing 16,747; 23.8% of undergraduates pay more than G1 because of program differentials"
+    },
+    "outOfState": {
+      "tuition": 42266,
+      "fees": 1820,
+      "housingFood": 17470,
+      "books": 1250,
+      "personal": 1200,
+      "travel": 1514,
+      "total": 65520,
+      "note": "CDS 2025-26 G1 nonresident tuition 40,253"
+    },
+    "url": "https://financialaid.umd.edu/resources-policies/cost-attendance",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Terrapin Commitment (since January 2023): UMD's standard in-state tuition and mandatory fees are fully covered for Pell-eligible Maryland residents enrolled full time with unmet need; if scholarships, grants and the student aid index fall below in-state tuition and fees, the grant pays the difference. FAFSA by March 1 each year.",
+    "year": "since January 2023",
+    "url": "https://financialaid.umd.edu/terrapin-commitment"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Action, non-binding, decision by February 1)",
+      "regular": "January 20 (Regular Decision, decision by April 1)"
+    },
+    "url": "https://admissions.umd.edu/apply/application-deadlines"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, UMD admitted 8,075 of 18,487 Maryland applicants and 22,143 of 48,614 applicants from other states and abroad; 4,133 of the 6,559 enrolled first-years were Marylanders.",
+      "url": "https://www.irpa.umd.edu/InstitutionalData/CommonDataSet/CDS_2025-2026.xlsx"
+    },
+    {
+      "text": "Business, computer science, engineering, biological sciences, neuroscience and psychology are Limited Enrollment Programs: admitted students who are not admitted to their LEP major start in Letters and Sciences and must meet gateway requirements to enter it.",
+      "url": "https://admissions.umd.edu/academics/limited-enrollment-programs"
+    },
+    {
+      "text": "The Terrapin Commitment covers standard in-state tuition and mandatory fees for Pell-eligible Maryland residents with unmet need.",
+      "url": "https://financialaid.umd.edu/terrapin-commitment"
+    },
+    {
+      "text": "89.23% of the fall 2025 enrolled first-years reported a high school GPA of 4.0 or higher, and the average was 4.41.",
+      "url": "https://www.irpa.umd.edu/InstitutionalData/CommonDataSet/CDS_2025-2026.xlsx"
+    },
+    {
+      "text": "Applying by the November 1 Early Action deadline gives priority consideration, and the Regular Decision deadline is January 20.",
+      "url": "https://admissions.umd.edu/apply/application-deadlines"
+    }
+  ],
+  "notes": "C1 from CDS 2025-26 Excel: applied 33,095 men + 34,006 women = 67,101; admitted 14,151 + 16,067 = 30,218; enrolled 3,163 + 3,396 = 6,559. The residency table fills only the in-state and out-of-state columns (international is blank and evidently included in out-of-state, since the two columns sum to the totals). Waiting list: 247 offered, 0 accepting, 0 admitted as reported. The 2026-27 cost page and CDS G1 differ (tuition 11,014 versus 10,490); the financial aid office figure is used for the totals."
+}

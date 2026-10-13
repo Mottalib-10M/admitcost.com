@@ -1,0 +1,109 @@
+{
+  "slug": "penn-state",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 106547,
+    "admitted": 58952,
+    "enrolled": 9148,
+    "doc": "Penn State University Park Common Data Set 2025-2026, C1",
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [21321, 12096, 4674],
+      "outOfState": [72861, 38846, 3768],
+      "international": [12365, 8010, 706],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": { "offered": 2109, "accepted": 1153, "admitted": 46 }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1280, 1340, 1410],
+    "satEbrw": [630, 670, 710],
+    "satMath": [630, 670, 720],
+    "act": [28, 30, 32],
+    "pctSat": 0.286,
+    "pctAct": 0.0498,
+    "doc": "CDS 2025-2026, C9 (2,616 SAT submitters, 456 ACT submitters)",
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "CDS 2025-26 C8A, for students applying for fall 2027: SAT and/or ACT 'not required for admission, but considered if submitted'; C8E: scores accepted on a rolling basis.",
+    "since": null,
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.67,
+    "pctSubmitting": 0.96,
+    "doc": "CDS 2025-2026, C12 (8% of enrolled first-years had a 4.0, 38% between 3.75 and 3.99, C11)",
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "CDS 2025-26 section G for the full 2026-27 academic year, University Park, first-year: tuition, required fees 640, food and housing on campus (housing 9,532, food 6,436), G5 books and supplies, transportation and other expenses. No total is published in the CDS, and the Student Aid cost-of-attendance page renders its figures with JavaScript, so totals are null.",
+    "inState": {
+      "tuition": 20878,
+      "fees": 640,
+      "housingFood": 15968,
+      "books": 1290,
+      "personal": 3112,
+      "travel": 2244,
+      "total": null
+    },
+    "outOfState": {
+      "tuition": 44574,
+      "fees": 640,
+      "housingFood": 15968,
+      "books": 1290,
+      "personal": 3112,
+      "travel": 2244,
+      "total": null
+    },
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": null,
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Action, non-binding, notification by December 24)",
+      "regular": "No application closing date in the CDS (C14); decisions on a rolling basis (C16)"
+    },
+    "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, University Park admitted 12,096 of 21,321 Pennsylvania applicants and 38,846 of 72,861 out-of-state applicants; 4,674 of the 9,148 enrolled first-years were Pennsylvanians.",
+      "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+    },
+    {
+      "text": "Penn State's University Park campus received 106,547 first-year applications for fall 2025, and only 9,148 students enrolled, about one in six admits.",
+      "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+    },
+    {
+      "text": "Testing is optional for fall 2027 applicants, and only 28.6% of the fall 2025 enrolled class submitted an SAT and 4.98% an ACT.",
+      "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+    },
+    {
+      "text": "2026-27 tuition at University Park is 20,878 for Pennsylvania residents and 44,574 for non-residents, plus 640 in required fees; tuition varies by year of study and by program (CDS G3, G4).",
+      "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+    },
+    {
+      "text": "For fall 2025, 1,153 students accepted a place on the waiting list and 46 of them were admitted.",
+      "url": "https://opair.psu.edu/files/2026/06/UniversityPark_CDS_2025_2026.pdf"
+    }
+  ],
+  "notes": "C1 from the University Park CDS 2025-26 (published June 2026): applied 47,811 men + 58,615 women + 121 unknown = 106,547; admitted 25,375 + 33,514 + 63 = 58,952; enrolled 4,456 + 4,691 + 1 = 9,148. The residency rows sum to the totals. The CDS covers University Park only; Penn State's other campuses are not included. psu.edu cost-of-attendance and admissions pages are rendered by JavaScript and returned no figures to curl or WebFetch, so the cost comes from CDS section G (2026-27) with totals null and the test policy from CDS C8A; the C8F clarification text is truncated in the PDF. aidPromise not verified."
+}

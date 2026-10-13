@@ -1,0 +1,114 @@
+{
+  "slug": "uiuc",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 83045,
+    "admitted": 30384,
+    "enrolled": 9207,
+    "doc": "University of Illinois Urbana-Champaign Common Data Set 2025-2026 (Excel), C1",
+    "url": "https://uofi.box.com/shared/static/orx4vnmzkt2drmgoiksxpfs39pr42uor.xlsx",
+    "url2": "https://dair.illinois.edu/access-data/common-data-set/",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [29419, 14509, 6587],
+      "outOfState": [32702, 9495, 1210],
+      "international": [20924, 6380, 1410],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": { "offered": 6826, "accepted": 4317, "admitted": 1 }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1390, 1442, 1520],
+    "satEbrw": [690, 720, 750],
+    "satMath": [700, 760, 790],
+    "act": [31, 32.3, 34],
+    "pctSat": 0.4259,
+    "pctAct": 0.1407,
+    "doc": "CDS 2025-2026, C9 (3,921 SAT submitters, 1,295 ACT submitters)",
+    "url": "https://uofi.box.com/shared/static/orx4vnmzkt2drmgoiksxpfs39pr42uor.xlsx"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "ACT/SAT scores are optional for all first-year applicants, including international students, homeschooled students and recruited athletes. The choice to apply test-optional cannot be changed after the application is submitted.",
+    "since": null,
+    "url": "https://admissions.illinois.edu/first-year-apply-faq/",
+    "accessed": "2026-10-13"
+  },
+  "gpa": null,
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "Office of Student Financial Aid cost-of-attendance tool, Fall 2026-Spring 2027, undergraduate starting fall 2026, 12+ credit hours, base rate (most LAS majors): tuition, fees, food and housing, books and supplies, other expenses. Tuition is higher in many programs: engineering, Gies business, astrophysics 18,740 in-state and 44,340 out-of-state (totals 43,480 and 69,420).",
+    "inState": {
+      "tuition": 13252,
+      "fees": 5182,
+      "housingFood": 15858,
+      "books": 1200,
+      "personal": 2500,
+      "travel": null,
+      "total": 37992
+    },
+    "outOfState": {
+      "tuition": 35928,
+      "fees": 5182,
+      "housingFood": 15858,
+      "books": 1200,
+      "personal": 2840,
+      "travel": null,
+      "total": 61008
+    },
+    "url": "https://cost.illinois.edu/Home/Cost/R/U/Compare/12/120268/120268",
+    "url2": "https://cost.illinois.edu/Home/Cost/N/U/Compare/12/120268/120268",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Illinois Commitment: Illinois residents admitted as new freshmen or transfers for fall 2025 or later whose family income is $75,000 or less and family assets $75,000 or less receive scholarship and grant funding covering the full cost of tuition and campus fees not covered by other awards, renewable for four years for freshmen. FAFSA due by March 15.",
+    "year": "fall 2025 entry onward (threshold raised from $67,100)",
+    "url": "https://osfa.illinois.edu/types-of-aid/other-aid/illinois-commitment/"
+  },
+  "plans": {
+    "ed": false,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Action, non-binding, materials by November 7, notification January 29)",
+      "regular": "January 5 (materials by January 11, notification February 26)"
+    },
+    "url": "https://admissions.illinois.edu/first-year-dates/"
+  },
+  "facts": [
+    {
+      "text": "Applicants apply to a specific major; if they are not admissible to their first choice they are reviewed for a second-choice major, and an admit to the second choice is wait listed for the first. Computer science, computer engineering, electrical and aerospace engineering, among others, are not available as a second choice.",
+      "url": "https://admissions.illinois.edu/first-year-apply-faq/"
+    },
+    {
+      "text": "For fall 2025, Illinois admitted 14,509 of 29,419 in-state applicants, 9,495 of 32,702 out-of-state applicants and 6,380 of 20,924 international applicants; 6,587 of the 9,207 enrolled first-years were Illinois residents.",
+      "url": "https://uofi.box.com/shared/static/orx4vnmzkt2drmgoiksxpfs39pr42uor.xlsx"
+    },
+    {
+      "text": "Illinois Commitment covers full tuition and campus fees for Illinois residents with family income and assets of $75,000 or less each, for students admitted from fall 2025.",
+      "url": "https://osfa.illinois.edu/types-of-aid/other-aid/illinois-commitment/"
+    },
+    {
+      "text": "Tuition depends on the program: for a student starting in fall 2026, engineering and Gies business tuition is 18,740 for residents against a base rate of 13,252, which lifts the resident budget from 37,992 to 43,480.",
+      "url": "https://cost.illinois.edu/Home/Cost/R/U/Compare/12/120268/120268"
+    },
+    {
+      "text": "The financial aid office publishes 2026-27 budgets by the term a student first enrolled (fall 2021 through fall 2026 starters each have their own table), because tuition is set by entry year.",
+      "url": "https://www.osfa.illinois.edu/cost/undergraduate-cost/undergraduate-resident-cost/"
+    },
+    {
+      "text": "For fall 2025, 4,317 students accepted a place on the waiting list and the Common Data Set reports 1 admitted from it.",
+      "url": "https://uofi.box.com/shared/static/orx4vnmzkt2drmgoiksxpfs39pr42uor.xlsx"
+    }
+  ],
+  "notes": "CDS 2025-26 Excel from the DAIR page (Box static link). C1: applied 46,897 men + 36,114 women + 34 unknown = 83,045; admitted 14,656 + 15,713 + 15 = 30,384; enrolled 4,662 + 4,543 + 2 = 9,207. The residency table is read from the CDS-C sheet as displayed (rows sum to the totals); the Answer Sheet's residency cells are broken (#REF! and shifted values) and were not used. C12 GPA not reported (gpa null). C9 ACT median published as 32.3. CDS G (for 2025-26 per the template note): tuition 12,992 in-state, 33,344 out-of-state, fees 5,054, food and housing 15,184; 70.56% of undergraduates pay more than G1 because of program differentials. 2026-27 cost from cost.illinois.edu (linked from the financial aid office). The UI System guaranteed tuition page (uaps.uillinois.edu) is behind a JavaScript challenge and could not be read."
+}
