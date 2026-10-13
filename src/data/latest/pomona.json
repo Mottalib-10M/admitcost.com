@@ -1,0 +1,107 @@
+{
+ "slug": "pomona",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 12470,
+  "admitted": 890,
+  "enrolled": 421,
+  "doc": "Pomona College Common Data Set 2025-2026 (Tableau), section C, C1: 5,365 men + 7,096 women + 9 unknown applied; 418 + 471 + 1 admitted; 199 + 221 + 1 enrolled full-time",
+  "url": "https://tableau.campus.pomona.edu/views/CDS2025-26/C_First-timeFirst-yearadmission",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1490,
+   1520,
+   1550
+  ],
+  "satEbrw": [
+   null,
+   755,
+   null
+  ],
+  "satMath": [
+   null,
+   770,
+   null
+  ],
+  "act": [
+   32,
+   34,
+   34
+  ],
+  "pctSat": 0.37,
+  "pctAct": 0.12,
+  "doc": "CDS 2025-2026, C9 (156 SAT submitters, 52 ACT submitters); section medians from the Class of 2029 profile",
+  "url": "https://tableau.campus.pomona.edu/views/CDS2025-26/C_First-timeFirst-yearadmission"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Pomona College is test optional: SAT or ACT scores are not required, applicants may self-report them. Applicants who submit the ACT must submit the Core ACT plus the Science section; Pomona superscores ACT sections. Only enrolling students who self-reported scores send official reports.",
+  "since": "test-optional policy adopted permanently in 2023",
+  "url": "https://www.pomona.edu/admissions/apply/how-apply",
+  "accessed": "2026-10-13",
+  "url2": "https://www.pomona.edu/news/2025/09/12-pomona-college-class-2029-profile"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026 C12 not reported in the Tableau export",
+  "url": "https://tableau.campus.pomona.edu/views/CDS2025-26/C_First-timeFirst-yearadmission"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71660,
+  "fees": 420,
+  "housingFood": 23590,
+  "books": 0,
+  "personal": "1500-2600",
+  "travel": "included in personal",
+  "total": 95670,
+  "totalIncludes": "billable costs only: tuition 71,660 + fees 420 + housing and food 23,590 = 95,670 (on campus). Non-billable travel and personal 1,500 to 2,600 comes on top, so the full cost is 97,170 to 98,270. Books and supplies are free from fall 2026 through the ACE program (included in the comprehensive fee). Medical insurance 3,312 is billed unless waived with comparable coverage.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.pomona.edu/financial-aid/cost-attendance",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Need-blind admission for U.S. citizens, permanent residents, eligible non-citizens and undocumented students who graduate from a U.S. high school; need-based grants meet 100% of demonstrated need, and loans are not included in aid offers.",
+  "year": "current policy (Class of 2029 profile)",
+  "url": "https://www.pomona.edu/about/profile-who-goes-pomona"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 8 (Early Decision I); January 8 (Early Decision II)",
+   "regular": "January 8"
+  },
+  "url": "https://www.pomona.edu/admissions/apply/how-apply"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, 1,656 students applied Early Decision and 227 were admitted, about a quarter of all 890 admits; 210 of the 421 enrolled students came through ED.",
+   "url": "https://tableau.campus.pomona.edu/views/CDS2025-26/C_First-timeFirst-yearadmission"
+  },
+  {
+   "text": "Starting fall 2026, Pomona provides books and supplies to all students at no extra charge through its Access to Course Essentials (ACE) program.",
+   "url": "https://www.pomona.edu/financial-aid/cost-attendance"
+  },
+  {
+   "text": "California residents make up 34% of the Class of 2029 and international students and U.S. citizens abroad 13%.",
+   "url": "https://www.pomona.edu/about/profile-who-goes-pomona"
+  },
+  {
+   "text": "Pomona offered 1,017 students a waiting-list place for fall 2025; 716 accepted and 31 were admitted.",
+   "url": "https://tableau.campus.pomona.edu/views/CDS2025-26/C_First-timeFirst-yearadmission"
+  },
+  {
+   "text": "In the Class of 2029, 48% submitted test scores and 52% did not; Pomona says there is no admissions advantage to submitting an SAT or ACT.",
+   "url": "https://www.pomona.edu/news/2025/09/12-pomona-college-class-2029-profile"
+  }
+ ],
+ "notes": "Pomona publishes its CDS only as Tableau dashboards (listed on https://www.pomona.edu/administration/institutional-research/information-center/common-data-set). The C1 counts were read from the CSV export and the PDF export (saved as .cache-raw/cds/pomona_cds_2025-26_C_First-timeFirst-yearadmission.csv/.pdf); 12,470 matches the Class of 2029 profile. In the PDF export the six SAT EBRW and Math percentile values (790, 770, 770, 755, 740, 730) are in one unordered block, so only the medians published in the Class of 2029 profile (EBRW 755, Math 770) are recorded; 25th and 75th are null. ACT columns read left to right as 25th/50th/75th (confirmed by ACT Writing 7/8/10). The Tableau C9 label says 'Fall 2024' and C8 'Fall 2026', but the counts match the Class of 2029. Waiting-list order read as offered 1,017 / accepted 716 / admitted 31 (labels are run together). CDS G figures equal the 2026-27 cost page. The ED share in facts is computed (227 / 890). No official fall 2026 counts found."
+}

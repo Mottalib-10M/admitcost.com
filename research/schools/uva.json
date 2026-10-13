@@ -1,0 +1,148 @@
+{
+  "slug": "uva",
+  "cycle": {
+    "label": "Fall 2025 entering class",
+    "applicants": 64457,
+    "admitted": 10086,
+    "enrolled": 3978,
+    "doc": "University of Virginia Common Data Set 2025-2026, C1 (interactive section C embedded in the IRA CDS page)",
+    "url": "https://ira.virginia.edu/common-data-set/common-data-set-2025-2026",
+    "url2": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html",
+    "accessed": "2026-10-13",
+    "byResidency": {
+      "inState": [
+        17370,
+        4092,
+        2531
+      ],
+      "outOfState": [
+        39271,
+        5086,
+        1226
+      ],
+      "international": [
+        7816,
+        908,
+        221
+      ],
+      "order": "applied, admitted, enrolled"
+    },
+    "waitlist": {
+      "offered": 8398,
+      "accepted": 5225,
+      "admitted": 125
+    },
+    "earlyDecision": {
+      "applied": 4969,
+      "admitted": 1376
+    }
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [
+      1410,
+      1470,
+      1510
+    ],
+    "satEbrw": [
+      700,
+      740,
+      760
+    ],
+    "satMath": [
+      710,
+      750,
+      780
+    ],
+    "act": [
+      32,
+      33,
+      34.25
+    ],
+    "pctSat": 0.487,
+    "pctAct": 0.145,
+    "doc": "CDS 2025-2026, C9 (1,936 SAT submitters, 576 ACT submitters; ACT 75th percentile published as 34.25)",
+    "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "CDS 2025-26 C8A, for students applying for fall 2027: SAT or ACT 'not required for admission, but considered if submitted'; latest date for scores January 15. Standardized test scores are rated 'Considered' in C7.",
+    "since": null,
+    "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C12 left blank by UVA",
+    "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": null,
+    "fees": null,
+    "housingFood": null,
+    "books": null,
+    "personal": null,
+    "travel": null,
+    "total": null,
+    "totalIncludes": "CDS 2025-26 section G (2026-27 academic year), first-year column: tuition + required fees + food and housing on campus (housing 8,730 + food 7,340), plus G5 books and supplies, transportation and other expenses. No total is published in the CDS; the SFS cost-of-attendance page could not be opened.",
+    "inState": {
+      "tuition": 19309,
+      "fees": 3945,
+      "housingFood": 16070,
+      "books": 1540,
+      "personal": 3000,
+      "travel": 550,
+      "total": null,
+      "note": "all-undergraduate column: tuition 20,897, fees 3,950, food and housing 17,234 (tuition varies by year of study and program; 26.9% of undergraduates pay more than G1)"
+    },
+    "outOfState": {
+      "tuition": 59035,
+      "fees": 3945,
+      "housingFood": 16070,
+      "books": 1540,
+      "personal": 3000,
+      "travel": 550,
+      "total": null,
+      "note": "all-undergraduate column: tuition 61,273"
+    },
+    "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionG/CDS_SectionG.html",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": null,
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Decision, binding, decisions by December 15, deposit by January 15; Early Action, non-binding, notification February 15)",
+      "regular": "January 5 (decisions by April 1)"
+    },
+    "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+  },
+  "facts": [
+    {
+      "text": "For fall 2025, UVA admitted 4,092 of 17,370 Virginia applicants and 5,086 of 39,271 out-of-state applicants; 2,531 of the 3,978 enrolled first-years were Virginians.",
+      "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+    },
+    {
+      "text": "Binding Early Decision admitted 1,376 of 4,969 applicants for fall 2025, a much higher rate than the overall 10,086 of 64,457.",
+      "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+    },
+    {
+      "text": "State residency is rated 'very important' in UVA's admission decisions (CDS C7), alongside rigor, class rank, GPA and character.",
+      "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+    },
+    {
+      "text": "The waiting list is long but rarely used: 5,225 students accepted a place for fall 2025 and 125 were admitted.",
+      "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionC/CDS_SectionC.html"
+    },
+    {
+      "text": "First-year tuition for 2026-27 is 19,309 for Virginians and 59,035 for non-residents, before required fees of 3,945.",
+      "url": "https://qlksnpn-apprd01.eservices.virginia.edu/extensions/CDS_SectionG/CDS_SectionG.html"
+    }
+  ],
+  "notes": "All CDS figures read on 2026-10-13 from UVA's interactive CDS (Qlik extensions embedded in https://ira.virginia.edu/common-data-set/common-data-set-2025-2026). C1: 29,657 + 34,776 + 24 = 64,457 applied; 4,564 + 5,520 + 2 = 10,086 admitted; 1,779 + 2,198 + 1 = 3,978 enrolled (all full-time). C12 GPA and C11 distribution are blank. C14 closing date 01/05, C16 notification by 4/01. ira.virginia.edu, sfs.virginia.edu and admission.virginia.edu return HTTP 403 to curl and WebFetch, so the SFS 2026-27 cost of attendance page (sfs.virginia.edu/financial-aid-new-applicants/financial-aid-basics/estimated-undergraduate-cost-attendance-2026-2027) and the admission office testing page could not be opened: cost totals are null and the test policy comes from CDS C8A. UVA's SFS page mentions MyinTuition for schools that meet 100% of demonstrated need, but no official aid-promise text (AccessUVA, income thresholds) could be opened, so aidPromise is null. No official fall 2026 class numbers recorded."
+}

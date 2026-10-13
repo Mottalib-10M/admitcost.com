@@ -1,0 +1,102 @@
+{
+ "slug": "washu",
+ "cycle": null,
+ "cycleNewer": {
+  "label": "Fall 2026 entering class (Class of 2030)",
+  "applicants": 33214,
+  "admitted": 4057,
+  "enrolled": 1941,
+  "doc": "WashU Office of Undergraduate Admissions, Class of 2030 Profile (numbers accurate as of September 21, 2026; 'enrolling' count)",
+  "url": "https://admissions.washu.edu/life-at-washu/incoming-class-profile/",
+  "accessed": "2026-10-12"
+ },
+ "scores": {
+  "satComposite": [
+   1510,
+   null,
+   1550
+  ],
+  "satEbrw": null,
+  "satMath": null,
+  "act": [
+   33,
+   null,
+   35
+  ],
+  "pctSat": null,
+  "pctAct": null,
+  "doc": "Class of 2030 Profile: middle 50% SAT 1510-1550, ACT 33-35; 63% enrolled with test scores, 37% without (no split between SAT and ACT, no medians)",
+  "url": "https://admissions.washu.edu/life-at-washu/incoming-class-profile/"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "WashU is test optional. Applicants who choose to submit scores may self-report them on the Common App or Coalition App; enrolling students who submitted unofficial scores must then send official score reports. Either SAT or ACT; writing not required; ACT science optional.",
+  "since": null,
+  "url": "https://admissions.washu.edu/how-to-apply/first-year-us-applicants/",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "No Common Data Set published; the class profile gives no GPA (88% of students reporting rank were in the top 10% of their class)",
+  "url": "https://admissions.washu.edu/life-at-washu/incoming-class-profile/"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71310,
+  "fees": 1412,
+  "housingFood": 24272,
+  "books": 1412,
+  "personal": 2804,
+  "travel": 1050,
+  "total": 102260,
+  "totalIncludes": "university charges 96,994 (tuition 71,310 + student activity fee 712 + student health and wellness fee 700 + average housing and food 24,272, modern double and Platinum meal plan) + other estimated expenses 5,266 (books and supplies 1,412 + travel 1,050 + miscellaneous 2,804). The total 102,260 is the sum of the two subtotals WashU publishes.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://financialaid.washu.edu/costs/",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "WashU meets 100% of demonstrated need without loans (no-loan policy) for all admitted students. Admission is need-blind for first-year U.S. citizen and permanent resident applicants (not for international, transfer or waitlist admits). The WashU Pledge gives a free education (tuition, fees, housing and food, guaranteed four years) to incoming full-time students from Missouri or 53 southern Illinois counties with family income of $75,000 or less.",
+  "year": "current policy as published in 2026",
+  "url": "https://financialaid.washu.edu/how-washu-helps/washu-pledge/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 2 (Early Action, decisions by December 23; Early Decision I, decisions by December 11); Early Decision II January 4 (decisions by February 12)",
+   "regular": "January 4 (decisions by April 1)"
+  },
+  "url": "https://admissions.washu.edu/how-to-apply/application-dates-deadlines/"
+ },
+ "facts": [
+  {
+   "text": "For fall 2027 applicants WashU has added a non-binding Early Action round (November 2) alongside Early Decision I (November 2), Early Decision II (January 4) and Regular Decision (January 4).",
+   "url": "https://admissions.washu.edu/how-to-apply/application-dates-deadlines/"
+  },
+  {
+   "text": "For the Class of 2030 (fall 2026), 4,057 of 33,214 applicants were admitted (12%) and 1,941 are enrolling, 1,330 of them in Arts and Sciences and 300 in Engineering.",
+   "url": "https://admissions.washu.edu/life-at-washu/incoming-class-profile/"
+  },
+  {
+   "text": "Missouri and southern Illinois students from families earning $75,000 or less attend free under the WashU Pledge, covering tuition, fees, housing and food for four years.",
+   "url": "https://financialaid.washu.edu/how-washu-helps/washu-pledge/"
+  },
+  {
+   "text": "School scholarships and Signature Scholar Programs are awarded after the Early Decision II notification date, so WashU recommends Regular Decision for students who need an academic scholarship to attend; priority scholarship applications are due December 16.",
+   "url": "https://admissions.washu.edu/how-to-apply/first-year-us-applicants/"
+  },
+  {
+   "text": "37% of the Class of 2030 enrolled without submitting test scores.",
+   "url": "https://admissions.washu.edu/life-at-washu/incoming-class-profile/"
+  },
+  {
+   "text": "University charges for 2026-27 total $96,994, and $102,260 with estimated books, travel and personal costs.",
+   "url": "https://financialaid.washu.edu/costs/"
+  }
+ ],
+ "notes": "WashU does not publish a Common Data Set on any page reached (provost Institutional Research and Institutional Effectiveness pages list no CDS; irads.wustl.edu does not resolve). No fall 2025 (Class of 2029) official profile is online any more: the admissions profile page now shows the Class of 2030. So 'cycle' is null and the newest official numbers are in 'cycleNewer' (enrolling count as of 2026-09-21, not a final census). Archive services were not used. Score medians, SAT/ACT split, section scores and GPA are not published. cost.fees = 712 + 700 = 1,412 (the same amount as books and supplies, by coincidence)."
+}
