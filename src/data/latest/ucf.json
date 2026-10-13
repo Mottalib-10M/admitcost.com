@@ -1,0 +1,148 @@
+{
+ "slug": "ucf",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 59629,
+  "admitted": 25522,
+  "enrolled": 8103,
+  "doc": "University of Central Florida Common Data Set 2025-2026, C1",
+  "url": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    46049,
+    21823,
+    7417
+   ],
+   "outOfState": [
+    11215,
+    3124,
+    530
+   ],
+   "international": [
+    2365,
+    575,
+    156
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 2966,
+   "accepted": 2157,
+   "admitted": 343
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1220,
+   1280,
+   1350
+  ],
+  "satEbrw": [
+   620,
+   650,
+   690
+  ],
+  "satMath": [
+   590,
+   630,
+   680
+  ],
+  "act": [
+   25,
+   28,
+   30
+  ],
+  "pctSat": 0.739,
+  "pctAct": 0.258,
+  "doc": "CDS 2025-2026, C9 (5,788 SAT submitters, 2,024 ACT submitters)",
+  "url": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "Official SAT, ACT or CLT scores are required of first-year applicants (CDS C8A for fall 2027: SAT or ACT required to be considered; C8F: the CLT can be submitted as an alternative). SAT and ACT scores are valid if taken within the last five years; the ACT Science section is optional.",
+  "since": null,
+  "url": "https://www.ucf.edu/admissions/undergraduate/freshman/",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 4.18,
+  "pctSubmitting": 1.0,
+  "doc": "CDS 2025-2026, C12 (weighted; 70.0% of enrolled first-years reported a GPA of 4.0 or higher in C11)",
+  "url": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "Office of Student Financial Assistance, Fall and Spring 2026-2027 undergraduate cost of attendance, main and regional campuses, living on campus, based on 28 credit hours: tuition and fees (including the $10 annual ID fee), books, housing 8,750, food 6,170, transportation, personal expenses. No separate required fees: Florida bills fees inside the per-credit tuition.",
+  "inState": {
+   "tuition": 5954,
+   "fees": null,
+   "housingFood": 14920,
+   "books": 1200,
+   "personal": 3104,
+   "travel": 1094,
+   "total": 26272,
+   "note": "CDS 2025-26 G1 lists 2026-27 tuition of 6,368 for 30 credit hours (per credit 212.28) and food and housing of 12,436 (double room and maximum meal plan basis)"
+  },
+  "outOfState": {
+   "tuition": 24960,
+   "fees": null,
+   "housingFood": 14920,
+   "books": 1200,
+   "personal": 3104,
+   "travel": 1094,
+   "total": 45278,
+   "note": "CDS 2025-26 G1 lists 2026-27 nonresident tuition of 26,732 for 30 credit hours (per credit 891.07)"
+  },
+  "url": "https://www.ucf.edu/financial-aid/cost-of-attendance/",
+  "url2": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": null,
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "October 15 (Early Action for summer and fall 2027, materials by November 15, decisions December 4; outcomes Admit, Pathway Admit, Defer or Deny)",
+   "regular": "May 1 (Regular Decision for fall, rolling notifications from January)"
+  },
+  "url": "https://www.ucf.edu/admissions/undergraduate/freshman/"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, UCF admitted 21,823 of 46,049 Florida applicants and 3,124 of 11,215 out-of-state applicants; 7,417 of the 8,103 enrolled first-years were Floridians.",
+   "url": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf"
+  },
+  {
+   "text": "For summer and fall 2026 combined, UCF reports 70,030 applications and 28,612 students admitted, with a middle 50% SAT of 1310-1420, ACT of 28-32 and GPA of 4.11-4.57 among admitted students.",
+   "url": "https://www.ucf.edu/admissions/undergraduate/resources/counselors"
+  },
+  {
+   "text": "Students who meet every Early Action deadline (October 15) get priority consideration for merit scholarships, and UCF warns that scholarship funding for first-year students is usually exhausted by mid-January.",
+   "url": "https://www.ucf.edu/admissions/undergraduate/freshman/"
+  },
+  {
+   "text": "Letters of recommendation are neither required nor considered in UCF's general first-year admission process.",
+   "url": "https://www.ucf.edu/admissions/undergraduate/resources/counselors"
+  },
+  {
+   "text": "DirectConnect to UCF guarantees admission, consistent with university policy, to students who finish an associate degree (A.A.) or a statewide articulated A.S. at a partner state college.",
+   "url": "https://directconnect.ucf.edu/"
+  },
+  {
+   "text": "For fall 2025, 2,157 students accepted a place on UCF's waiting list and 343 of them were admitted.",
+   "url": "https://analytics.ucf.edu/wp-content/uploads/2026/07/Common-Data-Set-2025-2026.pdf"
+  }
+ ],
+ "notes": "C1 from CDS 2025-26 (PDF uploaded July 2026; an earlier March 2026 upload also exists): applied 25,767 men + 33,853 women + 9 unknown = 59,629; admitted 11,777 + 13,743 + 2 = 25,522; enrolled 4,123 + 3,979 + 1 = 8,103. The 2026 admitted profile (70,030 / 28,612) counts summer and fall 2026 applications as UCF's admissions office reports them, not a CDS C1 count, so it is kept as a fact and not as cycleNewer. Cost from the 2026-27 cost of attendance page (28 credit hours); the CDS G1 figures (30 credit hours) are in the notes of each column. No institution-wide aid promise found; Florida's Bright Futures is a state program and was not verified on an official page. C21: no Early Decision; C22: Early Action closing 10/15, notification 12/4, not restrictive."
+}

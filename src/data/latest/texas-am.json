@@ -1,0 +1,146 @@
+{
+ "slug": "texas-am",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 62967,
+  "admitted": 32531,
+  "enrolled": 12484,
+  "doc": "Texas A&M University Common Data Set 2025-2026 (HTML), C1",
+  "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    49156,
+    26620,
+    11694
+   ],
+   "outOfState": [
+    10882,
+    4489,
+    632
+   ],
+   "international": [
+    2929,
+    1422,
+    158
+   ],
+   "order": "applied, admitted, enrolled"
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1160,
+   1280,
+   1390
+  ],
+  "satEbrw": [
+   580,
+   640,
+   690
+  ],
+  "satMath": [
+   570,
+   640,
+   710
+  ],
+  "act": [
+   24,
+   28,
+   32
+  ],
+  "pctSat": 0.7672,
+  "pctAct": 0.1868,
+  "doc": "CDS 2025-2026, C9 (9,605 SAT submitters, 2,339 ACT submitters)",
+  "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Texas A&M University is test optional and will not require ACT or SAT scores for freshman applicants; students with scores are encouraged to send them through the testing agency, and the highest total score from a single test date is considered. CDS C8A for fall 2027 applicants: not required, but considered if submitted.",
+  "since": null,
+  "url": "https://admissions.tamu.edu/apply/freshman/index.html",
+  "url2": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 reported N/A",
+  "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "CDS section G for the full 2026-27 academic year, first-year column: tuition + required fees + food and housing on campus (housing 8,844 + food 4,100), plus G5 books and supplies, transportation and other expenses. No total is published: the financial aid office directs students to a tuition calculator.",
+  "inState": {
+   "tuition": 8886,
+   "fees": 3970,
+   "housingFood": 12944,
+   "books": 882,
+   "personal": 3252,
+   "travel": 1692,
+   "total": null,
+   "note": "all-undergraduate column tuition 8,908; tuition varies by major"
+  },
+  "outOfState": {
+   "tuition": 36877,
+   "fees": 3970,
+   "housingFood": 12944,
+   "books": 882,
+   "personal": 3252,
+   "travel": 1692,
+   "total": null
+  },
+  "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Aggie Assurance: for students whose family income is $60,000 or less, tuition and fees are covered by grants and/or scholarships (fees added from fall 2023); students with family income above $60,000 and up to $130,000 can receive tuition support grants of $500 to $1,500 (College Station only).",
+  "year": "since 2008; expanded fall 2021 and fall 2023",
+  "url": "https://aggie.tamu.edu/paying-for-college/cost-of-attendance/affordability.html"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": null,
+   "regular": "December 1 (fall, College Station; documents by December 15; decisions roll from September for top 10% applicants and from October for holistic review)"
+  },
+  "url": "https://admissions.tamu.edu/apply/freshman/index.html"
+ },
+ "facts": [
+  {
+   "text": "Texas residents in the top 10 percent of their graduating class are automatically admitted to Texas A&M; decisions for them start in September.",
+   "url": "https://admissions.tamu.edu/apply/freshman/index.html"
+  },
+  {
+   "text": "Texas A&M admitted 32,531 of 62,967 first-year applicants for fall 2025, including 26,620 of 49,156 Texans and 4,489 of 10,882 out-of-state applicants.",
+   "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html"
+  },
+  {
+   "text": "Engineering applicants, including automatic top-10-percent admits, are reviewed separately for placement into General Engineering.",
+   "url": "https://admissions.tamu.edu/apply/freshman/index.html"
+  },
+  {
+   "text": "Families earning $60,000 or less have tuition and fees covered under Aggie Assurance.",
+   "url": "https://aggie.tamu.edu/paying-for-college/cost-of-attendance/affordability.html"
+  },
+  {
+   "text": "Testing is optional: the ACT or SAT is not required, and the highest total from a single test date is used if sent.",
+   "url": "https://admissions.tamu.edu/apply/freshman/index.html"
+  },
+  {
+   "text": "In 2026-27 a non-resident pays 36,877 in first-year tuition against 8,886 for a Texan, plus 3,970 in required fees.",
+   "url": "https://abpa.tamu.edu/accountability-rankings/common-data-set.html"
+  }
+ ],
+ "notes": "Cycle from the HTML CDS 2025-26 C1 (31,337 + 31,630 = 62,967 applied; 16,375 + 16,156 = 32,531 admitted; 6,334 + 6,150 = 12,484 enrolled, of which 1,702 part-time). The abpa.tamu.edu site returns 404 to a bare curl user agent and works with a browser user agent. No waiting list (C2). C22 says Early Action Yes with 'October 15th' and dates N/A, but the admissions page shows October 15 as the spring deadline and December 1 as the fall deadline with rolling decisions; no EA plan is recorded for fall. C12 GPA N/A. No official cost-of-attendance table found (tuition calculator only); the affordability page still quotes a 2024-25 estimate of about 29,684 in-state. No official fall 2026 class numbers recorded."
+}

@@ -63,24 +63,30 @@
     "total": null,
     "totalIncludes": "Estimated 2026-27 cost of attendance, published as ranges (tuition varies by college and major): tuition + housing and food + transportation + books, course materials, supplies and equipment + personal/miscellaneous. UT's flat-rate tuition includes required fees.",
     "inState": {
-      "tuition": "10858-13576",
+      "tuition": null,
       "fees": null,
-      "housingFood": "15420-15580",
+      "housingFood": null,
       "books": 724,
       "personal": 3666,
       "travel": 1840,
-      "total": "32508-35386",
-      "note": "resident living on or off campus; CDS G1 2026-27 gives in-district tuition 11,656"
+      "total": null,
+      "note": "resident living on or off campus; CDS G1 2026-27 gives in-district tuition 11,656",
+      "totalRange": "32508-35386",
+      "tuitionRange": "10858-13576",
+      "housingFoodRange": "15420-15580"
     },
     "outOfState": {
-      "tuition": "42554-51106",
+      "tuition": null,
       "fees": null,
-      "housingFood": "15420-15580",
+      "housingFood": null,
       "books": 724,
       "personal": 3666,
       "travel": 1840,
-      "total": "64204-72916",
-      "note": "CDS G1 2026-27 gives out-of-state tuition 44,816"
+      "total": null,
+      "note": "CDS G1 2026-27 gives out-of-state tuition 44,816",
+      "totalRange": "64204-72916",
+      "tuitionRange": "42554-51106",
+      "housingFoodRange": "15420-15580"
     },
     "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/",
     "accessed": "2026-10-13"
@@ -127,5 +133,5 @@
       "url": "https://utexas.box.com/s/z5p8zzbr6yk4eluam3v3dt2wyaha3cja"
     }
   ],
-  "notes": "Cycle from CDS 2025-26 C1 (45,923 + 44,735 + 32 = 90,690 applied; 8,704 + 11,449 + 1 = 20,154 admitted; 4,097 + 5,803 = 9,900 enrolled, 155 part-time); residency table sums match. The PDF (downloaded from the Box link on reports.utexas.edu) has no values in C9 (test scores), C11-C12 (GPA) or C21-C22 dates in its text layer; C21 ED = No, C22 shows N/A. Cost page publishes ranges, recorded as strings. No official fall 2026 class numbers recorded."
+  "notes": "Cycle from CDS 2025-26 C1 (45,923 + 44,735 + 32 = 90,690 applied; 8,704 + 11,449 + 1 = 20,154 admitted; 4,097 + 5,803 = 9,900 enrolled, 155 part-time); residency table sums match. The PDF (downloaded from the Box link on reports.utexas.edu) has no values in C9 (test scores), C11-C12 (GPA) or C21-C22 dates in its text layer; C21 ED = No, C22 shows N/A. Cost page publishes ranges, recorded as strings. No official fall 2026 class numbers recorded. Cost ranges are kept in tuitionRange, housingFoodRange and totalRange (strings); the numeric fields are null because UT publishes no single figure."
 }
