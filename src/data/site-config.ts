@@ -1,5 +1,5 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://us-college-cost.example";
+export const SITE_URL = "https://admitcost.com";
 export const SITE_NAMES: Record<string, string> = {"en": "AdmitCost"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-US"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_US"};
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners reads 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["College acceptance rates", "SAT and ACT score ranges", "College cost of attendance", "Net price by family income", "ACT to SAT concordance"]};
-export const CONTACT_EMAIL = "contact@us-college-cost.example";
+export const CONTACT_EMAIL = "contact@admitcost.com";
 export const THEME_COLOR = '#9B2335';
 export const LOGO_SYMBOL = 'U$';
 export const BING_VERIFY_CODE = '';
