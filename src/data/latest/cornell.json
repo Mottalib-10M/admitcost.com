@@ -1,0 +1,118 @@
+{
+ "slug": "cornell",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 72523,
+  "admitted": 6077,
+  "enrolled": 3827,
+  "doc": "Cornell University Common Data Set 2025-2026 (v2 Excel; PDF version also published), C1 (36,834 men + 35,687 women + 2 unknown applied; 2,794 + 3,282 + 1 admitted; 1,806 + 2,020 + 1 enrolled)",
+  "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1490,
+   1530,
+   1550
+  ],
+  "satEbrw": [
+   730,
+   750,
+   770
+  ],
+  "satMath": [
+   770,
+   790,
+   800
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.43,
+  "pctAct": 0.13,
+  "doc": "CDS 2025-2026, C9 (1,639 SAT submitters, 486 ACT submitters)",
+  "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "First-year applicants are required to submit SAT or ACT scores (self-reporting allowed; SAT and ACT superscored; ACT Science not required). Transfer applicants do not need scores.",
+  "since": null,
+  "url": "https://admissions.cornell.edu/policies/standardized-testing-policy",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C11-C12 not reported (C10: 84% of rank-reporting enrollees in top tenth; 12% reported rank)",
+  "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 73946,
+  "fees": 1024,
+  "housingFood": 21348,
+  "books": 1234,
+  "personal": 2182,
+  "travel": "varies",
+  "total": 99734,
+  "totalIncludes": "Endowed colleges (and contract colleges for non-New York residents): tuition 73,946 + mandatory fees 1,024 (student activity 424 + Cornell Health 600) + housing 13,744 + food 7,604 (billed 96,318) + books and course materials 1,234 + personal 2,182. Transportation varies and is not in the total; Student Health Plan not included. New York residents in the NY State contract colleges: tuition 49,816, total 75,604.",
+  "inState": null,
+  "outOfState": null,
+  "contractCollegeNyResident": {
+   "tuition": 49816,
+   "fees": 1024,
+   "housingFood": 21348,
+   "books": 1234,
+   "personal": 2182,
+   "total": 75604
+  },
+  "url": "https://finaid.cornell.edu/cost-attend",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Cornell meets 100 percent of demonstrated financial need for all eligible undergraduates. Most families with total annual income up to $75,000 and typical assets get $0 expected student and parent contributions and no student loans (grant aid plus a $5,000 work-study award). Above $75,000, aid offers include low loans capped at $2,000 ($75,001 to $125,000), $4,000 ($125,001 to $175,000) or $6,000 (above $175,000). These initiatives apply regardless of state residency or citizenship.",
+  "year": "2026-27",
+  "url": "https://finaid.cornell.edu/affordability"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Decision, binding, decisions mid-December)",
+   "regular": "January 2 (decisions early April)"
+  },
+  "url": "https://admissions.cornell.edu/how-to-apply/first-year-applicants"
+ },
+ "facts": [
+  {
+   "text": "New York residents pay much less in Cornell's NY State contract colleges and schools (Agriculture and Life Sciences, Dyson School, Human Ecology, ILR, and Brooks School BS programs): 2026-27 tuition is $49,816 instead of $73,946.",
+   "url": "https://finaid.cornell.edu/cost-attend"
+  },
+  {
+   "text": "New York applicants were admitted at a much higher rate for fall 2025: 1,720 of 12,978 (13.3%), against 3,693 of 40,979 other US applicants (9.0%) and 664 of 18,566 international applicants (3.6%).",
+   "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx"
+  },
+  {
+   "text": "Early Decision is a big lever: 1,889 of 10,057 Early Decision applicants were admitted for fall 2025 (18.8%), against 4,188 of the other 62,466 applicants (6.7%); ED filled 31% of the admitted class.",
+   "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx"
+  },
+  {
+   "text": "Students apply to one specific undergraduate college or school at Cornell, each with its own requirements and selectivity.",
+   "url": "https://admissions.cornell.edu/academics/colleges-schools-and-academic-areas-interest"
+  },
+  {
+   "text": "Unlike most Ivy League peers, Cornell still packages student loans above $75,000 of family income, capped at $2,000 to $6,000 a year depending on income.",
+   "url": "https://finaid.cornell.edu/affordability"
+  },
+  {
+   "text": "Cornell's waiting list is large: 9,720 applicants were offered a place for fall 2025, 6,598 accepted and 254 were admitted.",
+   "url": "https://irp.cornell.edu/wp-content/uploads/2026/09/CDS-Cornell-2025-2026-v2.xlsx"
+  }
+ ],
+ "notes": "The CDS PDF (https://irp.cornell.edu/wp-content/uploads/2026/09/Cornell-Common-Data-Set-2025-26.pdf) uses form fields that pypdf cannot read, so figures were read from the official Excel version (CDS-C sheet and Answer Sheet; the Answer Sheet misaligns C21, so ED counts were taken from the CDS-C form: 10,057 applications, 1,889 admitted). The fall 2025 SAT/ACT submission rates (43%/13%) are low because that class applied before the current requirement; testPolicy.since null because the policy page gives no start date (web search quota exhausted, announcement not located). The finaid cost page shows three 2026-27 tabs (endowed, contract non-NY, contract NY) though a heading also says 2025-26; the 2026-27 tuition 73,946 matches CDS G1 for 2026-27. cost.contractCollegeNyResident is an extra field for the NY resident contract-college rate. Contract-college list per the cost page: CALS, Dyson School, Human Ecology, ILR, Brooks School BS candidates. No Class of 2030 official counts found. Accessed 2026-10-13."
+}

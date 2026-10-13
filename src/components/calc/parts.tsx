@@ -58,7 +58,7 @@ export function Result({ label, figure, sub, children }: { label: string; figure
 
 export function Rows({ rows }: { rows: Array<[string, string] | [string, string, boolean]> }) {
   return (
-    <table className="mt-4 w-full text-sm"><tbody className="divide-y divide-navy-200">
+    <table data-chrome className="mt-4 w-full text-sm"><tbody className="divide-y divide-navy-200">
       {rows.map(([l, v, strong]) => <tr key={l}><td className={`py-1.5 pr-3 ${strong ? 'font-semibold text-navy-900' : 'text-navy-700'}`}>{l}</td><td className={`tabular-nums py-1.5 text-right text-navy-900 ${strong ? 'font-semibold' : ''}`}>{v}</td></tr>)}
     </tbody></table>
   );

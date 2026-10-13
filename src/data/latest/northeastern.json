@@ -1,0 +1,106 @@
+{
+ "slug": "northeastern",
+ "cycle": {
+  "label": "Fall 2024 entering class (Class of 2028), fallback: CDS 2025-2026 not published",
+  "applicants": 98425,
+  "admitted": 5133,
+  "enrolled": 2759,
+  "doc": "Northeastern University Common Data Set 2024-2025, C1 (residency table totals)",
+  "url": "http://uds.northeastern.edu/wp-content/uploads/2026/03/CDS-2024-25.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1450,
+   1490,
+   1520
+  ],
+  "satEbrw": [
+   710,
+   730,
+   760
+  ],
+  "satMath": [
+   730,
+   760,
+   780
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.24,
+  "pctAct": 0.07,
+  "doc": "CDS 2024-2025, C9, fall 2024 enrolled (653 SAT submitters, 203 ACT submitters)",
+  "url": "http://uds.northeastern.edu/wp-content/uploads/2026/03/CDS-2024-25.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Northeastern University is test-optional, and standardized test scores are not required to complete an application for admission.",
+  "since": null,
+  "url": "https://admissions.northeastern.edu/application-information/how-to-apply/",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2024-2025, C12 (left blank)",
+  "url": "http://uds.northeastern.edu/wp-content/uploads/2026/03/CDS-2024-25.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71050,
+  "fees": 1650,
+  "housingFood": 22822,
+  "books": 1000,
+  "personal": 900,
+  "travel": 900,
+  "total": 98322,
+  "totalIncludes": "first-year students on the Boston, New York City or Oakland campuses: tuition 71,050 + fees 1,650 + housing 13,612 + food 9,210 + books and course materials 1,000 + personal 900 + transportation 900 = 98,322 (estimated annual direct and indirect costs, subject to Board of Trustee approval). Different totals apply to first-years who start in the N.U.in program abroad or the London Scholars Program.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://admissions.northeastern.edu/cost-financial-aid/",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Northeastern remains committed to meeting the full demonstrated financial need for every undergraduate student who attends the university; it invested a record $511 million in financial aid (not loans) for 2025-26.",
+  "year": "2025-26",
+  "url": "https://news.northeastern.edu/2025/10/31/enrollment-financial-aid-2025-26/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Decision I, decision by January 1; Early Action, decision by February 15); January 1 (Early Decision II, decision by March 1)",
+   "regular": "January 1 (decision by April 1)"
+  },
+  "url": "https://admissions.northeastern.edu/application-information/admissions-deadlines-decisions/"
+ },
+ "facts": [
+  {
+   "text": "Northeastern is one of the most applied-to private universities: 105,283 first-year applicants for fall 2025 and 106,300 for fall 2026, while fall 2024 saw 5,133 admits from 98,425 applicants.",
+   "url": "https://news.northeastern.edu/2026/10/07/northeastern-enrollment-financial-aid-2026-27/"
+  },
+  {
+   "text": "The co-op program places students in six-month professional jobs, so graduates leave with up to 18 months of work experience; 58 percent are offered a job by a previous co-op employer.",
+   "url": "https://news.northeastern.edu/2026/10/07/northeastern-enrollment-financial-aid-2026-27/"
+  },
+  {
+   "text": "Some admits start their first year abroad: the N.U.in fall semester costs $46,600 in direct costs (tuition plus a program fee covering housing and flights) and is not eligible for federal aid; the London Scholars year costs $93,200 in direct costs.",
+   "url": "https://admissions.northeastern.edu/cost-financial-aid/"
+  },
+  {
+   "text": "Northeastern offers four rounds: binding Early Decision I (November 1) and II (January 1), non-binding Early Action (November 1) and Regular Decision (January 1); in fall 2024, 1,492 of 3,466 ED applicants were admitted.",
+   "url": "http://uds.northeastern.edu/wp-content/uploads/2026/03/CDS-2024-25.pdf"
+  },
+  {
+   "text": "Testing is optional and only 24 percent of the fall 2024 enrolled class submitted SAT scores; the university reports an average two-part SAT of 1480 and an average high school GPA of 4.2 for the Class of 2029.",
+   "url": "https://news.northeastern.edu/2025/10/31/enrollment-financial-aid-2025-26/"
+  }
+ ],
+ "notes": "The Common Data Set page (https://uds.northeastern.edu/university-facts/common-data-set/) lists CDS up to 2024-25 only (CDS-2025-26.pdf returns 404). No official fall 2025 count of admits and enrolled was found: Northeastern Global News gives only 105,283 applicants for fall 2025 (average SAT 1480, average GPA 4.2) and 106,300 applicants for fall 2026, so the cycle falls back to CDS 2024-25 (fall 2024). C1 fall 2024: applied 42,678 men + 55,719 women + 28 unknown = 98,425; admitted 2,058 + 3,074 + 1 = 5,133; enrolled 1,089 + 1,667 + 3 = 2,759; residency: in-state 12,304 applied / 1,332 admitted / 737 enrolled. CDS C12 GPA left blank. Fall 2024 scores, not fall 2025. Aid promise taken from the university news office (2025-10-31); the admissions cost page did not state it. Test-optional start date not stated."
+}

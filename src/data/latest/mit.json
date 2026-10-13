@@ -1,0 +1,110 @@
+{
+ "slug": "mit",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 29281,
+  "admitted": 1334,
+  "enrolled": 1152,
+  "doc": "MIT Common Data Set 2025-26 (HTML publication of MIT Institutional Research), C1 (18,101 men + 9,389 women + 1,791 unknown applied; 632 + 638 + 64 admitted; 561 + 535 + 56 enrolled)",
+  "url": "https://ir.mit.edu/projects/2025-26-common-data-set/",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1520,
+   1550,
+   1570
+  ],
+  "satEbrw": [
+   740,
+   760,
+   780
+  ],
+  "satMath": [
+   780,
+   790,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.83,
+  "pctAct": 0.31,
+  "doc": "CDS 2025-26, C9 (951 SAT submitters, 353 ACT submitters)",
+  "url": "https://ir.mit.edu/projects/2025-26-common-data-set/"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "MIT requires the SAT or the ACT for both first-year and transfer applicants; all sittings are self-reported and MIT superscores. Tests must be taken before November 30 (Early Action) or December 31 (Regular Action).",
+  "since": null,
+  "url": "https://mitadmissions.org/apply/firstyear/tests-scores/",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-26, C11-C12 reported as N/Av",
+  "url": "https://ir.mit.edu/projects/2025-26-common-data-set/"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 66720,
+  "fees": 420,
+  "housingFood": 22194,
+  "books": 930,
+  "personal": 2496,
+  "travel": null,
+  "total": 92760,
+  "totalIncludes": "tuition 66,720 (covers specific non-waivable health services) + student life fee 420 + housing 14,090 + food 8,104 (most expensive meal plan, 21 meals a week) + books/course materials/supplies 930 + personal 2,496. Travel is not included (specific to address). MIT Student Health Insurance Plan is charged unless waived (not in the total). All first-year students must live on campus.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/annual-student-budget/",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Beginning with 2025-26, students whose family income is under $200,000 a year (with typical assets) attend MIT tuition-free, and families with total income below $100,000 (typical assets) are not expected to contribute anything. MIT is need-blind and full-need: it meets 100% of demonstrated need for all four years.",
+  "year": "2025-26 onward",
+  "url": "https://mitadmissions.org/afford/basics/"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Action, non-restrictive, decisions mid-December)",
+   "regular": "January 4 (Regular Action, decisions mid-March)"
+  },
+  "url": "https://mitadmissions.org/apply/firstyear/deadlines-requirements/"
+ },
+ "facts": [
+  {
+   "text": "MIT's Early Action is non-binding and non-restrictive: for the Class of 2029, 721 of 12,052 Early Action applicants were admitted (6.0%), 7,486 were deferred and 175 of those were admitted later; Regular Action admitted 603 of 24,715 considered.",
+   "url": "https://mitadmissions.org/apply/process/stats/"
+  },
+  {
+   "text": "International applicants face much longer odds: 136 of 6,926 were admitted for the Class of 2029 (2.0%), against 1,198 of 22,355 US citizens and permanent residents (5.4%).",
+   "url": "https://mitadmissions.org/apply/process/stats/"
+  },
+  {
+   "text": "Families earning under $200,000 attend tuition-free and under $100,000 pay nothing, starting with 2025-26.",
+   "url": "https://mitadmissions.org/afford/basics/"
+  },
+  {
+   "text": "MIT's 2026-27 cost of attendance is $92,760 before travel, and MIT states that even students paying full tuition attend at about a 50% discount relative to its institutional cost.",
+   "url": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/annual-student-budget/"
+  },
+  {
+   "text": "Applicants may apply only once per entry year, in either Early Action or Regular Action, and MIT does not use Early Decision.",
+   "url": "https://mitadmissions.org/apply/firstyear/deadlines-requirements/"
+  },
+  {
+   "text": "The waiting list is almost closed: 561 applicants were offered a place for fall 2025 and 10 were admitted.",
+   "url": "https://mitadmissions.org/apply/process/stats/"
+  }
+ ],
+ "notes": "MIT publishes its CDS as an HTML page; curl receives a stub, so values were read in Chrome from the page tables. Residency table in C1 is empty in the CDS (MIT's admissions stats page gives US vs international). CDS C14 lists Jan. 1 as the fall 2025 RA closing date; the current admissions page gives January 4. testPolicy.since null: MIT reinstated the requirement (blog linked from the tests page) but the page I opened gives no date and I did not open the blog. Need-blind status for international applicants not stated on the page opened, so not claimed. No Class of 2030 official stats found (stats page still shows the Class of 2029). Accessed 2026-10-13."
+}

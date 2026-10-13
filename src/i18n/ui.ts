@@ -9,6 +9,6 @@ const en = {
   footerPopular: 'Most searched universities',
   notFound: 'This address leads nowhere on the site. The odds and net price calculator, the comparison of two or three universities and the ACT to SAT conversion are one click away.',
   readMore: 'Read the full answer',
-  estimate: 'Averages, not offers: an admit rate describes last year’s applicant pool and a net price is what aided families paid on average. Essays, grades, course rigor, major, residency and the aid formula of each school change the result for one student. The university’s own net price calculator and award letter decide.',
+  estimate: 'Averages, not offers: an admit rate describes last year’s applicant pool and a net price is what aided families paid on average. Essays, grades, course rigor, major, residency and the aid formula of each school change the result for one student. This page does not replace the university’s own net price calculator, its admission decision or its award letter.',
 };
 export function t(_lang: Locale) { return en; }

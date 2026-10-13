@@ -1,0 +1,106 @@
+{
+ "slug": "stanford",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 60646,
+  "admitted": 2302,
+  "enrolled": 1839,
+  "doc": "Stanford University Common Data Set 2025-2026, C1 (31,609 men + 29,011 women + 26 unknown applied; 1,162 + 1,140 admitted; 945 + 894 enrolled)",
+  "url": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1520,
+   1550,
+   1570
+  ],
+  "satEbrw": [
+   750,
+   760,
+   780
+  ],
+  "satMath": [
+   770,
+   790,
+   800
+  ],
+  "act": [
+   34,
+   35,
+   36
+  ],
+  "pctSat": 0.5557,
+  "pctAct": 0.2094,
+  "doc": "CDS 2025-2026, C9 (1,022 SAT submitters, 385 ACT submitters)",
+  "url": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "ACT or SAT scores are required; applicants self-report their highest scores and enrolling students send official scores. English proficiency tests cannot replace the ACT/SAT.",
+  "since": "applications for fall 2026 entry (CDS 2025-26 C8F: 'Stanford reinstated its standardized testing requirement beginning with applications for Fall 2026 entry')",
+  "url": "https://admission.stanford.edu/apply/first-year/testing.html",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.94,
+  "pctSubmitting": 0.696,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 67731,
+  "fees": 2610,
+  "housingFood": 22944,
+  "books": 855,
+  "personal": 3405,
+  "travel": "varies",
+  "total": 97545,
+  "totalIncludes": "Standard undergraduate budget, three quarters: tuition 67,731 + housing and food 22,944 + student fees allowance 2,610 (includes the mandatory 843 Campus Health Service Fee plus typical house dues, technology, activities, PO box and course materials fees) + books and supplies 855 + personal 3,405. Travel varies and is not in the total. New students also pay a 525 orientation fee and a 250 document fee.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://financialaid.stanford.edu/undergrad/budget/index.html",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "For parents with total annual income below $100,000 and typical assets, Stanford expects no parent contribution toward educational costs (students still contribute from summer and term-time work and savings). For parents with income below $150,000 and typical assets, the expected parent contribution is low enough that all tuition charges are covered by need-based aid. Home equity and retirement accounts are not counted as assets.",
+  "year": "current policy as published for 2026-27",
+  "url": "https://financialaid.stanford.edu/undergrad/how/parent.html"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": true,
+  "deadlines": {
+   "early": "November 1 (Restrictive Early Action, decision mid-December)",
+   "regular": "January 5"
+  },
+  "url": "https://admission.stanford.edu/apply/first-year/decision_process.html"
+ },
+ "facts": [
+  {
+   "text": "Stanford reinstated required SAT or ACT scores starting with applications for fall 2026 entry; the fall 2025 class (55.6% SAT submitters) applied test optional.",
+   "url": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"
+  },
+  {
+   "text": "Restrictive Early Action bars applying early to any other private US college (even MIT's non-binding Early Action) and to any public university's binding plan; students denied in REA cannot reapply in Regular Decision.",
+   "url": "https://admission.stanford.edu/apply/first-year/decision_process.html"
+  },
+  {
+   "text": "Families with income below $100,000 and typical assets pay no parent contribution, and below $150,000 all tuition is covered.",
+   "url": "https://financialaid.stanford.edu/undergrad/how/parent.html"
+  },
+  {
+   "text": "The 2026-27 standard budget is $97,545 before travel, on a quarter calendar (Autumn, Winter, Spring).",
+   "url": "https://financialaid.stanford.edu/undergrad/budget/index.html"
+  },
+  {
+   "text": "For fall 2025, Stanford offered 669 applicants a waiting-list place; 573 accepted and 57 were admitted.",
+   "url": "https://drive.google.com/file/d/1GIPKgVj1d86dkmLkHI_mZVCk_iY6kiCp/view"
+  }
+ ],
+ "notes": "CDS 2025-26 is hosted on Google Drive, linked from https://irds.stanford.edu/data-findings/cds (link read in Chrome; the IRDS page is behind SAML for curl). PDF downloaded via the Drive export link. CDS C1 residency table not filled. C21: no Early Decision. Regular Decision deadline 1/5 taken from CDS C14 (fall 2025 cycle); the current decision-plans page confirms November 1 for REA but I did not find the RD date printed on it. Admission statistics page for the Class of 2030 was not reachable (404 at the paths tried), so cycleNewer is null. Need-blind status for international applicants not checked on an official page today, so not claimed. Accessed 2026-10-13."
+}

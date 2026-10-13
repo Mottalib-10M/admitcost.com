@@ -1,0 +1,138 @@
+{
+ "slug": "uc-santa-cruz",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 66374,
+  "admitted": 48274,
+  "enrolled": 4596,
+  "doc": "UC Santa Cruz Common Data Set 2025-2026, C1",
+  "url": "https://mediafiles.ucsc.edu/iraps/common-data-set/common-data-set-2025-26.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 first-year (preliminary)",
+  "applicants": 78832,
+  "admitted": 64867,
+  "enrolled": null,
+  "byResidency": {
+   "caResident": [
+    65600,
+    54157
+   ],
+   "domesticNonresident": [
+    6742,
+    5879
+   ],
+   "international": [
+    6490,
+    4831
+   ],
+   "order": "applied, admitted"
+  },
+  "doc": "UCOP Fall 2026 preliminary applications Table 1a (as of January 21, 2026) and admissions Table 1a (offers as of June 17, 2026)",
+  "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+  "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/table-1a-undergraduate-application-summary-counts.pdf",
+  "accessed": "2026-10-13"
+ },
+ "scores": {
+  "satComposite": null,
+  "satEbrw": null,
+  "satMath": null,
+  "act": null,
+  "pctSat": null,
+  "pctAct": null,
+  "doc": "CDS 2025-2026, C9 left blank (test-free admission)",
+  "url": "https://mediafiles.ucsc.edu/iraps/common-data-set/common-data-set-2025-26.pdf"
+ },
+ "testPolicy": {
+  "status": "blind",
+  "text": "UC will not consider SAT or ACT test scores when making admissions decisions or awarding scholarships. They may be used as an alternative method of fulfilling minimum requirements for eligibility or for course placement after you enroll. SAT and ACT scores may only be reported in the application post-submission.",
+  "since": "test-free since fall 2021 entry (Regents decision of May 2020, confirmed November 2021); applies to all UC campuses",
+  "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.87,
+  "pctSubmitting": 0.9926,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://mediafiles.ucsc.edu/iraps/common-data-set/common-data-set-2025-26.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "Entering students, on campus: tuition and fees 17,439 (15,588 tuition and Student Services Fee + 1,851 campus fees) + housing 15,120 + food 6,837 + books, course materials, supplies and equipment 1,212 + transportation 993 + miscellaneous personal 2,727 + campus health insurance (UC SHIP) 4,209. Non-residents add Non-Resident Tuition 39,270.",
+  "inState": {
+   "tuition": 15588,
+   "fees": 1851,
+   "housingFood": 21957,
+   "books": 1212,
+   "personal": 2727,
+   "travel": 993,
+   "health": 4209,
+   "total": 48537,
+   "note": "housingFood = housing 15,120 + food 6,837; health = UC SHIP, included in total"
+  },
+  "outOfState": {
+   "tuition": 54858,
+   "fees": 1851,
+   "housingFood": 21957,
+   "books": 1212,
+   "personal": 2727,
+   "travel": 993,
+   "health": 4209,
+   "total": 87807,
+   "note": "tuition = 15,588 + Non-Resident Tuition 39,270"
+  },
+  "url": "https://financialaid.ucsc.edu/cost-to-attend/undergraduate-costs.html",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Blue and Gold Opportunity Plan (California residents): most California families that earn up to $100,000 receive enough grant and scholarship funds to cover their UC tuition; tuition is set when the student first enrolls and stays the same for up to six years. Considered automatically with a FAFSA or California Dream Act Application and Cal Grant GPA Verification Form filed by March 2.",
+  "year": "current UC policy, page read 2026-10-13 (no year stated on the page)",
+  "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": null,
+   "regular": "November 30 (fall 2027 filing period October 1 to November 30, 2026; decisions by March 31, 2027)"
+  },
+  "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html"
+ },
+ "facts": [
+  {
+   "text": "UC Santa Cruz admitted 48,274 of 66,374 first-year applicants for fall 2025, and 4,596 enrolled.",
+   "url": "https://mediafiles.ucsc.edu/iraps/common-data-set/common-data-set-2025-26.pdf"
+  },
+  {
+   "text": "Preliminary fall 2026 figures from UCOP: 78,832 first-year applicants and 64,867 admits, including 54,157 of 65,600 California applicants.",
+   "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+  },
+  {
+   "text": "Tuition is locked by cohort: in 2026-27 an entering student pays 17,439 in tuition and fees, a student who started in 2025-26 pays 16,587 and one who started before 2022-23 pays 14,223.",
+   "url": "https://financialaid.ucsc.edu/cost-to-attend/undergraduate-costs.html"
+  },
+  {
+   "text": "A non-resident entering in 2026-27 on campus has a budget of 87,807 against 48,537 for a Californian, the gap being the 39,270 Non-Resident Tuition.",
+   "url": "https://financialaid.ucsc.edu/cost-to-attend/undergraduate-costs.html"
+  },
+  {
+   "text": "Every student is charged UC SHIP health insurance (4,209 in the 2026-27 budget) unless they file a waiver showing comparable coverage.",
+   "url": "https://financialaid.ucsc.edu/cost-to-attend/undergraduate-costs.html"
+  },
+  {
+   "text": "All UC campuses are test-free: SAT and ACT scores are not used for admission or for scholarships, so the odds depend on the A-G GPA, course rigor and the personal insight questions.",
+   "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 C1 (men 28,428 + women 34,971 + unknown 2,975 = 66,374 applied; 25,969 + 19,978 + 2,327 = 48,274 admitted; 2,081 + 2,370 + 145 = 4,596 enrolled). The PDF stores values in a layer whose position cannot be read reliably with pypdf, so the C1 residency breakdown (in-state 52,573 / 37,433 / 4,183 appear to be applied/admitted/enrolled; the out-of-state and international values could not be assigned to columns with certainty, and the extracted rows sum to 66,375 and 48,275, one more than the totals) is not recorded. C2: waiting list N/A. C12 GPA 3.87; percent submitting 99.26% read from the same layer (the only percentage outside the GPA distribution), flagged as likely but check against the PDF. No early plans (C21/C22 N/A). C9 blank: UC is test-free. Cost page warns figures are estimates and may not be final. UCOP fall 2026 counts are preliminary. Top-level cost fields null because in-state and out-of-state are given separately."
+}

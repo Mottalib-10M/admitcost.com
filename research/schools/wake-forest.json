@@ -1,0 +1,87 @@
+{
+  "slug": "wake-forest",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 19595,
+    "admitted": 4068,
+    "enrolled": 1544,
+    "doc": "Wake Forest University Common Data Set 2025-2026, C1 (fillable PDF form fields: men + women)",
+    "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2026/06/CDS_2025-2026-PDF_Template_WFU.pdf",
+    "accessed": "2026-10-12"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1420, 1450, 1490],
+    "satEbrw": [700, 730, 750],
+    "satMath": [700, 730, 760],
+    "act": [32, 33, 34],
+    "pctSat": 0.24,
+    "pctAct": 0.22,
+    "doc": "CDS 2025-2026, C9 (365 SAT submitters, 338 ACT submitters)",
+    "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2026/06/CDS_2025-2026-PDF_Template_WFU.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Wake Forest does not require the SAT or ACT (announced May 2008); international students whose first language is not English must submit TOEFL, IELTS or Duolingo. The university emphasizes interviews in its holistic review.",
+    "since": "class entering fall 2009",
+    "url": "https://admissions.wfu.edu/apply/test-optional/",
+    "accessed": "2026-10-12"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C12 (fields left blank; percent submitting reported as 0)",
+    "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2026/06/CDS_2025-2026-PDF_Template_WFU.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 71894,
+    "fees": 1276,
+    "housingFood": 20296,
+    "books": 1720,
+    "personal": 1930,
+    "travel": 1550,
+    "total": 98730,
+    "totalIncludes": "living on or off campus: tuition 71,894 + fees 1,276 (activity, wellness, health service) + housing 12,900 + food 7,396 + personal 1,930 + transportation 1,550 + federal direct loan average fee 64 + books, course materials, supplies and equipment 1,720 = 98,730. New students also pay a 380 orientation fee in the first semester (not in the total). The admissions page labels these 2026-27 costs.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://financialaid.wfu.edu/cost-of-attendance/undergraduate/",
+    "accessed": "2026-10-12"
+  },
+  "aidPromise": {
+    "text": "Wake Forest is committed to meeting 100 percent of demonstrated need with a combination of grants, scholarships, work study, and loans.",
+    "year": "2026-27",
+    "url": "https://admissions.wfu.edu/become-a-deacon/classof/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": true,
+    "rea": false,
+    "deadlines": { "early": "November 15 (Early Decision I, decisions on a rolling basis; Early Action for first-generation college students only, decision by January 15); January 1 (Early Decision II, decision by February 15)", "regular": "January 1 (decision around April 1)" },
+    "url": "https://admissions.wfu.edu/apply/"
+  },
+  "facts": [
+    {
+      "text": "Wake Forest has been test-optional since the class entering in fall 2009, one of the earliest highly selective universities to drop the requirement.",
+      "url": "https://admissions.wfu.edu/apply/test-optional/"
+    },
+    {
+      "text": "Early Decision I decisions are released on a rolling basis from early fall, and the non-binding Early Action round is reserved for first-generation college students.",
+      "url": "https://admissions.wfu.edu/apply/"
+    },
+    {
+      "text": "For fall 2025, Wake Forest admitted 4,068 of 19,595 first-year applicants and enrolled 1,544.",
+      "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2026/06/CDS_2025-2026-PDF_Template_WFU.pdf"
+    },
+    {
+      "text": "The 2026-27 estimated cost of attendance is $98,730, of which $73,170 is tuition and fees.",
+      "url": "https://admissions.wfu.edu/become-a-deacon/classof/"
+    },
+    {
+      "text": "Wake Forest meets 100 percent of demonstrated need, but the package can include work study and loans, and merit scholarships are described as very selective.",
+      "url": "https://admissions.wfu.edu/become-a-deacon/classof/"
+    }
+  ],
+  "notes": "The CDS 2025-26 PDF is a fillable form; values were read from its form fields. C1: applied 8,235 men + 11,360 women = 19,595; admitted 1,965 + 2,103 = 4,068; enrolled (full-time) 676 + 868 = 1,544; the CDS total fields themselves read 0 and the unknown-sex applied/admitted fields were not filled. CDS C21 reports ED I closing November 15 and ED II January 1 but leaves ED application and admit counts blank; C2 waiting-list counts blank. CDS G (2026-27) gives food 10,530 (board only) vs 7,396 on the financial aid page; the financial aid page was used. The financial aid page does not print the year, but its figures match the admissions page labelled 2026-27 (total 98,730). No official fall 2026 figures found. No residency counts in the CDS form."
+}

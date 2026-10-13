@@ -1,0 +1,112 @@
+{
+ "slug": "syracuse",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 46645,
+  "admitted": 22756,
+  "enrolled": 3969,
+  "doc": "Syracuse University Common Data Set 2025-2026, C1",
+  "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1300,
+   1350,
+   1410
+  ],
+  "satEbrw": [
+   650,
+   690,
+   720
+  ],
+  "satMath": [
+   640,
+   670,
+   710
+  ],
+  "act": [
+   29,
+   31,
+   33
+  ],
+  "pctSat": 0.23,
+  "pctAct": 0.08,
+  "doc": "CDS 2025-2026, C9 (929 SAT submitters, 327 ACT submitters)",
+  "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "SAT/ACT scores are not required for students applying for Fall 2026, Spring 2027, Fall 2027 or Spring 2028 admission. Students who choose not to submit test scores will not be disadvantaged and will remain eligible for merit scholarships.",
+  "since": "extended for fall 2026 entry by announcement of 2025-03-07 (https://news.syr.edu/2025/03/07/syracuse-university-extends-test-optional-policy-for-students-applying-for-fall-2026-admission/); the current page covers through spring 2028 entry",
+  "url": "https://www.syracuse.edu/admissions-aid/application-process/undergraduate/college-specific-requirements/",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.71,
+  "pctSubmitting": 0.9965,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 69180,
+  "fees": 1869,
+  "housingFood": 20580,
+  "books": 1847,
+  "personal": 1294,
+  "travel": 839,
+  "total": 95676,
+  "totalIncludes": "living on campus: tuition 69,180 + housing and food (average) 20,580 + miscellaneous fees 1,869 (includes the Residential Technology Service Fee) + books, course materials, supplies and equipment 1,847 + transportation 839 + personal 1,294 + loan fees 67 = 95,676. Health insurance 2,868 is mandatory unless waived, giving 98,544 with insurance. Estimates until approved by the Board of Trustees each May.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.syracuse.edu/admissions-aid/cost/undergraduate-costs/",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "No guaranteed full-need or no-loan promise. The financial aid office says Syracuse University 'strives to meet the financial need of admitted students'. The Say Yes to Education Scholarship covers tuition, fees and books for eligible Say Yes Syracuse students (Say Yes Buffalo for family income below $100,000; Say Yes Guilford and Cleveland below $75,000).",
+  "year": "2026-27",
+  "url": "https://financialaid.syr.edu/whoareyou/incomingfirstyearstudents/",
+  "url2": "https://financialaid.syr.edu/scholarships/su/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (ED I, decision typically before January 1; EA, new for fall 2027, decision early February)",
+   "ed2": "January 5 (decision mid-February)",
+   "regular": "January 5 (decision late March)"
+  },
+  "url": "https://www.syracuse.edu/admissions-aid/application-process/undergraduate/enrollment-options/"
+ },
+ "facts": [
+  {
+   "text": "Early Decision admitted 1,478 of 2,654 applicants (CDS 2025-26, C21), compared with 22,756 admits from 46,645 applicants overall.",
+   "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf"
+  },
+  {
+   "text": "Syracuse applies by college: Early Decision is binding only if the student is admitted to the first-choice college or program; an offer from a second-choice college can be weighed until May 1.",
+   "url": "https://www.syracuse.edu/admissions-aid/application-process/undergraduate/enrollment-options/early-decision/"
+  },
+  {
+   "text": "New York residents made up 13,154 applicants and 6,028 admits for fall 2025, against 29,307 applicants and 15,356 admits from other states and 4,184 applicants and 1,372 admits from abroad.",
+   "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf"
+  },
+  {
+   "text": "The waiting list is an active route in: 14,242 applicants were offered a place, 6,530 accepted it and 2,039 were admitted from it for fall 2025.",
+   "url": "https://effectiveness.syr.edu/wp-content/uploads/2026/09/CDS_2025-26_Complete.pdf"
+  },
+  {
+   "text": "First-year students must live in University housing for their first two years unless their family lives in the Syracuse area, so the on-campus cost of attendance ($95,676 in 2026-27, $98,544 with health insurance) applies for two years.",
+   "url": "https://www.syracuse.edu/admissions-aid/cost/undergraduate-costs/"
+  },
+  {
+   "text": "Early Action is new for applicants to fall 2027 (deadline November 1, non-binding), adding a third early option beside ED I and ED II.",
+   "url": "https://www.syracuse.edu/admissions-aid/application-process/undergraduate/enrollment-options/"
+  }
+ ],
+ "notes": "All CDS figures read from the PDF form fields of the 2025-26 CDS (published September 2026). C1 total applicants 46,645 = 18,168 men + 28,476 women + 1 unknown; admitted 22,756 = 8,888 + 13,868; enrolled 3,969 = 1,645 + 2,324. C21 ED counts are captioned 'For the Fall 2024 entering class' (template label). CDS C21 dates: ED I 11/1 (notification 1/1), ED II 1/5 (notification 2/1); C22 EA 11/1 (notification 2/1). CDS Part G gives the same 2026-27 tuition 69,180, fees 1,869, food and housing 20,580 and books 1,847 as the admissions cost page. A separate figure of 83,979 seen in search results is the 'living with parents' cost, not the on-campus total."
+}

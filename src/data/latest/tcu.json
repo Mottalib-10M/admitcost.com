@@ -1,0 +1,111 @@
+{
+ "slug": "tcu",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 22680,
+  "admitted": 10906,
+  "enrolled": 2754,
+  "doc": "Texas Christian University Common Data Set 2025-2026, C1",
+  "url": "https://ir.tcu.edu/wp-content/uploads/2026/03/CDS-2025-26-TCU.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1110,
+   1240,
+   1330
+  ],
+  "satEbrw": [
+   560,
+   630,
+   680
+  ],
+  "satMath": [
+   540,
+   620,
+   660
+  ],
+  "act": [
+   26,
+   30,
+   31
+  ],
+  "pctSat": 0.27,
+  "pctAct": 0.21,
+  "doc": "CDS 2025-2026, C9 (752 SAT submitters, 566 ACT submitters)",
+  "url": "https://ir.tcu.edu/wp-content/uploads/2026/03/CDS-2025-26-TCU.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "TCU is test-optional, with a 'Do No Harm' policy: if a submitted score would harm the likelihood of admission or scholarship, TCU excludes it from consideration. Self-reported scores are accepted.",
+  "since": null,
+  "url": "https://admissions.tcu.edu/apply/first-year/testing-policy-sat-act.php",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C11-C12 left blank by TCU",
+  "url": "https://ir.tcu.edu/wp-content/uploads/2026/03/CDS-2025-26-TCU.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 66520,
+  "fees": 90,
+  "housingFood": 18780,
+  "books": 700,
+  "personal": 2278,
+  "travel": 1374,
+  "total": 89810,
+  "totalIncludes": "on campus, fall 2026 and spring 2027, 12-18 hours: tuition 66,520 + Student Government Association fee 90 + housing and food 18,780 (typical first-year housing 12,080 + basic meal plan 6,700) + books and supplies 700 = published direct cost 86,090; plus indirect travel 1,374 + personal 2,278 + average loan fees 68. The page gives no grand total; 89,810 is the sum of its published lines. International students add health insurance 2,846.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://financialaid.tcu.edu/cost/cost-of-attendance/undergraduate.php",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "TCU for Texans: first-year fall applicants who are Texas residents and Pell Grant eligible with a family adjusted gross income of $100,000 or less (assuming reasonable assets) may receive full tuition coverage, additional food and housing assistance and guaranteed on-campus housing for four years; it does not cover fees and books. Applicants must complete the Early Action application, FAFSA and CSS Profile by November 1 for full consideration.",
+  "year": "from the fall 2026 entering class",
+  "url": "https://admissions.tcu.edu/afford/scholarship-aid/tcu-for-texans.php"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (EA, non-binding decision by January 1; ED I, binding decision by January 1, commit by January 15)",
+   "ed2": "February 1 (decision by March 1, commit by March 15)",
+   "regular": "February 1 (decision by April 1)"
+  },
+  "url": "https://admissions.tcu.edu/apply/first-year/index.php"
+ },
+ "facts": [
+  {
+   "text": "Early Decision admitted 935 of 1,373 applicants for fall 2025 (CDS C21), against 10,906 admits from 22,680 applicants overall.",
+   "url": "https://ir.tcu.edu/wp-content/uploads/2026/03/CDS-2025-26-TCU.pdf"
+  },
+  {
+   "text": "Texans and out-of-state students apply in equal numbers but out-of-state applicants are admitted more often: 4,663 of 10,757 Texas applicants versus 5,818 of 10,483 out-of-state applicants in fall 2025.",
+   "url": "https://ir.tcu.edu/wp-content/uploads/2026/03/CDS-2025-26-TCU.pdf"
+  },
+  {
+   "text": "TCU for Texans covers full tuition plus food and housing help for Pell-eligible Texas residents with family AGI of $100,000 or less, but only if they apply Early Action and file the FAFSA and CSS Profile by November 1.",
+   "url": "https://admissions.tcu.edu/afford/scholarship-aid/tcu-for-texans.php"
+  },
+  {
+   "text": "Chancellor's Scholars candidates should apply to TCU by November 1 and to the John V. Roach Honors College by November 15.",
+   "url": "https://admissions.tcu.edu/apply/first-year/index.php"
+  },
+  {
+   "text": "Under the 'Do No Harm' policy, a submitted SAT or ACT score that would lower an applicant's chances is excluded from review.",
+   "url": "https://admissions.tcu.edu/apply/first-year/testing-policy-sat-act.php"
+  },
+  {
+   "text": "For international applicants TCU is need-aware: those who can contribute at least $40,000 a year are the most competitive for admission.",
+   "url": "https://financialaid.tcu.edu/cost/cost-of-attendance/undergraduate.php"
+  }
+ ],
+ "notes": "C1 totals are sums: applied 8,705 men + 13,975 women = 22,680; admitted 3,868 + 7,038 = 10,906; enrolled 1,014 + 1,740 = 2,754; they match the residency table totals. CDS C21 ED counts are captioned 'For the Fall 2025 entering class'. CDS C21/C22 dates: ED I 11/1 (notification 1/1), ED II 2/1 (3/15 in the CDS; the admissions page says decision by March 1), EA 11/1 (1/1), not restrictive; C14 closing date 2/1, priority 1/1. C11-C12 GPA sections are blank (all 0.00%), so gpa is null. Contradiction: the testing policy page says the middle 50% of students entering in fall 2026 scored 1310-1460 SAT and 29-33 ACT, while the CDS 2025-26 C9 for fall 2025 enrolled students gives SAT 1110-1330 and ACT 26-31; the CDS values are recorded and the page figure refers to a different year. CDS Part G (2026-27) matches the financial aid page (tuition 66,520, fees 90, food and housing 18,780). G4 says 34% of full-time undergraduates pay more than the G1 tuition and fees (program fees, for example Neeley School of Business). A TCU news release of 2025 gave a $70,000 AGI threshold; the current program page says $100,000, which is recorded."
+}

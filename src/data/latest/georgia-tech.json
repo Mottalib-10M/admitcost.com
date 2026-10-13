@@ -1,0 +1,151 @@
+{
+ "slug": "georgia-tech",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 66881,
+  "admitted": 8921,
+  "enrolled": 4071,
+  "doc": "Georgia Tech Common Data Set 2025-2026 (FINAL R4, 3 June 2026), C1",
+  "url": "https://irp.gatech.edu/sites/default/files/CDS/CDS_2025-2026_FINAL_R4_03JUN2026.pdf",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    12527,
+    3691,
+    2422
+   ],
+   "outOfState": [
+    44596,
+    4513,
+    1400
+   ],
+   "international": [
+    9758,
+    716,
+    248
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 7651,
+   "accepted": 4875,
+   "admitted": 653
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1370,
+   1460,
+   1530
+  ],
+  "satEbrw": [
+   680,
+   730,
+   760
+  ],
+  "satMath": [
+   700,
+   750,
+   790
+  ],
+  "act": [
+   31,
+   33,
+   35
+  ],
+  "pctSat": 0.78,
+  "pctAct": 0.33,
+  "doc": "CDS 2025-2026, C9 (3,181 SAT submitters, 1,348 ACT submitters)",
+  "url": "https://irp.gatech.edu/sites/default/files/CDS/CDS_2025-2026_FINAL_R4_03JUN2026.pdf"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "All first-year applicants must submit results from at least one SAT and/or ACT in order to be considered for admission. Self-reported scores are accepted and highly recommended; Georgia Tech uses the highest EBRW and Math section scores (SAT) and highest English, Math and Reading (ACT). CLT, AP and IB are optional and do not replace the requirement.",
+  "since": "CDS 2025-26 C8A marks SAT or ACT 'required to be considered for admission' for fall 2027 applicants",
+  "url": "https://admission.gatech.edu/first-year/standardized-tests",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 4.17,
+  "pctSubmitting": 0.9531,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://irp.gatech.edu/sites/default/files/CDS/CDS_2025-2026_FINAL_R4_03JUN2026.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "First-year, on campus, two semesters: tuition + mandatory student fees + books, course materials, supplies and equipment + housing allowance + standard food service plan + personal/miscellaneous + transportation allowance. Out-of-country students: tuition 35,610, fees 1,716, total 56,520.",
+  "inState": {
+   "tuition": 10618,
+   "fees": 1516,
+   "housingFood": 14628,
+   "books": 800,
+   "personal": 2800,
+   "travel": 566,
+   "total": 30928,
+   "note": "housingFood = housing 8,318 + food plan 6,310"
+  },
+  "outOfState": {
+   "tuition": 34604,
+   "fees": 1516,
+   "housingFood": 14628,
+   "books": 800,
+   "personal": 2800,
+   "travel": 966,
+   "total": 55314,
+   "note": "housingFood = housing 8,318 + food plan 6,310"
+  },
+  "url": "https://finaid.gatech.edu/costs/undergraduate-costs",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "G. Wayne Clough Georgia Tech Promise Scholarship: academically qualified in-state students with family incomes below $55,500 can earn a Georgia Tech degree debt free.",
+  "year": "current (page read 2026-10-13)",
+  "url": "https://techpromise.em.gatech.edu/"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "October 15 (Early Action 1, Georgia students only) or November 2 (Early Action 2, non-Georgia and international students); both non-binding",
+   "regular": "January 6"
+  },
+  "url": "https://admission.gatech.edu/first-year/deadlines"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, Georgia Tech admitted 3,691 of 12,527 Georgia applicants but only 4,513 of 44,596 out-of-state applicants and 716 of 9,758 international applicants.",
+   "url": "https://irp.gatech.edu/sites/default/files/CDS/CDS_2025-2026_FINAL_R4_03JUN2026.pdf"
+  },
+  {
+   "text": "Early Action is split by residency: EA1 (October 15) is for Georgia students, EA2 (November 2) for everyone else, and both are non-binding.",
+   "url": "https://admission.gatech.edu/first-year/deadlines"
+  },
+  {
+   "text": "Merit scholarships such as the Stamps President's Scholars Program require applying through an Early Action plan.",
+   "url": "https://admission.gatech.edu/first-year/deadlines"
+  },
+  {
+   "text": "An SAT or ACT score is mandatory for every first-year applicant.",
+   "url": "https://admission.gatech.edu/first-year/standardized-tests"
+  },
+  {
+   "text": "A non-resident first-year on campus has a 2026-27 cost of attendance of 55,314 against 30,928 for a Georgia resident; tuition is 34,604 against 10,618.",
+   "url": "https://finaid.gatech.edu/costs/undergraduate-costs"
+  },
+  {
+   "text": "In-state students from families earning under $55,500 can graduate debt free through the Georgia Tech Promise scholarship.",
+   "url": "https://techpromise.em.gatech.edu/"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 C1 (44,517 + 22,363 + 1 = 66,881 applied; 4,937 + 3,983 + 1 = 8,921 admitted; 2,340 + 1,730 + 1 = 4,071 enrolled); the IRP page links revision R4 of 3 June 2026 (an earlier R3 of 30 March 2026 is cited by third parties). C21 ED: No; C22 EA closing 11/1, notification 1/31 for the fall 2025 cycle, not restrictive. The financial aid page also publishes an 'Estimated 2027-2028 Cost of Attendance' (first-year Georgia resident on campus 31,628: tuition 10,618, fees 1,496, books 800, housing 8,718, food 6,610, personal 2,800, transport 586; out-of-state 55,018 with tuition 33,596), lower out-of-state tuition than 2026-27; the approved 2026-27 budget is recorded as cost and the 2027-28 estimate is kept here only. CDS G1 2026-27 matches (tuition 10,618 / 34,604, fees 1,516). No official fall 2026 class numbers found."
+}

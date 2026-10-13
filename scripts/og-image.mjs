@@ -1,5 +1,4 @@
-/** og-en.png (1200×630) with the flag-and-house logo of public/favicon.svg (the trame's generator writes the
- *  symbol as text, which shows the word "maison"). Does not touch the icons: gen-icons.mjs makes those. */
+/** og-en.png (1200×630) with the flag logo of public/favicon.svg. Does not touch the icons: gen-icons.mjs makes those. */
 import sharp from 'sharp';
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';

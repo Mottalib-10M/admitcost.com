@@ -1,0 +1,118 @@
+{
+ "slug": "boston-college",
+ "cycle": {
+  "label": "Fall 2024 entering class (Class of 2028), fallback: CDS 2025-2026 not published",
+  "applicants": 34779,
+  "admitted": 5632,
+  "enrolled": 2394,
+  "doc": "Boston College Common Data Set 2024-2025, C1",
+  "url": "https://www.bc.edu/content/dam/bc1/offices/irp/ir/cds/Boston_College_CDS_2024-2025_Final.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 entering class (Class of 2030)",
+  "applicants": 41923,
+  "admitted": 5636,
+  "enrolled": 2400,
+  "doc": "Boston College Office of Undergraduate Admission, First-Year Admission Profile, Class of 2030 Facts and Figures (enrolled marked '2026 Annual Census Data')",
+  "url": "https://www.bc.edu/content/bc-web/admission/apply/admission-statistics.html",
+  "accessed": "2026-10-12"
+ },
+ "scores": {
+  "satComposite": [
+   1460,
+   1500,
+   1520
+  ],
+  "satEbrw": [
+   710,
+   740,
+   760
+  ],
+  "satMath": [
+   730,
+   760,
+   780
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.3,
+  "pctAct": 0.15,
+  "doc": "CDS 2024-2025, C9, fall 2024 enrolled (711 SAT submitters, 366 ACT submitters)",
+  "url": "https://www.bc.edu/content/dam/bc1/offices/irp/ir/cds/Boston_College_CDS_2024-2025_Final.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Boston College offers a test-optional admission policy; students who do not submit scores receive full consideration, but students who take the SAT or ACT are encouraged to submit them. Scores may be self-reported (official reports required on enrollment) and are superscored.",
+  "since": null,
+  "url": "https://www.bc.edu/content/bc-web/admission/apply/test-optional.html",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2024-2025, C12 (reported as 0.00, i.e. not reported)",
+  "url": "https://www.bc.edu/content/dam/bc1/offices/irp/ir/cds/Boston_College_CDS_2024-2025_Final.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 75070,
+  "fees": 2074,
+  "housingFood": 19870,
+  "books": 1300,
+  "personal": 2000,
+  "travel": "150-1800",
+  "total": 100314,
+  "totalIncludes": "entering students: direct costs 97,014 (tuition 75,070 + housing and food 19,870 + fees 2,074, fees charged in the first semester) + indirect books and supplies 1,300 + misc./personal 2,000 = 100,314; travel varies from 150 to 1,800 and loan fees of 51 are added on top. BC medical insurance 4,723 is billed unless waived (not in the total). The financial aid office publishes the direct total 97,014 and the indirect items; 100,314 is their sum.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Need-blind admission (the admission staff does not consider financial need or the aid application), and Boston College is committed to meeting the full demonstrated need of every admitted student. Need-based aid applies to U.S. citizens and permanent residents.",
+  "year": "2026-27",
+  "url": "https://www.bc.edu/content/bc-web/admission/financial-aid.html"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Decision I, decision by December 15); January 4 (Early Decision II, decision by February 15)",
+   "regular": "January 4 (decision by April 1)"
+  },
+  "url": "https://www.bc.edu/content/bc-web/admission/apply/early-decision.html"
+ },
+ "facts": [
+  {
+   "text": "For the Class of 2030 (fall 2026), Boston College received 41,923 applications and accepted 5,636 (13.4 percent); 2,400 enrolled.",
+   "url": "https://www.bc.edu/content/bc-web/admission/apply/admission-statistics.html"
+  },
+  {
+   "text": "Early Decision weighs heavily: for fall 2024, BC received 4,288 ED applications and admitted 1,434 of them, about a quarter of all 5,632 admits.",
+   "url": "https://www.bc.edu/content/dam/bc1/offices/irp/ir/cds/Boston_College_CDS_2024-2025_Final.pdf"
+  },
+  {
+   "text": "Because BC meets full demonstrated need, it offers almost no merit aid: the Presidential Scholarship, full tuition for 18 students a year, is its only academic merit scholarship.",
+   "url": "https://www.bc.edu/content/bc-web/admission/financial-aid.html"
+  },
+  {
+   "text": "Direct billed costs for entering students in 2026-27 are $97,014, and Massachusetts law requires health coverage: BC's plan costs $4,723 unless waived.",
+   "url": "https://www.bc.edu/content/bc-web/offices/student-services/financial-aid/undergraduate/how-aid-works.html"
+  },
+  {
+   "text": "BC offers first-years a $3,500 loan and a $3,000 work-study opportunity to help fund the family contribution.",
+   "url": "https://www.bc.edu/content/bc-web/admission/financial-aid.html"
+  },
+  {
+   "text": "Testing is optional, but BC says its research shows scores add predictive value and encourages students who tested to submit; 352 students were admitted from the waiting list for fall 2024.",
+   "url": "https://www.bc.edu/content/bc-web/admission/apply/test-optional.html"
+  }
+ ],
+ "notes": "The CDS page (https://www.bc.edu/content/bc-web/sites/common-data-set.html) only offers CDS 2024-25; guessed 2025-26 file names returned 404, and the admissions profile page has already moved to the Class of 2030, so no official fall 2025 (Class of 2029) count was found: cycle falls back to CDS 2024-25 (fall 2024), and the Class of 2030 profile is recorded as cycleNewer. C1 fall 2024: applied 14,099 men + 20,674 women + 6 another gender = 34,779; admitted 2,800 + 2,832 = 5,632; enrolled 1,193 + 1,201 = 2,394; residency: in-state 5,401 applied / 896 admitted / 471 enrolled. Scores are fall 2024 (CDS 2024-25), not fall 2025. CDS C12 GPA reported as 0.00, so null. The admissions financial aid page lists housing 11,270 + food 7,564 + mandatory fees 1,354 + orientation 670 + ID 50, while the financial aid office gives housing and food 19,870 and fees 2,074 for entering students; the financial aid office COA figures were used. Test-optional start date not stated."
+}

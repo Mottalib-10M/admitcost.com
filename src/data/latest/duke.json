@@ -1,0 +1,110 @@
+{
+ "slug": "duke",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 55541,
+  "admitted": 2910,
+  "enrolled": 1749,
+  "doc": "Duke University Common Data Set 2025-2026, C1 (25,641 men + 29,900 women applied; 1,390 + 1,520 admitted; 833 + 916 enrolled; unknown-sex rows blank)",
+  "url": "https://ir.provost.duke.edu/sites/default/files/CDS_PDF_2025-2026-20260622-website-published-version.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1510,
+   1550,
+   1570
+  ],
+  "satEbrw": [
+   740,
+   760,
+   780
+  ],
+  "satMath": [
+   770,
+   790,
+   790
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.48,
+  "pctAct": 0.27,
+  "doc": "CDS 2025-2026, C9 (843 SAT submitters, 473 ACT submitters)",
+  "url": "https://ir.provost.duke.edu/sites/default/files/CDS_PDF_2025-2026-20260622-website-published-version.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Duke University is test-optional for both first-year and transfer applicants in the 2026-2027 admissions cycle. Students who apply without SAT or ACT scores will not be at a disadvantage. Self-reported scores are accepted; official scores are required only from students who enroll.",
+  "since": null,
+  "url": "https://admissions.duke.edu/apply/",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 left blank by Duke",
+  "url": "https://ir.provost.duke.edu/sites/default/files/CDS_PDF_2025-2026-20260622-website-published-version.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 73740,
+  "fees": 3019,
+  "housingFood": 22029,
+  "books": 536,
+  "personal": 3274,
+  "travel": "582-1318",
+  "total": 103180,
+  "totalIncludes": "first-year student: tuition 73,740 + estimated fees 3,019 + housing (double) 11,560 + food 10,469 = billed 98,788 (98,848 for Pratt engineering students, +60 dues) + books and materials 536 + personal 3,274 + domestic transportation 582 to 1,318 by home address. Published total range: 103,180 to 103,975.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://financialaid.duke.edu/how-aid-calculated/cost-attendance/",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Duke meets 100% of demonstrated need for undergraduates (aid offers will most likely include a loan, work-study and grant). Initiative for Students from the Carolinas: full tuition grants for admitted North Carolina and South Carolina residents with total family income of $150,000 or less; at $65,000 or less, full tuition plus help with housing, meals and some course materials, without student loans.",
+  "year": "current policy as published in 2026",
+  "url": "https://financialaid.duke.edu/initiative-students-carolinas/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 2 (Early Decision, decisions mid-December)",
+   "regular": "January 4 (decisions late March/early April)"
+  },
+  "url": "https://admissions.duke.edu/apply/"
+ },
+ "facts": [
+  {
+   "text": "Students from North Carolina and South Carolina with family income of $150,000 or less get full-tuition grants; at $65,000 or less Duke also covers housing and meals without loans.",
+   "url": "https://financialaid.duke.edu/initiative-students-carolinas/"
+  },
+  {
+   "text": "Duke says 21% of its last first-year class attended tuition-free.",
+   "url": "https://financialaid.duke.edu/how-aid-calculated/cost-attendance/"
+  },
+  {
+   "text": "For fall 2025, 2,910 of 55,541 applicants were admitted (about 5.2%) and 1,749 enrolled.",
+   "url": "https://ir.provost.duke.edu/sites/default/files/CDS_PDF_2025-2026-20260622-website-published-version.pdf"
+  },
+  {
+   "text": "The 2026-27 first-year cost of attendance is $103,180 to $103,975 before aid, with billed charges of $98,788 (Pratt engineering students pay $60 more in dues).",
+   "url": "https://financialaid.duke.edu/how-aid-calculated/cost-attendance/"
+  },
+  {
+   "text": "Duke has one binding Early Decision round (November 2) and Regular Decision (January 4); no Early Action.",
+   "url": "https://admissions.duke.edu/apply/"
+  },
+  {
+   "text": "Alumni interviews are optional and offered only to some applicants; not being offered one does not affect the chances of admission.",
+   "url": "https://admissions.duke.edu/apply/"
+  }
+ ],
+ "notes": "CDS 2025-26 (published 2026-06-22) left blank: C1 residency split, C2 waitlist counts, C12 GPA, C21 ED application and admit counts. CDS C8 marks SAT or ACT in what appears to be the 'Required' column for Fall 2027, which contradicts the admissions page ('test-optional ... in the 2026-2027 admissions cycle'); the admissions page is used. CDS C21 gives ED closing 11/1 and notification 12/15 (fall 2025 cycle); the current page says November 2. housingFood = 11,560 + 10,469 (first-year food plan; CDS G1 shows food 8,662, total 20,222). No official Class of 2030 figures checked (web search budget exhausted)."
+}

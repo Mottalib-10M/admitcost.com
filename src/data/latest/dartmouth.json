@@ -1,0 +1,110 @@
+{
+ "slug": "dartmouth",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 28230,
+  "admitted": 1699,
+  "enrolled": 1205,
+  "doc": "Dartmouth College Common Data Set 2025-2026, C1 (14,155 men + 14,063 women + 12 unknown applied; 917 + 782 admitted; 633 + 572 enrolled)",
+  "url": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1440,
+   1520,
+   1550
+  ],
+  "satEbrw": [
+   720,
+   750,
+   770
+  ],
+  "satMath": [
+   720,
+   770,
+   790
+  ],
+  "act": [
+   32,
+   34,
+   35
+  ],
+  "pctSat": 0.69,
+  "pctAct": 0.33,
+  "doc": "CDS 2025-2026, C9 (826 SAT submitters, 392 ACT submitters)",
+  "url": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"
+ },
+ "testPolicy": {
+  "status": "required",
+  "text": "Standardized testing is a required element of the application. Students who attend high school in the United States must submit the SAT or ACT (superscored). Students attending high school outside the US may instead use three AP exams, IB Diploma predicted or final results, British A-Level predicted or final results, or final results of an equivalent national exam (e.g. WASSCE, CAPE, French Baccalaureate, CBSE, ICSE, KCSE).",
+  "since": null,
+  "url": "https://admissions.dartmouth.edu/apply/testing-policy",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C12 left blank by Dartmouth",
+  "url": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71697,
+  "fees": 2157,
+  "housingFood": 21528,
+  "books": 1005,
+  "personal": 2040,
+  "travel": null,
+  "total": 98427,
+  "totalIncludes": "Three-term academic year: tuition 71,697 + fees 2,157 + housing 13,032 + food 8,496 + books/course materials 1,005 + personal 2,040. Not included: one-time 269 records and class dues fee and 250 orientation meals for first-time students; travel not in the budget (CDS G5 lists 608 transportation). Dartmouth runs on the D-Plan quarter system; one term costs tuition 23,899.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://financialaid.dartmouth.edu/cost-attendance/cost-attendance-2026-2027",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Universal need-blind admission (including all international citizens, since January 2022) with 100% of demonstrated need met; aid packages do not include student loans. Families with total annual income below $125,000 and typical assets have a $0 parent contribution; families between $125,000 and $175,000 with typical assets get scholarships and/or grants covering full tuition (free tuition up to $175,000).",
+  "year": "2026-27",
+  "url": "https://admissions.dartmouth.edu/estimate-your-cost/how-aid-works"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (binding Early Decision, decision mid-December)",
+   "regular": "January 2"
+  },
+  "url": "https://admissions.dartmouth.edu/apply/apply-dartmouth"
+ },
+ "facts": [
+  {
+   "text": "Early Decision is decisive: for fall 2025, 768 of 3,552 Early Decision applicants were admitted (21.6%), against 931 of the other 24,678 applicants (3.8%); ED filled 45% of the admitted class.",
+   "url": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"
+  },
+  {
+   "text": "Dartmouth is need-blind for every applicant, including international citizens, and meets 100% of demonstrated need without loans.",
+   "url": "https://admissions.dartmouth.edu/apply-dartmouth/universal-need-blind-policy"
+  },
+  {
+   "text": "Families earning under $125,000 with typical assets pay no parent contribution, and those up to $175,000 have full tuition covered.",
+   "url": "https://admissions.dartmouth.edu/estimate-your-cost/how-aid-works"
+  },
+  {
+   "text": "International students make up a large share of applicants: 8,163 of 28,230 applied from abroad for fall 2025 and 154 enrolled; only 516 applicants and 27 enrollees were New Hampshire residents.",
+   "url": "https://www.dartmouth.edu/oir/pdfs/cds_2025-26.pdf"
+  },
+  {
+   "text": "Students outside the US can meet the testing requirement with AP, IB, A-Level or national exam results, but US high school students must submit the SAT or ACT.",
+   "url": "https://admissions.dartmouth.edu/apply/testing-policy"
+  },
+  {
+   "text": "Dartmouth's year-round quarter system (D-Plan) bills by term: 2026-27 tuition is $23,899 per term, $71,697 for the standard three terms.",
+   "url": "https://financialaid.dartmouth.edu/cost-attendance/cost-attendance-2026-2027"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 (OIR PDF). C1 residency table gives applicants (in-state 516, out-of-state 19,551, international 8,163) and enrolled (27, 1,024, 154) but no admits by residency. C2 waiting list: 2,497 offered, accepted and admitted left blank. GPA C11-C12 blank. CDS lists RD closing date 1/3 (fall 2025 cycle); the admissions page gives January 2 for the current cycle. testPolicy.since null: the testing page does not give the date; the page mentions Dartmouth's 'recent decision to reinstate admissions testing requirements' without a date; the official announcement could not be located today (web search quota exhausted), so no start year is claimed. The admissions class profile page did not render its figures for scripts; no Class of 2030 counts recorded. ED share of admits computed 768/1,699. Accessed 2026-10-13."
+}

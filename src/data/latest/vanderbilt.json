@@ -1,0 +1,110 @@
+{
+ "slug": "vanderbilt",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 48196,
+  "admitted": 2593,
+  "enrolled": 1635,
+  "doc": "Vanderbilt University Common Data Set 2025-2026 (Excel), C1 items C.116, C.117, C.118",
+  "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1510,
+   1530,
+   1560
+  ],
+  "satEbrw": [
+   740,
+   750,
+   770
+  ],
+  "satMath": [
+   770,
+   780,
+   790
+  ],
+  "act": [
+   34,
+   35,
+   35
+  ],
+  "pctSat": 0.24,
+  "pctAct": 0.28,
+  "doc": "CDS 2025-2026, C9 (395 SAT submitters, 453 ACT submitters)",
+  "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Vanderbilt will continue its test-optional policy for students applying to the classes entering in fall 2027 or 2028. For the class entering in fall 2029 and beyond, Vanderbilt will require ACT or SAT scores. The choice to apply with or without scores will not advantage or disadvantage the application. Vanderbilt superscores both the ACT and SAT.",
+  "since": "optional through fall 2028 entry; required again from fall 2029 entry",
+  "url": "https://admissions.vanderbilt.edu/apply/testing-policies/",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 3.895,
+  "pctSubmitting": 0.998,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 69822,
+  "fees": 3384,
+  "housingFood": 23690,
+  "books": 1100,
+  "personal": 1998,
+  "travel": "varies",
+  "total": 99994,
+  "totalIncludes": "Vanderbilt publishes two subtotals: direct mandatory costs 96,896 (tuition 69,822 + housing 15,170 + food 8,520 + Student Support Fee 3,384) and indirect costs 3,098 (books, course materials, supplies and equipment 1,100 + personal 1,998). The total 99,994 is the sum of these two published subtotals. Transportation 'varies' and is not included; mandatory health insurance (unless waived by July 15) is not included.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://admissions.vanderbilt.edu/affordability/",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": {
+  "text": "Opportunity Vanderbilt: full-tuition scholarship for all households with income of $200K or less (assuming typical assets: parent net worth under $250,000, excluding retirement accounts and home equity). Vanderbilt meets 100% of demonstrated financial need without loans, and is need-blind for U.S. citizens and eligible non-citizens.",
+  "year": "current policy as published in 2026; award medians shown are for first-years entering fall 2025",
+  "url": "https://admissions.vanderbilt.edu/affordability/opportunity-vanderbilt/"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1, 2026 (Early Decision I, decisions mid-December); Early Decision II January 1, 2027 (decisions mid-February 2027)",
+   "regular": "January 1, 2027 (decisions late March 2027)"
+  },
+  "url": "https://admissions.vanderbilt.edu/apply/"
+ },
+ "facts": [
+  {
+   "text": "Testing is optional for fall 2027 and fall 2028 entry, but Vanderbilt has announced that ACT or SAT scores will be required for students entering in fall 2029 and later.",
+   "url": "https://admissions.vanderbilt.edu/apply/testing-policies/"
+  },
+  {
+   "text": "Households earning $200,000 or less (typical assets) get at least full tuition; for fall 2025 first-years with parent income under $50,000 the median award was $99,976.",
+   "url": "https://admissions.vanderbilt.edu/affordability/opportunity-vanderbilt/"
+  },
+  {
+   "text": "Early Decision admitted 874 of 6,202 applicants for fall 2025 (about 14%), against 2,593 of 48,196 overall (about 5.4%).",
+   "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx"
+  },
+  {
+   "text": "Vanderbilt awards over 225 merit scholarships each year covering full tuition plus a summer stipend, with a December 1 deadline for merit applications.",
+   "url": "https://admissions.vanderbilt.edu/affordability/"
+  },
+  {
+   "text": "More fall 2025 entrants submitted the ACT (28%, 453 students) than the SAT (24%, 395 students), out of 1,635 enrolled.",
+   "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx"
+  },
+  {
+   "text": "Tennessee residents were 2,885 of the fall 2025 applicants and 301 of the admits; 207 students were admitted from the waiting list.",
+   "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/70/2026/07/CDS_2025-2026.xlsx"
+  }
+ ],
+ "notes": "CDS 2025-26 published as Excel (answer sheet read). C21 ED dates show #VALUE! errors in the file, so deadlines come from the admissions page. C2 number offered a waitlist place left blank. Total cost is the sum of the two subtotals Vanderbilt publishes (no single grand total printed). No official Class of 2030 figures checked (web search budget exhausted)."
+}

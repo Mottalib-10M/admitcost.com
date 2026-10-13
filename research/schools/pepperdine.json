@@ -1,0 +1,112 @@
+{
+  "slug": "pepperdine",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029), Seaver College",
+    "applicants": 13445,
+    "admitted": 9331,
+    "enrolled": 999,
+    "doc": "Pepperdine University Common Data Set 2025-2026, C1",
+    "url": "https://drive.google.com/file/d/1I8RahoDnYryjUHb0vGnjSUqx9dG5hM_W/view?usp=sharing",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [
+      1240,
+      1340,
+      1410
+    ],
+    "satEbrw": [
+      640,
+      680,
+      720
+    ],
+    "satMath": [
+      600,
+      660,
+      710
+    ],
+    "act": [
+      28,
+      30,
+      32
+    ],
+    "pctSat": 0.17,
+    "pctAct": 0.08,
+    "doc": "CDS 2025-2026, C9 (172 SAT submitters, 78 ACT submitters)",
+    "url": "https://drive.google.com/file/d/1I8RahoDnYryjUHb0vGnjSUqx9dG5hM_W/view?usp=sharing"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Pepperdine is test optional, and students receive the same consideration for admission regardless of whether they submit test scores (SAT, ACT or CLT). Scores are required to be considered for the Regents Scholars Program scholarships.",
+    "since": null,
+    "url": "https://admission.pepperdine.edu/apply/undergraduate/first-year-applicants.htm",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": 3.57,
+    "pctSubmitting": 0.999,
+    "doc": "CDS 2025-2026, C12",
+    "url": "https://drive.google.com/file/d/1I8RahoDnYryjUHb0vGnjSUqx9dG5hM_W/view?usp=sharing"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 74370,
+    "fees": 832,
+    "housingFood": 20490,
+    "books": 1000,
+    "personal": 1500,
+    "travel": 1000,
+    "total": 99258,
+    "totalIncludes": "on campus, new students: flat-rate tuition 74,370 (12-18 units per semester) + housing and food 20,490 + wellness fee 580 + campus life fee 252 (direct 95,692) + loan fees 66 + books and supplies 1,000 + transportation 1,000 + personal 1,500 = 99,258. Returning on-campus students: housing and food 21,560, total 100,328. Health insurance about 1,362 per semester may be added if the student has no other coverage.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/costs/budget-costs.htm",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Students admitted through Early Decision are guaranteed to receive at least $25,000 in merit aid. No full-need or income-based tuition promise is published; the admissions office says 98% of new Seaver students receive institutional merit scholarships and/or Pepperdine need-based aid.",
+    "year": "2026-27 cycle",
+    "url": "https://admission.pepperdine.edu/apply/deadlines/",
+    "url2": "https://admission.pepperdine.edu/affordability/"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": true,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (EA and ED I; decisions December 21; ED I enrollment deadline February 1)",
+      "ed2": "January 15 (decision February 1, enrollment by March 1)",
+      "regular": "January 15 (FAFSA by February 15, decisions March 19)"
+    },
+    "url": "https://admission.pepperdine.edu/apply/deadlines/"
+  },
+  "facts": [
+    {
+      "text": "Early Decision is new: the CDS notes it took effect with the fall 2026 applicant pool, so no ED admit counts exist yet, and ED admits are guaranteed at least $25,000 in merit aid.",
+      "url": "https://admission.pepperdine.edu/apply/deadlines/"
+    },
+    {
+      "text": "Pepperdine admitted 9,331 of 13,445 first-year applicants for fall 2025 but enrolled only 999, so very few admitted students attend.",
+      "url": "https://drive.google.com/file/d/1I8RahoDnYryjUHb0vGnjSUqx9dG5hM_W/view?usp=sharing"
+    },
+    {
+      "text": "The waiting list converts often: 1,303 applicants were offered a place, 812 accepted and 670 were admitted for fall 2025.",
+      "url": "https://drive.google.com/file/d/1I8RahoDnYryjUHb0vGnjSUqx9dG5hM_W/view?usp=sharing"
+    },
+    {
+      "text": "Tests are optional for admission but required for the Regents Scholars Program scholarships.",
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/first-year-applicants.htm"
+    },
+    {
+      "text": "All first-year applicants must write a 300-500 word answer on why they want to attend a Christian university and how they would contribute to conversations of faith on campus.",
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/first-year-applicants.htm"
+    },
+    {
+      "text": "Tuition for 2026-27 is a flat $74,370 for 12 to 18 units a semester, and the on-campus cost of attendance for a new student is $99,258 before aid.",
+      "url": "https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/costs/budget-costs.htm"
+    }
+  ],
+  "notes": "The CDS 2025-26 is linked from https://www.pepperdine.edu/oie/institutional-research/common-data-set.htm as a Google Drive file (the URL above). C1: applied 4,284 men + 9,161 women = 13,445; admitted 3,111 + 6,220 = 9,331; enrolled 999 (330 full-time and 1 part-time men, 664 full-time and 4 part-time women); the CDS notes the enrolled count excludes deferrals from prior-year applicants. Residency breakdown not reported. C12 GPA 3.57 read from the rendered page (not in the extractable text). C21 ED counts 'na' (ED effective with the fall 2026 applicant pool); CDS C21/C22 dates ED I 11/1 (notification 1/10), EA 11/1 (1/10), differ from the current admissions deadlines page (decisions December 21), which is recorded for 2026-27. CDS G1 2026-27 matches the financial aid page (tuition 74,370, required fees 832 = wellness 580 + campus life 252, food and housing 20,490 first-year / 23,260 in the CDS 'undergraduates' column; the financial aid page gives 21,560 for returning students)."
+}

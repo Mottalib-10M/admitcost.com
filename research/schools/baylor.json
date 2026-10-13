@@ -1,0 +1,95 @@
+{
+  "slug": "baylor",
+  "cycle": {
+    "label": "Fall 2025 entering class (Class of 2029)",
+    "applicants": 44924,
+    "admitted": 23459,
+    "enrolled": 3552,
+    "doc": "Baylor University Common Data Set 2025-2026, C1",
+    "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf",
+    "accessed": "2026-10-13"
+  },
+  "cycleNewer": null,
+  "scores": {
+    "satComposite": [1190, 1280, 1370],
+    "satEbrw": [600, 650, 690],
+    "satMath": [590, 640, 690],
+    "act": [26, 29, 32],
+    "pctSat": 0.47,
+    "pctAct": 0.22,
+    "doc": "CDS 2025-2026, C9 (1,679 SAT submitters, 799 ACT submitters)",
+    "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf"
+  },
+  "testPolicy": {
+    "status": "optional",
+    "text": "Students are not required to submit standardized test scores for admission. Applicants choose whether their scores are reviewed, and that choice is final. Home-schooled students, students from high schools with narrative-only transcripts and students graduating early must submit scores, and some majors and programs also require them (CDS C8F).",
+    "since": null,
+    "url": "https://admissions.web.baylor.edu/admissions/incoming-freshman/application-process",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "CDS 2025-2026, C11-C12 left blank by Baylor",
+    "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 67756,
+    "fees": null,
+    "housingFood": 17222,
+    "books": 1572,
+    "personal": 2466,
+    "travel": 1548,
+    "total": 90564,
+    "totalIncludes": "CDS 2025-26 Part G (2026-27 year): tuition 67,756 (regular flat rate, 33,878 per semester) + on-campus food and housing 17,222 (housing 9,976 + food 7,246) + books and supplies 1,572 + transportation 1,548 + other expenses 2,466. Baylor publishes no single on-campus total online (its cost of attendance is given through a calculator); 90,564 is the sum of these CDS lines. Required fees are blank in the CDS; the admissions page lists a chapel fee of 90 per semester, a one-time matriculation fee of 100 and course or lab fees that vary.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf",
+    "url2": "https://admissions.web.baylor.edu/costs-aid/tuition-fees",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Baylor Benefit Scholarship: free tuition for selected incoming students from families with household income of less than $50,000 (a select number of students, not an entitlement). No full-need guarantee is published.",
+    "year": "in effect since the 2023-24 entering class; described as ongoing in the FY26-27 budget memo",
+    "url": "https://president.web.baylor.edu/2026/budget-memo"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": true,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (ED, binding, decision by December 15, deposit by February 15; EA, non-binding, decision by February 1)",
+      "regular": "February 1 (decision by April 10, deposit by May 1)"
+    },
+    "url": "https://admissions.web.baylor.edu/admissions/incoming-freshman/application-process"
+  },
+  "facts": [
+    {
+      "text": "Early Decision admitted 453 of 566 applicants for fall 2025 (CDS C21), against 23,459 admits from 44,924 applicants overall.",
+      "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf"
+    },
+    {
+      "text": "Early Decision applicants may receive a $3,000 non-renewable scholarship; Early Action applicants are automatically considered for merit awards and specialty scholarship events.",
+      "url": "https://admissions.web.baylor.edu/admissions/incoming-freshman/application-process"
+    },
+    {
+      "text": "Baylor offers a Guaranteed Tuition Option: $75,556 a year locked for four years instead of the regular $67,756 rate that can rise each year; students who make no election pay the regular rate.",
+      "url": "https://admissions.web.baylor.edu/costs-aid/tuition-fees"
+    },
+    {
+      "text": "Texans dominate the pool: 14,636 of 28,416 in-state applicants were admitted in fall 2025, against 7,061 of 12,955 out-of-state and 1,762 of 3,553 international applicants.",
+      "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf"
+    },
+    {
+      "text": "The waiting list rarely converts: 3,832 applicants were offered a place for fall 2025, 916 accepted, and only 19 were admitted.",
+      "url": "https://ir.web.baylor.edu/sites/g/files/ecbvkj1621/files/2026-04/cds-pdf-2025-2026-final.pdf"
+    },
+    {
+      "text": "The Board of Regents approved a 2026-27 tuition and fee increase averaging $1,978 per student in net out-of-pocket cost, or 6.5%.",
+      "url": "https://president.web.baylor.edu/2026/budget-memo"
+    }
+  ],
+  "notes": "C1: applied 16,836 men + 28,080 women + 8 unknown = 44,924; admitted 9,426 + 14,031 + 2 = 23,459; enrolled 1,355 + 2,197 = 3,552 (the CDS prints a 52.2% acceptance rate). C21 ED counts are captioned 'For the Fall 2025 entering class'. C22: EA 11/1, notification 2/1, not restrictive; C14 closing date 2/1. C11-C12 GPA are blank (0.00%), so gpa is null. The admissions Tuition & Fees page and the One Stop calculator do not publish a full on-campus cost of attendance total; the total is the sum of CDS G1 and G5 lines and is labelled as such. The Baylor Benefit Scholarship admissions page returned HTTP 403; its terms were taken from the president's FY26-27 budget memo (2026), which says it 'provides free tuition to selected students and families with a household income of less than $50,000' and costs $10 million a year."
+}

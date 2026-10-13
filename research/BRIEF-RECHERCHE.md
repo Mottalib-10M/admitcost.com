@@ -22,6 +22,8 @@ Forbidden as sources: blogs, consultants, prep companies, Niche, US News, PrepSc
 
 Tools: `curl -sL -A 'Mozilla/5.0'`, WebFetch, WebSearch (if its quota is exhausted:
 `curl -s 'https://html.duckduckgo.com/html/?q=<query>&kl=us-en'` and read the `.result__url` links).
+**Forbidden: Chrome, Claude in Chrome or any browser automation** (publisher's rule for this project). If a
+document cannot be read with curl, WebFetch or pypdf, leave the field null and say so in `notes`.
 PDFs: download into `/Users/mottalib/Documents/GitHub/a-publier/Mottalib-10M/us-college-cost/.cache-raw/cds/`
 and read them with `python3 -c "from pypdf import PdfReader; ..."` (pypdf is installed). Many CDS are also
 published as .xlsx (openpyxl is installed) or HTML pages.

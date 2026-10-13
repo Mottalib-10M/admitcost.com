@@ -1,0 +1,161 @@
+{
+ "slug": "ucsb",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 110187,
+  "admitted": 42093,
+  "enrolled": 5081,
+  "doc": "UC Santa Barbara Common Data Set 2025-2026, C1 (linked from the Institutional Research, Planning and Assessment page https://bap.ucsb.edu/institutional-research)",
+  "url": "https://drive.google.com/file/d/1FIkvY5dANho45ioG7-JHgO3IPH6-ui1W/view?usp=sharing",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    74486,
+    23923,
+    3770
+   ],
+   "outOfState": [
+    17067,
+    9302,
+    701
+   ],
+   "international": [
+    18634,
+    8868,
+    610
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 25713,
+   "accepted": 18022,
+   "admitted": 9603
+  }
+ },
+ "cycleNewer": {
+  "label": "Fall 2026 first-year (preliminary)",
+  "applicants": 108503,
+  "admitted": 47716,
+  "enrolled": null,
+  "byResidency": {
+   "caResident": [
+    73187,
+    25289
+   ],
+   "domesticNonresident": [
+    16290,
+    10403
+   ],
+   "international": [
+    19026,
+    12024
+   ],
+   "order": "applied, admitted"
+  },
+  "doc": "UCOP Fall 2026 preliminary applications Table 1a (as of January 21, 2026) and admissions Table 1a (offers as of June 17, 2026)",
+  "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf",
+  "url2": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/table-1a-undergraduate-application-summary-counts.pdf",
+  "accessed": "2026-10-13"
+ },
+ "scores": {
+  "satComposite": null,
+  "satEbrw": null,
+  "satMath": null,
+  "act": null,
+  "pctSat": null,
+  "pctAct": null,
+  "doc": "CDS 2025-2026, C9 left blank (test-free admission)",
+  "url": "https://drive.google.com/file/d/1FIkvY5dANho45ioG7-JHgO3IPH6-ui1W/view?usp=sharing"
+ },
+ "testPolicy": {
+  "status": "blind",
+  "text": "UC will not consider SAT or ACT test scores when making admissions decisions or awarding scholarships. They may be used as an alternative method of fulfilling minimum requirements for eligibility or for course placement after you enroll. SAT and ACT scores may only be reported in the application post-submission.",
+  "since": "test-free since fall 2021 entry (Regents decision of May 2020, confirmed November 2021); applies to all UC campuses",
+  "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 4.29,
+  "pctSubmitting": 0.9707,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://drive.google.com/file/d/1FIkvY5dANho45ioG7-JHgO3IPH6-ui1W/view?usp=sharing"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "New fall 2026 cohort, residence halls: tuition and Student Services Fee 15,588 + campus-based fees 2,085 + books and supplies 1,515 + rent 13,203 + food 10,782 + utilities 0 + transportation 789 + health care allowance 4,008 + personal 2,652 + phone 324. Non-residents add Nonresident Supplemental Tuition 39,270.",
+  "inState": {
+   "tuition": 15588,
+   "fees": 2085,
+   "housingFood": 23985,
+   "books": 1515,
+   "personal": 2976,
+   "travel": 789,
+   "health": 4008,
+   "total": 50946,
+   "note": "tuition = UC tuition plus Student Services Fee; personal = 2,652 personal + 324 phone; health = UC SHIP allowance, included in total"
+  },
+  "outOfState": {
+   "tuition": 54858,
+   "fees": 2085,
+   "housingFood": 23985,
+   "books": 1515,
+   "personal": 2976,
+   "travel": 789,
+   "health": 4008,
+   "total": 90216,
+   "note": "tuition = 15,588 + Nonresident Supplemental Tuition 39,270"
+  },
+  "url": "https://www.finaid.ucsb.edu/costs-estimated-aid/cost-attendance/ucsb-undergraduate-cost-attendance-budget",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Blue and Gold Opportunity Plan (California residents): most California families that earn up to $100,000 receive enough grant and scholarship funds to cover their UC tuition; tuition is set when the student first enrolls and stays the same for up to six years. Considered automatically with a FAFSA or California Dream Act Application and Cal Grant GPA Verification Form filed by March 2.",
+  "year": "current UC policy, page read 2026-10-13 (no year stated on the page)",
+  "url": "https://admission.universityofcalifornia.edu/tuition-financial-aid/types-of-aid/blue-and-gold-opportunity-plan.html"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": null,
+   "regular": "November 30 (fall 2027 filing period October 1 to November 30, 2026; decisions by March 31, 2027)"
+  },
+  "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, UCSB admitted 23,923 of 74,486 California applicants but 9,302 of 17,067 out-of-state applicants and 8,868 of 18,634 international applicants; 3,770 of the 5,081 enrolled first-years were Californians.",
+   "url": "https://drive.google.com/file/d/1FIkvY5dANho45ioG7-JHgO3IPH6-ui1W/view?usp=sharing"
+  },
+  {
+   "text": "The waiting list matters: 18,022 applicants accepted a place on it for fall 2025 and 9,603 were admitted from it.",
+   "url": "https://drive.google.com/file/d/1FIkvY5dANho45ioG7-JHgO3IPH6-ui1W/view?usp=sharing"
+  },
+  {
+   "text": "A non-resident pays 90,216 in the 2026-27 sample budget against 50,946 for a Californian, the gap being the 39,270 Nonresident Supplemental Tuition.",
+   "url": "https://www.finaid.ucsb.edu/costs-estimated-aid/cost-attendance/ucsb-undergraduate-cost-attendance-budget"
+  },
+  {
+   "text": "Preliminary fall 2026 figures from UCOP: 108,503 first-year applicants and 47,716 admits, of whom 25,289 California residents.",
+   "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+  },
+  {
+   "text": "All UC campuses are test-free: SAT and ACT scores are not used for admission or for scholarships, so the odds depend on the A-G GPA, course rigor and the personal insight questions.",
+   "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html"
+  },
+  {
+   "text": "UC guarantees first-year admission to a UC campus, though not necessarily the campus of choice, to California students in the top 9 percent of their high school or of the state.",
+   "url": "https://www.ucop.edu/institutional-research-academic-planning/_files/factsheets/2026/admissions-fact-sheet-data-tables.pdf"
+  }
+ ],
+ "notes": "Cycle from CDS 2025-26 C1 (men 48,509 + women 58,374 + unknown 3,304 = 110,187 applied; 16,945 + 23,627 + 1,521 = 42,093 admitted; 1,982 + 3,052 + 47 = 5,081 enrolled). The CDS PDF is hosted on Google Drive, linked as 'Common Data Set - 2025-26' from the official IR page. No early plans (C21/C22 = No). C9 blank: UC is test-free. CDS G1 gives 2026-27 tuition 14,202 (resident) / 53,472 (nonresident) and required fees 3,441, a different split from the financial aid page (15,588 tuition plus Student Services Fee, 2,085 campus fees); the financial aid budget is used. Financial aid page says figures may not be final. UCOP fall 2026 counts are preliminary, campus-level and not comparable one-to-one with CDS counts; enrolled not yet published. Top-level cost fields null because in-state and out-of-state are given separately."
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "case-western",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 39332,
+  "admitted": 13890,
+  "enrolled": 1663,
+  "doc": "Case Western Reserve University Common Data Set 2025-2026 (Adjusted Final), C1",
+  "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1440,
+   1490,
+   1530
+  ],
+  "satEbrw": [
+   710,
+   730,
+   760
+  ],
+  "satMath": [
+   730,
+   760,
+   780
+  ],
+  "act": [
+   32,
+   33,
+   34
+  ],
+  "pctSat": 0.52,
+  "pctAct": 0.15,
+  "doc": "CDS 2025-2026, C9 (858 SAT submitters, 245 ACT submitters)",
+  "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Case Western Reserve is test optional; applicants who choose to submit SAT or ACT scores use codes SAT 1105 and ACT 3244.",
+  "since": null,
+  "url": "https://case.edu/admission/apply/first-year-applicants",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 3.78,
+  "pctSubmitting": 0.92,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71410,
+  "fees": 1456,
+  "housingFood": 20288,
+  "books": 1200,
+  "personal": 1350,
+  "travel": "variable (allowance up to 2,000 added based on home state)",
+  "total": 95704,
+  "totalIncludes": "residential first-year: tuition 71,410 + fees 696 + matriculation fee 760 (one-time, first year) + housing 11,688 + meal plan 8,600 (unlimited) + books 1,200 + personal 1,350 = 95,704. Transportation is variable (the university adds an allowance of up to 2,000 based on home state); nursing students pay an additional 1,450 in fees.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://case.edu/admission/cost-and-aid/tuition-and-costs",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": null,
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Action, notification December 19; Early Decision I, notification December 5); December 1 (Pre-Professional Scholars Program); January 15 (Early Decision II, notification February 6)",
+   "regular": "January 15 (notification March 20)"
+  },
+  "url": "https://case.edu/admission/apply/deadlines-and-requirements"
+ },
+ "facts": [
+  {
+   "text": "Case Western admitted 13,890 of 39,332 first-year applicants for fall 2025, but only 1,663 enrolled, so most admits go elsewhere.",
+   "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+  },
+  {
+   "text": "Early Decision I was not an easier route for fall 2025: 263 of 1,053 ED applicants were admitted, a lower share than the overall pool.",
+   "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+  },
+  {
+   "text": "The waiting list matters: 688 wait-listed students were admitted for fall 2025.",
+   "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+  },
+  {
+   "text": "The 2026-27 residential cost of attendance is $95,704 before travel; nursing students pay $1,450 more in fees, and the financial aid offer comes with the admission decision.",
+   "url": "https://case.edu/admission/cost-and-aid/tuition-and-costs"
+  },
+  {
+   "text": "CWRU offers four first-year rounds: Early Action and Early Decision I on November 1, Early Decision II and Regular Decision on January 15, plus a December 1 Pre-Professional Scholars Program deadline.",
+   "url": "https://case.edu/admission/apply/deadlines-and-requirements"
+  },
+  {
+   "text": "CWRU awards merit scholarships to admitted students and runs scholarship competitions that include full-tuition awards.",
+   "url": "https://case.edu/admission/cost-and-aid/scholarships"
+  }
+ ],
+ "notes": "C1: applied 19,890 men + 19,442 women = 39,332; admitted 7,257 + 6,633 = 13,890; enrolled 823 + 840 = 1,663. The residency row lists three values (3,596 / 24,624 / 11,112 applied) whose column positions could not be confirmed in the extracted text, so no in-state split is given. CDS G1 gives 2026-27 tuition 71,410 (other G1 amounts blank). The class profile page says 40 percent of students were test optional and shows superscored middle-50 percent ranges (SAT 1440-1520), which differ from the CDS C9 figures used here. No published aid promise (full need, no loans, income threshold) found on the admissions cost and aid pages, so aidPromise is null. No official fall 2026 figures found. Test-optional start date not stated. fees = 696 + 760 matriculation fee."
+}

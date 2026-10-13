@@ -1,0 +1,107 @@
+{
+ "slug": "amherst",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 15819,
+  "admitted": 1222,
+  "enrolled": 485,
+  "doc": "Amherst College Common Data Set 2025-2026, section C, C1",
+  "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf",
+  "accessed": "2026-10-13"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1470,
+   1510,
+   1540
+  ],
+  "satEbrw": [
+   730,
+   760,
+   770
+  ],
+  "satMath": [
+   730,
+   770,
+   790
+  ],
+  "act": [
+   33,
+   34,
+   35
+  ],
+  "pctSat": 0.4,
+  "pctAct": 0.16,
+  "doc": "CDS 2025-2026, C9 (192 SAT submitters, 78 ACT submitters)",
+  "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Standardized testing (either SAT or ACT) is an optional part of the admission application for first-year and transfer applicants, domestic and international; the ACT science section is also optional for the enhanced ACT. International applicants may be required to submit English proficiency results. Self-reported scores are accepted.",
+  "since": null,
+  "url": "https://www.amherst.edu/admission/apply/firstyear/testing",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": null,
+  "pctSubmitting": null,
+  "doc": "CDS 2025-2026, C11/C12 left blank (0.00%)",
+  "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 75330,
+  "fees": 710,
+  "housingFood": 20320,
+  "books": null,
+  "personal": 1800,
+  "travel": "varies",
+  "total": 98160,
+  "totalIncludes": "direct costs billed: tuition 75,330 + housing 10,980 + meals 9,340 + student activities fee 710 = comprehensive fee 96,360; indirect: personal expenses 1,800; travel varies. No books line is listed (CDS G5 reports books 0). 98,160 is the sum of listed items, not a published total. Student health insurance 3,627 (fall-billed annual premium, waivable with comparable coverage) and optional tuition insurance 530 are billed in addition, bringing the billed total on the fees page to 100,517.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.amherst.edu/offices/financialaid/firstyear_transfer/costs_amherst",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Need-blind admission for all students, domestic and international; aid is need-based only (no merit scholarships) and Amherst is committed to meeting each student's entire calculated need. Amherst describes itself as a no-loan school (loans are optional); more than 80% of the Class of 2025 graduated with no student loan debt.",
+  "year": "current policy (2026-27)",
+  "url": "https://www.amherst.edu/admission/financial_aid",
+  "url2": "https://www.amherst.edu/offices/financialaid"
+ },
+ "plans": {
+  "ed": true,
+  "ed2": false,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 9, 2026 (Early Decision)",
+   "regular": "January 5, 2027"
+  },
+  "url": "https://www.amherst.edu/admission/apply/firstyear/calendar_deadlines"
+ },
+ "facts": [
+  {
+   "text": "Amherst is need-blind for international applicants too, yet 6,346 of its 15,819 fall 2025 applicants were international and only 92 of them were admitted.",
+   "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+  },
+  {
+   "text": "Massachusetts residents filed 1,061 applications and received 123 admissions; out-of-state U.S. applicants filed 8,412 and received 1,007.",
+   "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+  },
+  {
+   "text": "For fall 2025, 971 students applied Early Decision and 216 were admitted; Amherst says about 17 percent of admitted applicants come through ED.",
+   "url": "https://www.amherst.edu/admission/apply/firstyear"
+  },
+  {
+   "text": "Amherst says a year of education actually costs it about $140,000, more than the $96,360 comprehensive fee for 2026-27; endowment and gifts cover the gap.",
+   "url": "https://www.amherst.edu/offices/financialaid/firstyear_transfer/costs_amherst"
+  },
+  {
+   "text": "The waiting list produced 44 admits for fall 2025 out of 740 students who accepted a place on it.",
+   "url": "https://www.amherst.edu/system/files/C.%20First-Time%20First-Year%20Admission%202025-26_0.pdf"
+  }
+ ],
+ "notes": "amherst.edu returns HTTP 405 to curl and WebFetch; the CDS section PDFs (listed on https://www.amherst.edu/about/facts/common_data_sets/2025) and the admission/aid pages were opened in Chrome, so no PDF copy is saved in .cache-raw. C1 detail: 7,425 men + 8,375 women applied (total 15,819 includes students without gender data); 539 men + 682 women + 1 another gender admitted. The C9 question label in the PDF says 'Fall 2024' but section C is headed Fall 2025 and the file is the 2025-26 CDS. Number of students offered a waiting-list place is blank. CDS G1 (tuition 73,140, fees 690, food and housing 19,260) is 2025-26, with the 2026-27 'not available' box checked; cost uses the financial aid 2026-27 pages. ED deadline on the calendar page was read as November 9, 2026 from the first-year page; the CDS 2025-26 ED fields are hard to align (7-Nov / 15-Dec). No official fall 2026 counts found."
+}

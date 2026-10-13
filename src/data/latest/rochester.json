@@ -1,0 +1,106 @@
+{
+ "slug": "rochester",
+ "cycle": {
+  "label": "Fall 2025 entering class (Class of 2029)",
+  "applicants": 21609,
+  "admitted": 9056,
+  "enrolled": 1231,
+  "doc": "University of Rochester Common Data Set 2025-2026, C1 (Excel version)",
+  "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.xlsx",
+  "accessed": "2026-10-12"
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1400,
+   1450,
+   1510
+  ],
+  "satEbrw": [
+   680,
+   720,
+   750
+  ],
+  "satMath": [
+   700,
+   740,
+   780
+  ],
+  "act": [
+   31,
+   33,
+   34
+  ],
+  "pctSat": 0.157,
+  "pctAct": 0.064,
+  "doc": "CDS 2025-2026, C9 (196 SAT submitters, 80 ACT submitters)",
+  "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.pdf"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "Test-optional for all applicants: at submission, applicants choose to apply test-optional or test-flexible. Test-flexible means submitting any of SAT, ACT, or two or more results from AP, IB, A-Level or other national exams; self-reported scores are accepted and verified after enrollment. Not submitting is not a disadvantage for admission or scholarships.",
+  "since": null,
+  "url": "https://admissions.rochester.edu/applying/testing-policies/",
+  "accessed": "2026-10-12"
+ },
+ "gpa": {
+  "average": 3.726,
+  "pctSubmitting": 0.999,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.pdf"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": 71750,
+  "fees": 1622,
+  "housingFood": 21328,
+  "books": 0,
+  "personal": 1022,
+  "travel": 300,
+  "total": 96022,
+  "totalIncludes": "residential students: tuition 71,750 + mandatory fees 1,622 + housing 12,822 + food 8,506 + transportation 300 + personal 1,022 = 96,022. Textbooks and select course materials are included in tuition through the UR Essentials program (books 0). Standard travel shown; higher travel allowances apply to international and most out-of-state students.",
+  "inState": null,
+  "outOfState": null,
+  "url": "https://www.rochester.edu/financial-aid/undergraduate-tuition-expenses/",
+  "accessed": "2026-10-12"
+ },
+ "aidPromise": null,
+ "plans": {
+  "ed": true,
+  "ed2": true,
+  "ea": false,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Decision I, decision mid-December); January 5 (Early Decision II, decision early February); December 1 non-binding priority scholarship deadline",
+   "regular": "January 5 (decision April 1)"
+  },
+  "url": "https://admissions.rochester.edu/applying/dates-and-deadlines/"
+ },
+ "facts": [
+  {
+   "text": "Rochester admits a much larger share of applicants than most peers: 9,056 of 21,609 for fall 2025, with 1,231 enrolling.",
+   "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.pdf"
+  },
+  {
+   "text": "Merit aid is common: about 75 percent of admitted students were awarded a merit scholarship for 2026-27, averaging around $20,000, and all admitted applicants are considered.",
+   "url": "https://www.rochester.edu/financial-aid/scholarships/"
+  },
+  {
+   "text": "Applying by the non-binding December 1 priority scholarship deadline gives the highest scholarship consideration.",
+   "url": "https://admissions.rochester.edu/applying/dates-and-deadlines/"
+  },
+  {
+   "text": "Textbooks and select course materials are included in tuition (UR Essentials), so the 2026-27 residential cost of attendance of $96,022 has no separate books line.",
+   "url": "https://www.rochester.edu/financial-aid/undergraduate-tuition-expenses/"
+  },
+  {
+   "text": "Almost one-third of the entering class applied Early Decision; for fall 2025, 472 of 1,129 ED applicants were admitted.",
+   "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.pdf"
+  },
+  {
+   "text": "Only 15.7 percent of fall 2025 enrollees submitted SAT scores and 6.4 percent ACT scores, so the published score ranges cover a small minority.",
+   "url": "https://www.rochester.edu/provost/wp-content/uploads/2026/06/CDS-2025-26-completed-for-web.pdf"
+  }
+ ],
+ "notes": "The CDS PDF text extracts poorly (letter-spaced), so values were read from the official Excel version published alongside it; both files saved in .cache-raw/cds. C1: applied 10,660 men + 10,932 women + 17 unknown = 21,609; admitted 4,142 + 4,904 + 10 = 9,056; enrolled 629 + 599 + 3 = 1,231. The residency row has three non-empty values (4,551 / 9,060 / 7,998 applied) whose column positions could not be confirmed, so no in-state split is reported. 262 students admitted from the waiting list. CDS G1 (2026-27) matches the financial aid office (tuition 71,750, fees 1,622, housing 12,822) except food: CDS 8,750 (Meliora Unlimited plan) vs 8,506 on the financial aid page; the financial aid page was used. No general aid promise (full need, no loans, income threshold) found on the financial aid pages opened, so aidPromise is null. No official fall 2026 figures found."
+}

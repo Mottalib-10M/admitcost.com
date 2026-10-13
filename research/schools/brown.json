@@ -1,27 +1,92 @@
 {
   "slug": "brown",
-  "cycle": { "label": "Fall 2025 entering class (Class of 2029)", "applicants": 42774, "admitted": 2710, "enrolled": 1719,
-             "doc": "Brown University Common Data Set 2025-2026, C1 (interactive Tableau publication of the Office of Institutional Research: 17,972 men + 24,771 women + 31 unknown applied; 1,375 + 1,335 admitted; 844 + 875 enrolled)", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions", "accessed": "2026-10-13" },
-  "cycleNewer": { "label": "Fall 2026 entering class (Class of 2030)", "applicants": 47944, "admitted": 2687, "enrolled": 1723,
-                  "doc": "Brown Admission by the Numbers page: 47,944 applications, 2,687 admitted (5.6%), 889 admitted Early Decision, 1,723 total first-year students; admitted-student SAT middle 50% 1470-1550, ACT 34-36", "url": "https://admission.brown.edu/explore/brown-admission-numbers", "accessed": "2026-10-13" },
-  "scores": { "satComposite": [1470, 1520, 1550], "satEbrw": [730, 750, 770], "satMath": [730, 770, 790], "act": [33, 35, 35],
-              "pctSat": 0.77, "pctAct": 0.28, "doc": "CDS 2025-2026, C9 (1,348 SAT submitters, 488 ACT submitters)", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" },
-  "testPolicy": { "status": "required", "text": "Brown requires SAT or ACT scores for first-year applicants (superscored; essay/writing optional; ACT Science optional since spring 2025). CDS C8F: required for all first-year students except first-year veterans applying via the veteran application.", "since": "2024-25 admission cycle (fall 2025 entry)",
-                  "url": "https://admission.brown.edu/first-year/standardized-tests", "accessed": "2026-10-13" },
-  "gpa": { "average": null, "pctSubmitting": null, "doc": "CDS 2025-2026, C11-C12: 'Brown does not collect GPA' (C10: 93% in top tenth of class, 29% submitted rank)", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" },
-  "cost": { "year": "2026-27", "tuition": 74568, "fees": 3084, "housingFood": 19464, "books": null, "personal": 2878, "travel": null,
-            "total": 99994, "totalIncludes": "Incoming first-year full-time student: tuition 74,568 + fees 3,084 (includes 100 academic record fee for first-time students) + housing 10,710 + food 8,754 (direct charges 97,116) + miscellaneous personal 2,878. Books are not a separate line (most scholarship students are in a book/course materials program); travel not included.",
-            "inState": null, "outOfState": null,
-            "url": "https://finaid.brown.edu/estimate-cost-aid/cost", "accessed": "2026-10-13" },
-  "aidPromise": { "text": "Need-blind admission and 100 percent of demonstrated need met; The Brown Promise eliminates packaged loans from all undergraduate aid offers (100% of aided students have no loans in their packages); $0 parent contribution for most families with less than $60,000 in annual income.", "year": "current, as published in 2026", "url": "https://admission.brown.edu/tuition-aid" },
-  "plans": { "ed": true, "ed2": false, "ea": false, "rea": false, "deadlines": { "early": "November 1 (Early Decision, binding, notification mid-December)", "regular": "January 5 (decision by early April)" }, "url": "https://admission.brown.edu/first-year" },
+  "cycle": null,
+  "cycleNewer": {
+    "label": "Fall 2026 entering class (Class of 2030)",
+    "applicants": 47944,
+    "admitted": 2687,
+    "enrolled": 1723,
+    "doc": "Brown Admission by the Numbers page: 47,944 applications, 2,687 admitted (5.6%), 889 admitted Early Decision, 1,723 total first-year students; admitted-student SAT middle 50% 1470-1550, ACT 34-36",
+    "url": "https://admission.brown.edu/explore/brown-admission-numbers",
+    "accessed": "2026-10-13"
+  },
+  "scores": {
+    "satComposite": [
+      1470,
+      1550
+    ],
+    "satEbrw": null,
+    "satMath": null,
+    "act": [
+      34,
+      36
+    ],
+    "pctSat": null,
+    "pctAct": null,
+    "doc": "Class of 2030 admitted students who submitted scores, middle 50% (Brown Admission by the Numbers)",
+    "url": "https://admission.brown.edu/explore/brown-admission-numbers"
+  },
+  "testPolicy": {
+    "status": "required",
+    "text": "Brown requires SAT or ACT scores for first-year applicants (superscored; essay/writing optional; ACT Science optional since spring 2025). CDS C8F: required for all first-year students except first-year veterans applying via the veteran application.",
+    "since": "2024-25 admission cycle (fall 2025 entry)",
+    "url": "https://admission.brown.edu/first-year/standardized-tests",
+    "accessed": "2026-10-13"
+  },
+  "gpa": {
+    "average": null,
+    "pctSubmitting": null,
+    "doc": "Brown does not publish an average GPA on the pages readable without a browser",
+    "url": "https://admission.brown.edu/explore/brown-admission-numbers"
+  },
+  "cost": {
+    "year": "2026-27",
+    "tuition": 74568,
+    "fees": 3084,
+    "housingFood": 19464,
+    "books": null,
+    "personal": 2878,
+    "travel": null,
+    "total": 99994,
+    "totalIncludes": "Incoming first-year full-time student: tuition 74,568 + fees 3,084 (includes 100 academic record fee for first-time students) + housing 10,710 + food 8,754 (direct charges 97,116) + miscellaneous personal 2,878. Books are not a separate line (most scholarship students are in a book/course materials program); travel not included.",
+    "inState": null,
+    "outOfState": null,
+    "url": "https://finaid.brown.edu/estimate-cost-aid/cost",
+    "accessed": "2026-10-13"
+  },
+  "aidPromise": {
+    "text": "Need-blind admission and 100 percent of demonstrated need met; The Brown Promise eliminates packaged loans from all undergraduate aid offers (100% of aided students have no loans in their packages); $0 parent contribution for most families with less than $60,000 in annual income.",
+    "year": "current, as published in 2026",
+    "url": "https://admission.brown.edu/tuition-aid"
+  },
+  "plans": {
+    "ed": true,
+    "ed2": false,
+    "ea": false,
+    "rea": false,
+    "deadlines": {
+      "early": "November 1 (Early Decision, binding, notification mid-December)",
+      "regular": "January 5 (decision by early April)"
+    },
+    "url": "https://admission.brown.edu/first-year"
+  },
   "facts": [
-    { "text": "Early Decision is a large advantage: for fall 2025, 907 of 5,062 Early Decision applicants were admitted (17.9%), against 1,803 of the other 37,712 applicants (4.8%).", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" },
-    { "text": "For the Class of 2030 (fall 2026), Brown received 47,944 applications and admitted 2,687 (5.6%), 889 of them through Early Decision.", "url": "https://admission.brown.edu/explore/brown-admission-numbers" },
-    { "text": "Brown does not collect high school GPA; 93% of fall 2025 enrollees who reported a class rank were in the top tenth of their class.", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" },
-    { "text": "Rhode Island residents are a tiny pool: 63 of 559 in-state applicants were admitted for fall 2025, against 2,243 of 32,351 other US applicants and 404 of 9,861 international applicants.", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" },
-    { "text": "The 2026-27 cost of attendance for an incoming first-year is $99,994, and The Brown Promise means no loans are packaged in aid offers.", "url": "https://finaid.brown.edu/estimate-cost-aid/cost" },
-    { "text": "Brown admitted 295 students from its waiting list for fall 2025.", "url": "https://tableau.brown.edu/t/PublicContent/views/CommonDataSet/C-Admissions" }
+    {
+      "text": "For the Class of 2030 (fall 2026), Brown received 47,944 applications and admitted 2,687 (5.6%), 889 of them through Early Decision.",
+      "url": "https://admission.brown.edu/explore/brown-admission-numbers"
+    },
+    {
+      "text": "Brown admitted 889 students through binding Early Decision for the Class of 2030, about a third of the 2,687 admits.",
+      "url": "https://admission.brown.edu/explore/brown-admission-numbers"
+    },
+    {
+      "text": "The 2026-27 cost of attendance for an incoming first-year is $99,994, and The Brown Promise means no loans are packaged in aid offers.",
+      "url": "https://finaid.brown.edu/estimate-cost-aid/cost"
+    },
+    {
+      "text": "Brown also runs two small combined programs with their own pools: Brown|RISD Dual Degree (856 applicants, 20 enrolled) and the eight-year medical program PLME (4,687 applicants, 50 enrolled).",
+      "url": "https://admission.brown.edu/explore/brown-admission-numbers"
+    }
   ],
-  "notes": "Brown publishes its CDS only as a Tableau dashboard (linked from https://oir.brown.edu/institutional-data/common-data-set); C-section figures were read on screen in Chrome (tab C - Admissions, year 2025-2026), G-section values cross-checked via the Tableau CSV export (G-Expenses: housing 10,710, food 8,754, other 2,878). Waitlist offered/accepted are N/A in the CDS. Class of 2030 figures are from the admission office page, not a CDS. Brown's tuition-aid page also links 'New Student Tuition and Fees for the 2025-2026 Academic Year' but the finaid cost page gives 2026-27, which is used. I did not find on Brown pages opened a statement about need-aware treatment of international applicants or a $200,000 tuition-free tier, so neither is claimed. ED/RD split computed from CDS C21 counts. Accessed 2026-10-13."
+  "notes": "Brown publishes its CDS only as a Tableau dashboard (https://oir.brown.edu/institutional-data/common-data-set). The project forbids reading pages in a browser, and the Tableau CSV export only returns one worksheet per dashboard, so the CDS C section (fall 2025 counts, C9 enrolled scores, ED counts, residency, waitlist) is not used: cycle is null and the newest cycle comes from the admission office page (Class of 2030, fall 2026: 47,944 applications, 2,687 admitted, 1,723 first-year students, 889 admitted Early Decision). Scores are the Class of 2030 admitted-student middle 50% from the same page (admitted, not enrolled; 25th-75th only). The G-section values (housing 10,710, food 8,754, other 2,878) were cross-checked through the Tableau CSV export of G-Expenses, which curl can read. Brown's tuition-aid page also links 'New Student Tuition and Fees for the 2025-2026 Academic Year' but the finaid cost page gives 2026-27, which is used. I did not find on Brown pages a statement about need-aware treatment of international applicants or a $200,000 tuition-free tier, so neither is claimed. Accessed 2026-10-13."
 }
