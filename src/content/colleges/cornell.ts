@@ -10,7 +10,7 @@ const ny = (cost as unknown as { contractCollegeNyResident: { tuition: number; t
 export default defineCollege({
   slug: 'cornell',
   title: `Cornell Acceptance Rate 2026: ${K.rate('cornell')}, New York Tuition Edge`,
-  description: `Cornell admitted ${K.rate('cornell')} of applicants for fall 2025; New York residents in contract colleges pay ${K.usd(ny.tuition)} tuition. 2026 SAT range and net price.`,
+  description: `Cornell admitted ${K.rate('cornell')} of applicants for fall 2025; New York residents in contract colleges pay ${K.usd(ny.tuition)} tuition. 2026 SAT range and net price by family income.`,
   intro: `Cornell admitted ${K.rate('cornell')} of applicants for fall 2025, the highest rate in the Ivy League, and New York students in its contract colleges pay about a third less tuition.`,
   resume: `Cornell's acceptance rate for the class that entered in fall 2025 (Class of 2029) is ${K.rate('cornell')}: ${K.num(c.admitted)} admitted from ${K.num(c.applicants)} applicants, with ${K.num(c.enrolled!)} enrolling, according to Cornell's Common Data Set 2025-2026. That class applied before scores were required; students applying now must send the SAT or ACT. Enrolled students who reported the SAT scored ${K.satRange('cornell')} in the middle half. The ${cost.year} cost of attendance in the endowed colleges is ${K.sticker('cornell')} before travel, but New York residents in the state contract colleges pay ${K.usd(ny.tuition)} of tuition and ${K.usd(ny.total)} in total. In ${K.meta.years.net}, aided families paid ${K.net('cornell', 1)} on average between $30,001 and $48,000 and ${K.net('cornell', 3)} between $75,001 and $110,000. Under $75,000, aid offers carry no loans and no parent contribution.`,
   body: (h) => `
