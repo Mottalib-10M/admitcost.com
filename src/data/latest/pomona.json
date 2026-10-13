@@ -101,6 +101,14 @@
   {
    "text": "In the Class of 2029, 48% submitted test scores and 52% did not; Pomona says there is no admissions advantage to submitting an SAT or ACT.",
    "url": "https://www.pomona.edu/news/2025/09/12-pomona-college-class-2029-profile"
+  },
+  {
+   "text": "The Class of 2029 counts 210 Early Decision matriculants, 204 Regular Decision matriculants and 7 prior gap-year matriculants.",
+   "url": "https://www.pomona.edu/about/profile-who-goes-pomona"
+  },
+  {
+   "text": "Aided Pomona students taking classes at the other Claremont Colleges can appeal for book funding capped at $90 per course and $200 per semester.",
+   "url": "https://www.pomona.edu/financial-aid/cost-attendance"
   }
  ],
  "notes": "Pomona publishes its CDS only as Tableau dashboards (listed on https://www.pomona.edu/administration/institutional-research/information-center/common-data-set). The C1 counts were read from the CSV export and the PDF export (saved as .cache-raw/cds/pomona_cds_2025-26_C_First-timeFirst-yearadmission.csv/.pdf); 12,470 matches the Class of 2029 profile. In the PDF export the six SAT EBRW and Math percentile values (790, 770, 770, 755, 740, 730) are in one unordered block, so only the medians published in the Class of 2029 profile (EBRW 755, Math 770) are recorded; 25th and 75th are null. ACT columns read left to right as 25th/50th/75th (confirmed by ACT Writing 7/8/10). The Tableau C9 label says 'Fall 2024' and C8 'Fall 2026', but the counts match the Class of 2029. Waiting-list order read as offered 1,017 / accepted 716 / admitted 31 (labels are run together). CDS G figures equal the 2026-27 cost page. The ED share in facts is computed (227 / 890). No official fall 2026 counts found."

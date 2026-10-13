@@ -1,0 +1,153 @@
+{
+ "slug": "uw-madison",
+ "cycle": {
+  "label": "Fall 2025 entering class",
+  "applicants": 73912,
+  "admitted": 30167,
+  "enrolled": 8495,
+  "doc": "University of Wisconsin-Madison Common Data Set 2025-2026 (Excel), C1",
+  "url": "https://uwmadison.box.com/s/ilx9kil11ninf8vwj1z87vumhuvpw4px",
+  "url2": "https://data.wisc.edu/common-data-set-and-rankings/",
+  "accessed": "2026-10-13",
+  "byResidency": {
+   "inState": [
+    10058,
+    5672,
+    3831
+   ],
+   "outOfState": [
+    49463,
+    19948,
+    4174
+   ],
+   "international": [
+    14391,
+    4547,
+    490
+   ],
+   "order": "applied, admitted, enrolled"
+  },
+  "waitlist": {
+   "offered": 6476,
+   "accepted": 4317,
+   "admitted": 1088
+  }
+ },
+ "cycleNewer": null,
+ "scores": {
+  "satComposite": [
+   1400,
+   1450,
+   1490
+  ],
+  "satEbrw": [
+   680,
+   710,
+   740
+  ],
+  "satMath": [
+   700,
+   740,
+   780
+  ],
+  "act": [
+   29,
+   31,
+   33
+  ],
+  "pctSat": 0.118,
+  "pctAct": 0.287,
+  "doc": "CDS 2025-2026, C9 (1,000 SAT submitters, 2,437 ACT submitters)",
+  "url": "https://uwmadison.box.com/s/ilx9kil11ninf8vwj1z87vumhuvpw4px"
+ },
+ "testPolicy": {
+  "status": "optional",
+  "text": "The UW System Board of Regents authorized UW-Madison to waive the ACT/SAT requirement for first-year applicants through the spring 2028 term: students applying for spring 2027, fall 2027 and spring 2028 do not have to submit a score and are not disadvantaged without one. No decision yet for fall 2028 and beyond; the university recommends planning to take a test.",
+  "since": "test-optional since the 2020 waiver; current waiver runs through the spring 2028 term",
+  "url": "https://admissions.wisc.edu/act_sat_faq/",
+  "accessed": "2026-10-13"
+ },
+ "gpa": {
+  "average": 3.91,
+  "pctSubmitting": 0.94,
+  "doc": "CDS 2025-2026, C12",
+  "url": "https://uwmadison.box.com/s/ilx9kil11ninf8vwj1z87vumhuvpw4px"
+ },
+ "cost": {
+  "year": "2026-27",
+  "tuition": null,
+  "fees": null,
+  "housingFood": null,
+  "books": null,
+  "personal": null,
+  "travel": null,
+  "total": null,
+  "totalIncludes": "Office of Student Financial Aid, 2026-27 estimated academic-year cost of attendance (nine months, full time): tuition and fees, required course materials and supplies, housing and meals, personal, transportation, loan fees 68. Not included: a new student fee of about 330 for first-year students, the 1,100 computer allowance added for incoming undergraduates, and tuition differentials (engineering about 3,200, nursing 1,500, business 3,000).",
+  "inState": {
+   "tuition": 12532,
+   "fees": null,
+   "housingFood": 14994,
+   "books": 700,
+   "personal": 2618,
+   "travel": 612,
+   "total": 31524,
+   "note": "tuition line is 'Tuition & Fees'; CDS 2025-26 G1: tuition 10,716.72 plus required fees 1,699.48"
+  },
+  "outOfState": {
+   "tuition": 45518,
+   "fees": null,
+   "housingFood": 14994,
+   "books": 700,
+   "personal": 2618,
+   "travel": 1222,
+   "total": 65120,
+   "note": "Minnesota residents (tuition reciprocity) have their own column: tuition and fees 18,328, transportation 866, total 37,574"
+  },
+  "url": "https://financialaid.wisc.edu/cost-of-attendance/",
+  "accessed": "2026-10-13"
+ },
+ "aidPromise": {
+  "text": "Bucky's Tuition Promise guarantees scholarships and grants that pay tuition and segregated fees for Wisconsin resident students whose household adjusted gross income is $65,000 or less: eight consecutive semesters (4 years) for incoming first-year students, four semesters for transfers. Only income, not assets, counts. Bucky's Pell Pathway adds, for Pell Grant-eligible Wisconsin residents, grants, scholarships and work-study sufficient to meet financial need without loans.",
+  "year": "Tuition Promise since 2018 (threshold now $65,000)",
+  "url": "https://financialaid.wisc.edu/types-of-aid/tuition-promise/",
+  "url2": "https://financialaid.wisc.edu/types-of-aid/pell-pathway/"
+ },
+ "plans": {
+  "ed": false,
+  "ed2": false,
+  "ea": true,
+  "rea": false,
+  "deadlines": {
+   "early": "November 1 (Early Action, non-binding, materials by November 9, decision on or before January 31)",
+   "regular": "January 15 (Regular Decision, materials by January 22, decision on or before March 31)"
+  },
+  "url": "https://admissions.wisc.edu/deadlines/"
+ },
+ "facts": [
+  {
+   "text": "For fall 2025, UW-Madison admitted 5,672 of 10,058 Wisconsin applicants and 19,948 of 49,463 out-of-state applicants; 3,831 of the 8,495 enrolled first-years were Wisconsin residents.",
+   "url": "https://uwmadison.box.com/s/ilx9kil11ninf8vwj1z87vumhuvpw4px"
+  },
+  {
+   "text": "Bucky's Tuition Promise covers four years of tuition and segregated fees for Wisconsin residents whose household adjusted gross income is $65,000 or less, counting income only, not assets.",
+   "url": "https://financialaid.wisc.edu/types-of-aid/tuition-promise/"
+  },
+  {
+   "text": "Minnesota residents pay a reciprocity rate: their 2026-27 budget is 37,574, against 31,524 for Wisconsin residents and 65,120 for other nonresidents.",
+   "url": "https://financialaid.wisc.edu/cost-of-attendance/"
+  },
+  {
+   "text": "Testing is optional for applicants through the spring 2028 term, and only 1,000 of the fall 2025 enrolled first-years submitted an SAT score, against 2,437 who sent an ACT.",
+   "url": "https://admissions.wisc.edu/act_sat_faq/"
+  },
+  {
+   "text": "Engineering, nursing and business students pay a tuition differential on top of the standard budget (estimated 3,200, 1,500 and 3,000 a year).",
+   "url": "https://financialaid.wisc.edu/cost-of-attendance/"
+  },
+  {
+   "text": "For fall 2025, 4,317 students accepted a place on the waiting list and 1,088 of them were admitted.",
+   "url": "https://uwmadison.box.com/s/ilx9kil11ninf8vwj1z87vumhuvpw4px"
+  }
+ ],
+ "notes": "CDS 2025-26 Excel downloaded from UW-Madison's Box link listed on data.wisc.edu (file id 2339108500297). C1: applied 36,086 men + 37,800 women + 26 unknown = 73,912; admitted 13,597 + 16,559 + 11 = 30,167; enrolled 3,524 + 4,971 = 8,495. C9: 11.8% submitted the SAT, 28.7% the ACT. C12 GPA 3.91 (94% submitting). CDS G1 2026-27: tuition 10,716.72 in-state, 44,232 out-of-state (45,232.08 nonresident alien), required fees 1,699.48, food and housing 14,994; 25.3% of undergraduates pay more than G1 because of program differentials. The 2025-26 budget on the same page was 30,644 resident and 63,268 nonresident."
+}
