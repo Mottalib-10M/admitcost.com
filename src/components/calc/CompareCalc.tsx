@@ -44,7 +44,7 @@ export default function CompareCalc({ schools, defaults, rule, bands, bandLabels
   );
   return (
     <div className="rechner rounded-xl border border-navy-200 bg-white p-4 sm:p-6">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-3" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-3" onSubmit={(e) => e.preventDefault()}>
         <SelectField id="cmp-a" label="University 1" value={a} onChange={setA} options={options} />
         <SelectField id="cmp-b" label="University 2" value={b} onChange={setB} options={options} />
         <SelectField id="cmp-c" label="University 3 (optional)" value={c} onChange={setC} options={[{ value: '', label: 'None' }, ...options]} />
